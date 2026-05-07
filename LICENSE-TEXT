@@ -1,0 +1,31 @@
+Constitutional Text — Licensing Notice
+=======================================
+
+The text content under `articles/`, `schedules/`, and `parts/` reproduces the
+Constitution of India as published by the Government of India (primarily the
+Lok Sabha and the Legislative Department, Ministry of Law and Justice).
+
+The licensing status of Government of India legislative text under Indian
+copyright law is currently being reviewed for this project. Until that review
+concludes, the following interim terms apply:
+
+1. The text is reproduced from public Government of India sources, faithfully
+   and without commentary or alteration of substance, for the purposes of
+   research, journalism, education, and public access.
+
+2. Source provenance for every commit is recorded in
+   `metadata/provenance.json` and in the corresponding commit messages.
+
+3. This project is best-effort and explicitly NOT legal advice, NOT
+   authoritative, and NOT a substitute for the official text published by the
+   Government of India. For any legal use, refer to:
+       - https://www.indiacode.nic.in
+       - The Gazette of India
+       - The official Lok Sabha publication
+
+4. If you are a rights-holder and have concerns about the reproduction of
+   this text, please open an issue on the GitHub repository or contact the
+   maintainer; the project will respond promptly and in good faith.
+
+A final license determination will be added here once the review is complete.
+See PRD §9 (Open Question Q3) for context.

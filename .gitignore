@@ -1,0 +1,41 @@
+# Pipeline working directory — uncached LLM responses, working PDFs, intermediate JSON.
+# Do not commit. See PRD §5 and handoff §5.
+pipeline/intermediate/
+pipeline/.cache/
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+.env.local
+.envrc
+
+# uv / poetry / pip
+uv.lock.bak
+.python-version
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local notes / scratch
+scratch/
+TODO.local.md
