@@ -1,7 +1,9 @@
-"""CLI entry point for the indian-law-git pipeline.
+"""CLI entry point for the indian-law-git pipeline."""
+from __future__ import annotations
 
-Stub: subcommands will be wired up as pipeline modules come online.
-"""
+import logging
+
+import httpx
 import typer
 
 app = typer.Typer(help="indian-law-git pipeline CLI", no_args_is_help=True)
@@ -19,6 +21,48 @@ def version() -> None:
 def info() -> None:
     """Print pipeline status (stubs)."""
     typer.echo("indian-law-git pipeline — Phase 0 (scaffolded). Modules are stubs.")
+
+
+@app.command("scrape-clpr")
+def scrape_clpr(
+    limit: int = typer.Option(0, "--limit", "-n", help="Stop after this many URLs (0 = all)."),
+    throttle: float = typer.Option(1.5, "--throttle", help="Seconds between requests on cache miss."),
+    verbose: bool = typer.Option(False, "--verbose", "-v"),
+) -> None:
+    """Scrape constitutionofindia.net for the 1950-enacted article texts."""
+    from pipeline.extract import clpr
+
+    logging.basicConfig(
+        level=logging.INFO if verbose else logging.WARNING,
+        format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    )
+
+    headers = {"User-Agent": clpr.USER_AGENT}
+    n_seen = 0
+    n_baseline = 0
+    n_skipped_no_1950 = 0
+    with httpx.Client(headers=headers) as client:
+        urls = clpr.discover_article_urls(client)
+        typer.echo(f"sitemap: {len(urls)} article URLs")
+        for url in urls:
+            if limit and n_seen >= limit:
+                break
+            n_seen += 1
+            try:
+                article = clpr.scrape_article(url, client)
+            except httpx.HTTPError as e:
+                typer.echo(f"  [error] {url}: {e}", err=True)
+                continue
+            if article is None:
+                n_skipped_no_1950 += 1
+                continue
+            out = clpr.write_record(article)
+            n_baseline += 1
+            if verbose:
+                typer.echo(f"  [{article.number}] {article.title[:60]}  -> {out.name}")
+    typer.echo(
+        f"done: scanned={n_seen} baseline={n_baseline} skipped_no_1950={n_skipped_no_1950}"
+    )
 
 
 if __name__ == "__main__":

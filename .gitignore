@@ -4,6 +4,11 @@ pipeline/intermediate/
 pipeline/.cache/
 .cache/
 
+# Reference source PDFs and OCR text — too large for git, kept locally.
+# Provenance (URL + SHA-256) is recorded in metadata/provenance.json instead.
+docs/*.pdf
+docs/*.txt
+
 # Python
 __pycache__/
 *.py[cod]
