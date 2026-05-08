@@ -48,6 +48,19 @@ def render_parts(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None
     written = md.render_all_parts()
     typer.echo(f"done: written={written} -> {md.PARTS_OUT}")
 
+@app.command("render-schedules")
+def render_schedules(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
+    """Render schedules/schedule-NN.md from scraped CLPR schedule segments."""
+    from pipeline.render import markdown as md
+
+    logging.basicConfig(
+        level=logging.INFO if verbose else logging.WARNING,
+        format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    )
+    written, missing = md.render_all_schedules()
+    suffix = f" missing_schedules={missing}" if missing else ""
+    typer.echo(f"done: written={written}{suffix} -> {md.SCHEDULES_OUT}")
+
 
 @app.command("extract-manuscript")
 def extract_manuscript(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
@@ -118,6 +131,23 @@ def scrape_clpr(
                 typer.echo(f"  [{article.number}] {article.title[:60]}  -> {out.name}")
     typer.echo(
         f"done: scanned={n_seen} baseline={n_baseline} skipped_no_1950={n_skipped_no_1950}"
+    )
+
+@app.command("scrape-clpr-schedules")
+def scrape_clpr_schedules(
+    throttle: float = typer.Option(1.5, "--throttle", help="Seconds between requests on cache miss."),
+    verbose: bool = typer.Option(False, "--verbose", "-v"),
+) -> None:
+    """Scrape constitutionofindia.net for the 1950-enacted schedule texts."""
+    from pipeline.extract import clpr_schedules
+
+    logging.basicConfig(
+        level=logging.INFO if verbose else logging.WARNING,
+        format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    )
+    n_scanned, n_emitted, n_skipped = clpr_schedules.scrape_all(throttle_s=throttle)
+    typer.echo(
+        f"done: scanned={n_scanned} emitted={n_emitted} skipped_post_1950={n_skipped}"
     )
 
 

@@ -136,7 +136,12 @@ def _block_to_paragraph(node: Tag) -> str:
 
 
 def html_body_to_markdown(body_html: str) -> str:
-    """Convert a CLPR-style article body fragment to Markdown paragraphs."""
+    """Convert a CLPR-style body fragment to Markdown paragraphs.
+
+    Handles top-level <p>/<div>, ordered/unordered lists, and unknown elements
+    via a best-effort inline pass. Sub-clause indentation is preserved by
+    rendering each block as its own paragraph.
+    """
     soup = BeautifulSoup(body_html, "lxml")
     # CLPR sometimes wraps in <html><body> via lxml; iterate top-level blocks.
     root = soup.body if soup.body is not None else soup
@@ -148,6 +153,14 @@ def html_body_to_markdown(body_html: str) -> str:
                 paragraphs.append(text)
             continue
         if not hasattr(child, "name") or child.name is None:
+            continue
+        if child.name == "ol":
+            items = [_inline_md(li).strip() for li in child.find_all("li", recursive=False)]
+            paragraphs.append("\n".join(f"{i}. {item}" for i, item in enumerate(items, 1) if item))
+            continue
+        if child.name == "ul":
+            items = [_inline_md(li).strip() for li in child.find_all("li", recursive=False)]
+            paragraphs.append("\n".join(f"- {item}" for item in items if item))
             continue
         if child.name in {"p", "div"}:
             para = _block_to_paragraph(child)
@@ -354,3 +367,128 @@ def render_all_parts() -> int:
         path = PARTS_OUT / f"part-{roman.lower()}.md"
         path.write_text(render_part(roman, title, lo, hi))
     return len(PART_RANGES)
+
+
+
+# ──────────────────────────── schedules ────────────────────────────
+
+SCHEDULES_OUT = REPO_ROOT / "schedules"
+SCHEDULES_SCRAPED = REPO_ROOT / "pipeline" / "intermediate" / "scraped" / "clpr-schedules"
+
+# Canonical title for each 1950 Schedule. Used because CLPR splits some
+# Schedules across multiple URLs each with its own h1; we want a unified
+# title at the top of the rendered Markdown file.
+SCHEDULE_TITLES: dict[int, str] = {
+    1: "First Schedule — The Territories",
+    2: "Second Schedule — Provisions as to the President, Governors, Speakers, Judges, and the Comptroller and Auditor-General",
+    3: "Third Schedule — Forms of Oaths or Affirmations",
+    4: "Fourth Schedule — Allocation of Seats in the Council of States",
+    5: "Fifth Schedule — Provisions as to the Administration and Control of Scheduled Areas and Scheduled Tribes",
+    6: "Sixth Schedule — Provisions as to the Administration of Tribal Areas in Assam",
+    7: "Seventh Schedule — Union, State and Concurrent Lists",
+    8: "Eighth Schedule — Languages",
+}
+
+# Documented gaps: CLPR data is missing or insufficient for these segments;
+# the rendered file includes a tombstone-like note pointing readers to the
+# situation. Future fills (manuscript transcription, etc.) close the gaps.
+SCHEDULE_GAPS: dict[tuple[int, str | None], str] = {
+    (2, "B"): (
+        "Part B of the Second Schedule (provisions as to the salaries of the Speaker "
+        "and the Deputy Speaker of the House of the People and the Chairman and the "
+        "Deputy Chairman of the Council of States, etc.) is not present on CLPR's "
+        "schedules-sitemap and remains a documented gap pending manuscript transcription."
+    ),
+    (7, "III"): (
+        "List III (Concurrent List) on CLPR does not carry a Version 2 (1950) "
+        "section — only the current consolidated text is shown. Because the "
+        "42nd Amendment, 1976, moved items between State List and Concurrent "
+        "List, the current text is not a faithful 1950 baseline and this segment "
+        "is a documented gap pending manuscript transcription."
+    ),
+}
+
+
+def _load_schedule_segments() -> dict[int, list[dict]]:
+    """Group scraped CLPR schedule segments by schedule_number."""
+    by_schedule: dict[int, list[dict]] = {}
+    if not SCHEDULES_SCRAPED.exists():
+        return by_schedule
+    for path in sorted(SCHEDULES_SCRAPED.glob("*.json")):
+        d = json.loads(path.read_text())
+        n = d["schedule_number"]
+        by_schedule.setdefault(n, []).append(d)
+    for segs in by_schedule.values():
+        segs.sort(key=lambda x: x["sub_part_order"])
+    return by_schedule
+
+
+def _render_schedule_segment(seg: dict) -> str:
+    """Convert one segment's body_html to Markdown, prefixed by a sub-part heading."""
+    body_md = html_body_to_markdown(seg["body_html"])
+    sub = seg["sub_part"]
+    title = seg["section_title"] or ""
+    if sub is None:
+        # Single-section schedule — no sub-heading needed
+        return body_md
+    return f"## {title}\n\n{body_md}"
+
+
+def render_schedule(n: int, segments: list[dict]) -> str:
+    """Build a single Markdown file for Schedule ``n`` from its segments."""
+    title = SCHEDULE_TITLES.get(n, f"Schedule {n}")
+    fm_lines = [
+        "---",
+        f"schedule: {n}",
+        f"title: {_yaml_quote(title)}",
+        "status: active",
+        "inserted_by: original",
+        "amended_by: []",
+        'current_as_of: "1950-01-26"',
+        "source: clpr",
+        "---",
+    ]
+    parts: list[str] = ["\n".join(fm_lines), "", f"# {title}", ""]
+    expected_subs = sorted(
+        {s for k, s in SCHEDULE_GAPS if k == n} | {seg["sub_part"] for seg in segments},
+        key=lambda x: (x is None, x or ""),
+    )
+    rendered_subs: set[str | None] = set()
+    for seg in segments:
+        parts.append(_render_schedule_segment(seg))
+        parts.append("")
+        rendered_subs.add(seg["sub_part"])
+    # Append gap notes for any expected sub-parts that we don't have content for.
+    for (sched_n, sub), note in SCHEDULE_GAPS.items():
+        if sched_n != n:
+            continue
+        if sub in rendered_subs:
+            continue
+        if sub is None:
+            heading = f"## (gap)"
+        else:
+            heading = f"## Part {sub} — gap"
+        parts.append(heading)
+        parts.append("")
+        parts.append(f"> **Documented gap.** {note}")
+        parts.append("")
+    return "\n".join(parts).rstrip() + "\n"
+
+
+def render_all_schedules() -> tuple[int, list[int]]:
+    """Render schedules/schedule-NN.md for each baseline schedule (1..8).
+
+    Returns (written, missing_schedule_numbers)."""
+    SCHEDULES_OUT.mkdir(parents=True, exist_ok=True)
+    by_schedule = _load_schedule_segments()
+    written = 0
+    missing: list[int] = []
+    for n in range(1, 9):
+        segs = by_schedule.get(n)
+        if not segs:
+            missing.append(n)
+            continue
+        out = SCHEDULES_OUT / f"schedule-{n:02d}.md"
+        out.write_text(render_schedule(n, segs))
+        written += 1
+    return written, missing
