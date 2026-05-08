@@ -88,18 +88,21 @@ def discover_article_urls(client: httpx.Client) -> list[str]:
 def _label_of_sub_block(sub_block: Tag) -> tuple[str, Tag] | tuple[None, None]:
     """Return (label_text, label_element) for the version label, or (None, None).
 
-    CLPR uses two label conventions:
+    CLPR uses three label conventions seen across the corpus:
       - ``<h4>Article N, Constitution of India 1950</h4>`` (e.g. Article 19)
-      - ``<p><strong>Article N, Constitution of India 1950</strong></p>`` where
-        the whole <p> is the bolded label (e.g. Article 17, 245)
-    The first non-empty child element of the sub-block is inspected.
+      - ``<p><strong>Article N, Constitution of India 1950</strong></p>``
+        where the whole <p> is the bolded label (e.g. Article 17, 245)
+      - ``<div><strong>Article N, Constitution of India 1950</strong></div>``
+        same shape as above but in a <div> (e.g. Article 284)
+    The first non-empty child element of the sub-block is inspected. <p> and
+    <div> qualify only when their sole text content comes from a <strong>.
     """
     for child in sub_block.children:
         if not hasattr(child, "name") or child.name is None:
             continue
         if child.name == "h4":
             return child.get_text(strip=True), child
-        if child.name == "p":
+        if child.name in {"p", "div"}:
             strong = child.find("strong")
             if strong and strong.get_text(strip=True) == child.get_text(strip=True):
                 return strong.get_text(strip=True), child

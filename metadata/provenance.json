@@ -1,0 +1,100 @@
+{
+  "schema_version": "1",
+  "sources": [
+    {
+      "id": "clpr-articles",
+      "kind": "scraper",
+      "name": "Centre for Law and Policy Research — per-article URLs",
+      "role": "primary baseline (1950) — 389 articles",
+      "url": "https://www.constitutionofindia.net/",
+      "discovered_via": "https://www.constitutionofindia.net/articles-sitemap.xml",
+      "retrieved": "2026-05-07",
+      "stats": {
+        "sitemap_url_count": 495,
+        "articles_emitted": 389
+      },
+      "notes": "Per-article pages parsed for the Version 2 (Constitution of India 1950) block; letter-suffixed slugs are excluded from the baseline as they are post-1950 insertions. CLPR labelling occasionally drifts (heading number ≠ slug number); the slug is treated as authoritative."
+    },
+    {
+      "id": "clpr-schedules",
+      "kind": "scraper",
+      "name": "Centre for Law and Policy Research — per-schedule URLs",
+      "role": "primary baseline (1950) — Schedules 1–8 (parts merged)",
+      "url": "https://www.constitutionofindia.net/",
+      "discovered_via": "https://www.constitutionofindia.net/schedules-sitemap.xml",
+      "retrieved": "2026-05-08",
+      "stats": {
+        "sitemap_url_count": 21,
+        "segments_emitted": 16
+      },
+      "notes": "8 baseline schedules sourced; post-1950 9th/10th/11th/12th excluded. Schedule 7 List III was filled from the manuscript because CLPR carries only the post-1976 consolidated form."
+    },
+    {
+      "id": "manuscript",
+      "kind": "manual-transcription",
+      "name": "Lok Sabha calligraphic manuscript of the Constitution of India",
+      "role": "primary baseline fill (6 articles, 2 schedule sub-parts) + spot-check ground truth (5 articles)",
+      "url": "https://www.constitutionofindia.net/read/original-manuscript/",
+      "file_path": "docs/Original-Manuscript-of-the-Constitution-of-India_New1.pdf",
+      "sha256": "e5cb50a2df24f4fbf65fbb1e125cbaa81124e0f518ba52d005344de10c742ec4",
+      "retrieved": "2026-05-07",
+      "stats": {
+        "articles_transcribed": [
+          "article-014",
+          "article-040",
+          "article-053",
+          "article-084",
+          "article-135",
+          "article-231",
+          "article-232",
+          "article-239",
+          "article-240",
+          "article-280",
+          "article-309",
+          "article-341"
+        ],
+        "schedules_transcribed": [
+          "schedule-02-b",
+          "schedule-07-iii"
+        ]
+      },
+      "notes": "The signed-as-adopted 26 January 1950 copy, calligraphed by Prem Behari Narain Raizada. Most authoritative 1950 text the project draws on. The PDF itself is not committed (gitignored due to size); the SHA-256 here lets contributors verify they hold the same artifact."
+    },
+    {
+      "id": "ik",
+      "kind": "offline-html",
+      "name": "Indian Kanoon — Constitution of India (offline save)",
+      "role": "cross-check + Phase 2 amendment metadata seed (95 distinct amendment-act citations harvested across 163 articles)",
+      "url": "https://indiankanoon.org/doc/237570/",
+      "file_path": "docs/ConstitutionofIndia_IK.html",
+      "sha256": "904e9a622535960fcf3089474c278bd6773f4eb8eafb81491cc8236396c7903c",
+      "retrieved": "2026-05-08",
+      "stats": {
+        "articles_extracted": 498
+      },
+      "notes": "Akoma Ntoso–styled HTML. Carries the *current* consolidated Constitution with inline akn-remark editorial annotations citing amending acts. NOT a 1950 baseline source — useful for cross-checking unchanged-since-1950 articles, filling the unchanged subset of gaps, and seeding Phase 2."
+    },
+    {
+      "id": "bareactslive",
+      "kind": "scout",
+      "name": "Bare Acts Live — Constitution of India",
+      "role": "scouting; future HEAD-state verification candidate",
+      "url": "https://www.bareactslive.com/ACA/ACT401.HTM",
+      "retrieved": "2026-05-08",
+      "notes": "Current consolidated text with bracketed amendment annotations (`[X]` for inserted text, `[* * *]` for omitted text). Less complete than IK at the article level (361/395 bare-numeric articles present), but the bracketed annotations are useful for amendment-history work."
+    },
+    {
+      "id": "ia-aggarawala-1950",
+      "kind": "scout",
+      "name": "Internet Archive — Aggarawala & Aiyar, 'The Constitution of India' (1950 commentary)",
+      "role": "scouting (initially mistaken for the 1950 official text)",
+      "url": "https://archive.org/details/constitutionofin029189mbp",
+      "file_path": "docs/constitutionofin_1ed_1950.pdf",
+      "sha256": "07d52a9cc7bec4f34ad36951e4f34d497f7ad272a8d9a4be0f95815c0923fb1d",
+      "fulltext_path": "docs/constitutionofin_1ed_fulltext.txt",
+      "fulltext_sha256": "a7e00ee9567f00546870b2022ce1eb4c1146561778b5db27b5ffacbe92c97fa6",
+      "retrieved": "2026-05-07",
+      "notes": "A 1950 *commentary* by Om Prakash Aggarawala and S.K. Aiyar (Rajkamal Publications / Metropolitan Book Co., Delhi) — NOT the official Government of India publication. Discovered during Phase 1 scouting; the constitutional articles are quoted within the OCR'd commentary but the text is interleaved with extensive editorial notes and the OCR is noisy. Could still serve as a fallback for future gap fills."
+    }
+  ]
+}

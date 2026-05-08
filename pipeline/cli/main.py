@@ -48,6 +48,31 @@ def render_parts(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None
     written = md.render_all_parts()
     typer.echo(f"done: written={written} -> {md.PARTS_OUT}")
 
+@app.command("build-provenance")
+def build_provenance(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
+    """Generate metadata/provenance.json — list every source the v1 baseline draws on."""
+    from pipeline.render import provenance
+
+    logging.basicConfig(
+        level=logging.INFO if verbose else logging.WARNING,
+        format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    )
+    n = provenance.build()
+    typer.echo(f"done: sources={n} -> {provenance.OUT_PATH}")
+
+
+@app.command("build-crossrefs")
+def build_crossrefs(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
+    """Generate metadata/cross-references.json — inbound/outbound citation index."""
+    from pipeline.render import crossref
+
+    logging.basicConfig(
+        level=logging.INFO if verbose else logging.WARNING,
+        format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    )
+    n = crossref.build()
+    typer.echo(f"done: nodes={n} -> {crossref.OUT_PATH}")
+
 @app.command("render-schedules")
 def render_schedules(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
     """Render schedules/schedule-NN.md from scraped CLPR schedule segments."""

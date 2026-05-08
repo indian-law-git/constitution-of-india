@@ -13,8 +13,10 @@ source_url: "https://www.constitutionofindia.net/articles/article-284-custody-of
 
 # Article 284. Custody of suitors deposits and other moneys received by public servants and courts
 
-This provision was not included in the Draft Constitution 1948. The Chairman of the Drafting Committee [proposed](https://www.constitutionofindia.net/debates/09-sep-1949/#133038) to include Draft Article 263A on 9 September 1949. Draft Article 263A provided that money received by (i) a officer appointed to perform functions related to the Union or of a State affairs and (ii) any court, would be deposited into the Union or State governments’ accounts correspondingly. This provision did not include revenue and public monies raised by the Union or State governments.
+*All moneys received by or deposited with—*
 
-The Chairman of the Drafting Commitee [proposed](https://www.constitutionofindia.net/debates/09-sep-1949/#133044) this inclusion of this Draft Article to enable the Union and State governments to withdraw such deposits under the appropriation law. Since receipts of money under this Draft Article did not form a part of the Consolidated Fund, this provision was proposed to clarify that they do form a part of the public account of the Union and State governments and they could be utilized according to the appropriation law.
+*(a) any officer employed in connection with the affairs of the Union or of a State in his capacity as such, other than revenues or public moneys raised or received by the Government of India or the Government of the State, as the case may be, or*
 
-There was no further discussion on this Draft Article and it was [adopted](https://www.constitutionofindia.net/debates/09-sep-1949/#133045) on the same day.
+*(b) any court within the territory of India to the credit of any cause, matter, account or persons,*
+
+*shall be paid into the public account of India or the public account of the State, as the case may be.*
