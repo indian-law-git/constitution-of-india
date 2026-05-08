@@ -36,6 +36,19 @@ def render_articles(verbose: bool = typer.Option(False, "--verbose", "-v")) -> N
     typer.echo(f"done: written={written} missing={missing} -> {md.OUT_DIR}")
 
 
+@app.command("render-parts")
+def render_parts(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
+    """Render Part manifests to parts/part-X.md (one per Part of the 1950 Constitution)."""
+    from pipeline.render import markdown as md
+
+    logging.basicConfig(
+        level=logging.INFO if verbose else logging.WARNING,
+        format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    )
+    written = md.render_all_parts()
+    typer.echo(f"done: written={written} -> {md.PARTS_OUT}")
+
+
 @app.command("extract-manuscript")
 def extract_manuscript(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
     """Parse human transcriptions in pipeline/sources/manuscript and emit JSON."""

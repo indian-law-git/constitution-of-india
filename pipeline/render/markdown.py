@@ -320,3 +320,37 @@ def render_all() -> tuple[int, int]:
         written += 1
     missing = 395 - written
     return written, missing
+
+
+# ──────────────────────────── parts manifests ────────────────────────────
+
+PARTS_OUT = REPO_ROOT / "parts"
+
+
+def render_part(roman: str, title: str, lo: int, hi: int) -> str:
+    articles_list = list(range(lo, hi + 1))
+    if lo == hi:
+        body_sentence = f"This Part contains Article {lo} only."
+    else:
+        body_sentence = f"This Part contains Articles {lo} through {hi}."
+    lines = [
+        "---",
+        f"part: {roman}",
+        f"title: {_yaml_quote(title)}",
+        f"articles: {articles_list}",
+        "---",
+        "",
+        f"# Part {roman} — {title}",
+        "",
+        f"{body_sentence} See individual article files in `articles/`.",
+        "",
+    ]
+    return "\n".join(lines)
+
+
+def render_all_parts() -> int:
+    PARTS_OUT.mkdir(parents=True, exist_ok=True)
+    for roman, title, lo, hi in PART_RANGES:
+        path = PARTS_OUT / f"part-{roman.lower()}.md"
+        path.write_text(render_part(roman, title, lo, hi))
+    return len(PART_RANGES)
