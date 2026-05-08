@@ -7,8 +7,10 @@ inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
-source: clpr
+source: mixed
 source_url: "https://www.constitutionofindia.net/articles/article-19-protection-of-certain-rights-regarding-freedom-of-speech-etc/"
+manuscript_pdf_sha256: "e5cb50a2df24f4fbf65fbb1e125cbaa81124e0f518ba52d005344de10c742ec4"
+note: "Clause (6) restored from manuscript; CLPR's per-article page carried the post-1st-Amendment (i)/(ii) split form. Clauses (1)-(5) from CLPR."
 ---
 
 # Article 19. Protection of certain rights regarding freedom of speech etc
@@ -37,12 +39,4 @@ source_url: "https://www.constitutionofindia.net/articles/article-19-protection-
 
 (5) Nothing in sub-clauses (d) and (e) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, reasonable restrictions on the exercise of any of the rights conferred by the said sub-clauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe.
 
-(6) Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular, nothing in the said sub-clause shall affect the operation of any existing law in so far as it relates to, or prevent the State from making any law relating to,—
-
-(i) the professional or technical qualifications necessary for practising any profession or carrying
-
-on any occupation, trade or business, or
-
-(ii) the carrying on by the State, or by a corporation owned or controlled by the State, of any trade,
-
-business, industry or service, whether to the exclusion, complete or partial, of citizens or otherwise.
+(6) Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular, nothing in the said sub-clause shall affect the operation of any existing law in so far as it prescribes or empowers any authority to prescribe, or prevent the State from making any law prescribing or empowering any authority to prescribe, the professional or technical qualifications necessary for practising any profession or carrying on any occupation, trade or business.
