@@ -5,18 +5,19 @@ title: "Composition of the House of the People"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
-source: clpr
+amended_by:
+  - "The Constitution (Second Amendment) Act, 1952"
+current_as_of: "1953-05-01"
+source: mixed
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
-note: "CLPR's per-article page (article-81-...) labels its 1950 section 'Article 81 (1) to (2)' and is missing clause (3); body taken from CLPR's consolidated /constitution-of-india-1950/ page which carries the full 1950 form (matches the Aggarwala 1950 facsimile)."
+note: "Body composed of (a) CLPR consolidated /constitution-of-india-1950/ baseline (CLPR's per-article page is missing clause (3)) and (b) Section 2 of The Constitution (Second Amendment) Act, 1952, which omits the words and figures 'not less than one member for every 750,000 of the population and' from sub-clause (b) of clause (1)."
 ---
 
 # Article 81. Composition of the House of the People
 
 (1) (a) Subject to the provisions of clause (2) and of articles 82 and 331, the House of the People shall consist of not more than five hundred members directly elected by the voters in the States.
 
-(b) For the purpose of sub-clause (a), the States shall be divided, grouped or formed into territorial constituencies and the number of members to be allotted to each such constituency shall be so determined as to ensure that there shall be not less than one member for every 750,000 of the population and not more than one member for every 500,000 of the population.
+(b) For the purpose of sub-clause (a), the States shall be divided, grouped or formed into territorial constituencies and the number of members to be allotted to each such constituency shall be so determined as to ensure that there shall be not more than one member for every 500,000 of the population.
 
 (c) The ratio between the number of members allotted to each territorial constituency and the population of that constituency as ascertained at the last preceding census of which the relevant figures have been published shall, so far as practicable, be the same throughout the territory of India.
 
