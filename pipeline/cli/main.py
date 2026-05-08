@@ -73,6 +73,18 @@ def build_crossrefs(verbose: bool = typer.Option(False, "--verbose", "-v")) -> N
     n = crossref.build()
     typer.echo(f"done: nodes={n} -> {crossref.OUT_PATH}")
 
+@app.command("build-amendments")
+def build_amendments(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
+    """Generate metadata/amendments.json — unified index across legislative.gov.in + pykih + IK."""
+    from pipeline.render import amendments
+
+    logging.basicConfig(
+        level=logging.INFO if verbose else logging.WARNING,
+        format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    )
+    out, summary = amendments.build()
+    typer.echo(f"done: {summary} -> {out}")
+
 @app.command("render-schedules")
 def render_schedules(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
     """Render schedules/schedule-NN.md from scraped CLPR schedule segments."""
