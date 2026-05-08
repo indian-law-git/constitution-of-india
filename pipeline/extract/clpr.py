@@ -236,8 +236,13 @@ def scrape_article(url: str, client: httpx.Client) -> Article1950 | None:
         return None
     # A bare numeric slug (no letter suffix) signals a 1950 baseline article;
     # post-1950 insertions all use letter-suffixed numbers (21A, 31A-D, 134A...).
+    # CLPR occasionally mislabels a letter-suffixed article's heading with
+    # "Constitution of India 1950" (e.g. Article 257A, inserted by the 42nd
+    # Amendment in 1976) — defensively reject those regardless of label.
     is_bare_numeric = slug_num.isdigit()
-    parsed = parse_1950_block(html, accept_lone_unlabeled=is_bare_numeric)
+    if not is_bare_numeric:
+        return None
+    parsed = parse_1950_block(html, accept_lone_unlabeled=True)
     if parsed is None:
         return None
     heading_raw, body_html = parsed
