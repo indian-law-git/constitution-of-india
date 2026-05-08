@@ -23,6 +23,21 @@ def info() -> None:
     typer.echo("indian-law-git pipeline — Phase 0 (scaffolded). Modules are stubs.")
 
 
+@app.command("extract-manuscript")
+def extract_manuscript(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
+    """Parse human transcriptions in pipeline/sources/manuscript and emit JSON."""
+    from pipeline.extract import manuscript
+
+    logging.basicConfig(
+        level=logging.INFO if verbose else logging.WARNING,
+        format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    )
+    n = manuscript.extract_all()
+    typer.echo(
+        f"done: transcriptions={n} -> {manuscript.OUT_DIR}"
+    )
+
+
 @app.command("extract-ik")
 def extract_ik(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
     """Parse the offline Indian Kanoon Constitution HTML and emit per-article JSON."""
