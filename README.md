@@ -2,7 +2,15 @@
 
 A Git-native, diffable representation of the Constitution of India. Every amendment is a discrete commit; `git log` reconstructs constitutional history from 26 January 1950 to the present.
 
-**Status: v1 baseline complete** — the Constitution as adopted on 26 January 1950 is fully in. Phase 2 (the 106 constitutional amendments, replayed forward as commits) has not yet started. See [`docs/prd-constitution-v1.md`](docs/prd-constitution-v1.md) for the spec and [`docs/handoff.md`](docs/handoff.md) for the design notes.
+**Status: Phase 2 in progress** — v1 baseline (the Constitution as adopted on 26 January 1950) is in, tagged [`v1.0-baseline`](https://github.com/indian-law-git/constitution-of-india/releases/tag/v1.0-baseline). Phase 2 replays the 106 constitutional amendments forward as discrete commits; the **1st Amendment, 1951** has landed. See [`docs/prd-constitution-v1.md`](docs/prd-constitution-v1.md) for the spec and [`docs/handoff.md`](docs/handoff.md) for the design notes.
+
+### Browse the history
+
+- [`articles/article-019.md`](articles/article-019.md) — current state of Article 19 (post-1st-Amendment).
+- `git log articles/article-019.md` — three entries: the baseline render, a manuscript baseline-fix that restored true 1950 clause (6), and the 1st Amendment.
+- [`articles/article-031A.md`](articles/article-031A.md), [`articles/article-031B.md`](articles/article-031B.md) — articles inserted by the 1st Amendment.
+- [`schedules/schedule-09.md`](schedules/schedule-09.md) — Ninth Schedule (also inserted by the 1st Amendment).
+- [`metadata/amendments.json`](metadata/amendments.json) — full index of all 106 amendments (sources triangulated across legislative.gov.in, pykih, Indian Kanoon).
 
 ## What's in this repo
 
@@ -59,13 +67,29 @@ uv run indlaw render-schedules
 # metadata
 uv run indlaw build-provenance
 uv run indlaw build-crossrefs
+uv run indlaw build-amendments     # unified amendments index across 4 sources
+
+# amendment Acts (Phase 2 source)
+uv run indlaw extract-legislative  # parse docs/legislative-amendments.html
+uv run indlaw download-amendments  # 106 PDFs → docs/amendments/{NNN}.pdf
 ```
 
 Every scraped artifact lands in `pipeline/intermediate/` (gitignored). The published artefacts are everything outside `pipeline/intermediate/`.
 
-## What's next (Phase 2)
+## Phase 2 — amendments
 
-The PRD plans the 106 constitutional amendments as discrete commits — one amendment, one commit (or one logical commit set), in chronological order. The IK extraction has already harvested 95/106 amendment-act citations as a seed. Phase 2 begins with the **1st Amendment Act, 1951**, parsed interactively in Claude Code so the prompt and round-trip-verification design get pinned down on a small batch before scripting.
+Each constitutional amendment lands as one logical commit per PRD §5.7, in chronological order. The 1st Amendment is in (commit [`4251da3`](https://github.com/indian-law-git/constitution-of-india/commit/4251da3)); 105 to go.
+
+**Per-amendment workflow** (interactive, per PRD Appendix A for the early ones):
+
+1. Read `docs/amendments/{NNN}.pdf` (the act text from legislative.gov.in).
+2. Validate the before-state of every touched article against our current corpus. Where it doesn't match (e.g. a baseline integrity issue), fix from the manuscript first as a separate commit.
+3. Apply the substitutions / insertions / additions directly to `articles/`, `schedules/`, and `parts/` Markdown files.
+4. Update each touched file's frontmatter (`amended_by`, `current_as_of`).
+5. Cross-validate the touched-articles list against `metadata/amendments.json`'s pykih + IK seeds.
+6. Single commit. Structured commit message per PRD §5.7.
+
+Discoveries during Phase 2 ingestion that affect baseline integrity get fixed as discrete prior commits, so each amendment's diff stays clean and `git log articles/article-NNN.md` tells the article's true history.
 
 ## Inspiration and prior art
 
