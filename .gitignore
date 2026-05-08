@@ -8,6 +8,8 @@ pipeline/.cache/
 # Provenance (URL + SHA-256) is recorded in metadata/provenance.json instead.
 docs/*.pdf
 docs/*.txt
+docs/*.html
+docs/*_files/
 
 # Python
 __pycache__/

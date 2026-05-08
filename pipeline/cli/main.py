@@ -23,6 +23,21 @@ def info() -> None:
     typer.echo("indian-law-git pipeline — Phase 0 (scaffolded). Modules are stubs.")
 
 
+@app.command("extract-ik")
+def extract_ik(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
+    """Parse the offline Indian Kanoon Constitution HTML and emit per-article JSON."""
+    from pipeline.extract import ik
+
+    logging.basicConfig(
+        level=logging.INFO if verbose else logging.WARNING,
+        format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    )
+    n, n_with_amend = ik.extract_all()
+    typer.echo(
+        f"done: articles={n} with_amendment_citations={n_with_amend} -> {ik.OUT_DIR}"
+    )
+
+
 @app.command("scrape-clpr")
 def scrape_clpr(
     limit: int = typer.Option(0, "--limit", "-n", help="Stop after this many URLs (0 = all)."),
