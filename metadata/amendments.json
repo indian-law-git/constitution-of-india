@@ -1,0 +1,3897 @@
+{
+  "schema_version": "1",
+  "summary": {
+    "total": 106,
+    "with_pdf_url": 106,
+    "with_pykih_summary": 99,
+    "with_pykih_articles": 99,
+    "with_ik_articles": 90
+  },
+  "amendments": [
+    {
+      "number": 1,
+      "title": "The Constitution (First Amendment) Act, 1951",
+      "year": 1951,
+      "published_date": "1951-07-18",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/f3789482ad0dfee795e54fb88c0401e6.pdf",
+        "local_path": "docs/amendments/001.pdf",
+        "size_kb": 172.13
+      },
+      "summary": "Schedule IX was added to make laws abolishing the zamindari system constitutionally valid. Article 19 was amended to place reasonable restrictions on the freedom of speech and the freedom to carry on any profession. Certain amendments related to convening and proroguing Parliament sessions were also made.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "009",
+            "status": "inserted"
+          },
+          {
+            "article": "015",
+            "status": "modified"
+          },
+          {
+            "article": "019",
+            "status": "modified"
+          },
+          {
+            "article": "031A",
+            "status": "inserted"
+          },
+          {
+            "article": "031B",
+            "status": "inserted"
+          },
+          {
+            "article": "085",
+            "status": "modified"
+          },
+          {
+            "article": "087",
+            "status": "modified"
+          },
+          {
+            "article": "174",
+            "status": "modified"
+          },
+          {
+            "article": "176",
+            "status": "modified"
+          },
+          {
+            "article": "341",
+            "status": "modified"
+          },
+          {
+            "article": "342",
+            "status": "modified"
+          },
+          {
+            "article": "372",
+            "status": "modified"
+          },
+          {
+            "article": "376",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "015",
+          "019",
+          "031",
+          "031A",
+          "031B"
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "title": "The Constitution (Second Amendment) Act, 1952",
+      "year": 1952,
+      "published_date": "1953-05-01",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/38ef0247f825a631d62ae585a9bf529c.pdf",
+        "local_path": "docs/amendments/002.pdf",
+        "size_kb": 145.97
+      },
+      "summary": "Amended Article 81(1)(b) to remove the population limit of 7,50,000 people for a parliamentary constituency.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "081",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "081"
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "title": "The Constitution (Third Amendment) Act, 1954",
+      "year": 1954,
+      "published_date": "1955-02-22",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/a38f619f6466e9c22e3726d9bc460d2e.pdf",
+        "local_path": "docs/amendments/003.pdf",
+        "size_kb": 319.77
+      },
+      "summary": "Amended the VII Schedule to include matters related to trade and commerce in certain commodities, such as cattle fodder, foodstuff, raw jute etc. in the concurrent list",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "007",
+            "status": "modified"
+          }
+        ],
+        "ik": []
+      }
+    },
+    {
+      "number": 4,
+      "title": "The Constitution (Fourth Amendment) Act, 1955",
+      "year": 1955,
+      "published_date": "1955-04-27",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/68badaa2da25d641c51992f854344773.pdf",
+        "local_path": "docs/amendments/004.pdf",
+        "size_kb": 165.49
+      },
+      "summary": "It dealt with the state's power for requisitioning of private property, and also amends Article 31A to include several categories of \"essential welfare legislation.\"",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "009",
+            "status": "modified"
+          },
+          {
+            "article": "031",
+            "status": "modified"
+          },
+          {
+            "article": "305",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "031",
+          "031A",
+          "305"
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "title": "The Constitution (Fifth Amendment) Act, 1955",
+      "year": 1955,
+      "published_date": "1955-12-24",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/b465c9d672c55778e7701f795e2ce1fb.pdf",
+        "local_path": "docs/amendments/005.pdf",
+        "size_kb": 287.82
+      },
+      "summary": "Amended Article 3 to provide that no bill related to formation of a new state or a state's name, boundary or area can be introduced in the Parliament without the prior recommendation of the President and he must have referred such bill dealing with name, boundary and area to the concerned State legislature for its views. He can provide a time limit for the State Legislature to express its views and can also extend this time limit. Until such time limit expires, this bill can't be introduced in either House of the Parliament.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "003",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "003"
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "title": "The Constitution (Sixth Amendment) Act, 1956",
+      "year": 1956,
+      "published_date": "1956-09-11",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/1a2c5f93dab41d00838c0cabe4ec6306.pdf",
+        "local_path": "docs/amendments/006.pdf",
+        "size_kb": 145.63
+      },
+      "summary": "Amended the VII Schedule and Articles 286 and 269. It relates to taxes upon sale or purchase of goods in the course of inter-State trade or commerce. Amended the Union and State Lists with respect to raising of taxes",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "007",
+            "status": "modified"
+          },
+          {
+            "article": "269",
+            "status": "modified"
+          },
+          {
+            "article": "286",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "269",
+          "286"
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "title": "The Constitution (Seventh Amendment) Act, 1956",
+      "year": 1956,
+      "published_date": "1956-10-19",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf",
+        "local_path": "docs/amendments/007.pdf",
+        "size_kb": 223.91
+      },
+      "summary": "Amended the Constitution to implement reorganization of states on linguistic lines. It also made changes to the State and Union list, and amended certain provisions relating to High Court Judges.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "001",
+            "status": "modified"
+          },
+          {
+            "article": "002",
+            "status": "modified"
+          },
+          {
+            "article": "003",
+            "status": "modified"
+          },
+          {
+            "article": "004",
+            "status": "modified"
+          },
+          {
+            "article": "005",
+            "status": "modified"
+          },
+          {
+            "article": "006",
+            "status": "modified"
+          },
+          {
+            "article": "007",
+            "status": "modified"
+          },
+          {
+            "article": "016",
+            "status": "modified"
+          },
+          {
+            "article": "031A",
+            "status": "modified"
+          },
+          {
+            "article": "049",
+            "status": "modified"
+          },
+          {
+            "article": "058",
+            "status": "modified"
+          },
+          {
+            "article": "066",
+            "status": "modified"
+          },
+          {
+            "article": "072",
+            "status": "modified"
+          },
+          {
+            "article": "073",
+            "status": "modified"
+          },
+          {
+            "article": "080",
+            "status": "modified"
+          },
+          {
+            "article": "081",
+            "status": "modified"
+          },
+          {
+            "article": "082",
+            "status": "modified"
+          },
+          {
+            "article": "101",
+            "status": "modified"
+          },
+          {
+            "article": "112",
+            "status": "modified"
+          },
+          {
+            "article": "131",
+            "status": "modified"
+          },
+          {
+            "article": "143",
+            "status": "modified"
+          },
+          {
+            "article": "151",
+            "status": "modified"
+          },
+          {
+            "article": "152",
+            "status": "modified"
+          },
+          {
+            "article": "153",
+            "status": "modified"
+          },
+          {
+            "article": "158",
+            "status": "modified"
+          },
+          {
+            "article": "168",
+            "status": "modified"
+          },
+          {
+            "article": "170",
+            "status": "modified"
+          },
+          {
+            "article": "171",
+            "status": "modified"
+          },
+          {
+            "article": "214",
+            "status": "modified"
+          },
+          {
+            "article": "216",
+            "status": "modified"
+          },
+          {
+            "article": "217",
+            "status": "modified"
+          },
+          {
+            "article": "219",
+            "status": "modified"
+          },
+          {
+            "article": "220",
+            "status": "modified"
+          },
+          {
+            "article": "222",
+            "status": "modified"
+          },
+          {
+            "article": "224",
+            "status": "modified"
+          },
+          {
+            "article": "229",
+            "status": "modified"
+          },
+          {
+            "article": "230",
+            "status": "modified"
+          },
+          {
+            "article": "231",
+            "status": "modified"
+          },
+          {
+            "article": "232",
+            "status": "modified"
+          },
+          {
+            "article": "238",
+            "status": "deleted"
+          },
+          {
+            "article": "239",
+            "status": "modified"
+          },
+          {
+            "article": "240",
+            "status": "modified"
+          },
+          {
+            "article": "241",
+            "status": "modified"
+          },
+          {
+            "article": "242",
+            "status": "deleted"
+          },
+          {
+            "article": "244",
+            "status": "modified"
+          },
+          {
+            "article": "246",
+            "status": "modified"
+          },
+          {
+            "article": "254",
+            "status": "modified"
+          },
+          {
+            "article": "255",
+            "status": "modified"
+          },
+          {
+            "article": "258A",
+            "status": "inserted"
+          },
+          {
+            "article": "259",
+            "status": "deleted"
+          },
+          {
+            "article": "264",
+            "status": "modified"
+          },
+          {
+            "article": "267",
+            "status": "modified"
+          },
+          {
+            "article": "268",
+            "status": "modified"
+          },
+          {
+            "article": "269",
+            "status": "modified"
+          },
+          {
+            "article": "270",
+            "status": "modified"
+          },
+          {
+            "article": "278",
+            "status": "deleted"
+          },
+          {
+            "article": "280",
+            "status": "modified"
+          },
+          {
+            "article": "283",
+            "status": "modified"
+          },
+          {
+            "article": "290A",
+            "status": "inserted"
+          },
+          {
+            "article": "291",
+            "status": "modified"
+          },
+          {
+            "article": "298",
+            "status": "modified"
+          },
+          {
+            "article": "299",
+            "status": "modified"
+          },
+          {
+            "article": "304",
+            "status": "modified"
+          },
+          {
+            "article": "306",
+            "status": "deleted"
+          },
+          {
+            "article": "308",
+            "status": "modified"
+          },
+          {
+            "article": "309",
+            "status": "modified"
+          },
+          {
+            "article": "310",
+            "status": "modified"
+          },
+          {
+            "article": "311",
+            "status": "modified"
+          },
+          {
+            "article": "315",
+            "status": "modified"
+          },
+          {
+            "article": "316",
+            "status": "modified"
+          },
+          {
+            "article": "317",
+            "status": "modified"
+          },
+          {
+            "article": "318",
+            "status": "modified"
+          },
+          {
+            "article": "320",
+            "status": "modified"
+          },
+          {
+            "article": "323",
+            "status": "modified"
+          },
+          {
+            "article": "324",
+            "status": "modified"
+          },
+          {
+            "article": "330",
+            "status": "modified"
+          },
+          {
+            "article": "332",
+            "status": "modified"
+          },
+          {
+            "article": "333",
+            "status": "modified"
+          },
+          {
+            "article": "337",
+            "status": "modified"
+          },
+          {
+            "article": "339",
+            "status": "modified"
+          },
+          {
+            "article": "341",
+            "status": "modified"
+          },
+          {
+            "article": "342",
+            "status": "modified"
+          },
+          {
+            "article": "348",
+            "status": "modified"
+          },
+          {
+            "article": "350A",
+            "status": "inserted"
+          },
+          {
+            "article": "350B",
+            "status": "inserted"
+          },
+          {
+            "article": "356",
+            "status": "modified"
+          },
+          {
+            "article": "361",
+            "status": "modified"
+          },
+          {
+            "article": "362",
+            "status": "modified"
+          },
+          {
+            "article": "366",
+            "status": "modified"
+          },
+          {
+            "article": "367",
+            "status": "modified"
+          },
+          {
+            "article": "368",
+            "status": "modified"
+          },
+          {
+            "article": "371",
+            "status": "modified"
+          },
+          {
+            "article": "372A",
+            "status": "inserted"
+          },
+          {
+            "article": "378A",
+            "status": "inserted"
+          },
+          {
+            "article": "379-391",
+            "status": "deleted"
+          },
+          {
+            "article": "392",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "001",
+          "081",
+          "082",
+          "131",
+          "153",
+          "168",
+          "171",
+          "216",
+          "217",
+          "220",
+          "222",
+          "224",
+          "230",
+          "231",
+          "239",
+          "240",
+          "258A",
+          "290A",
+          "298",
+          "350A",
+          "350B",
+          "371"
+        ]
+      }
+    },
+    {
+      "number": 8,
+      "title": "The Constitution (Eighth Amendment) Act, 1959",
+      "year": 1959,
+      "published_date": "1960-01-05",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/0cf16c3f1479074a87011e066396733e.pdf",
+        "local_path": "docs/amendments/008.pdf",
+        "size_kb": 156.48
+      },
+      "summary": "Reservation of Seats for Scheduled Caste and Scheduled Tribes, and Anglo-Indians in the Lok Sabha and State Legislative assemblies was extended till 1970.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "334",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "334"
+        ]
+      }
+    },
+    {
+      "number": 9,
+      "title": "The Constitution (Ninth Amendment) Act, 1960",
+      "year": 1960,
+      "published_date": "1960-12-28",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/5aed44b7bcf65d872dfa970df29a9648.pdf",
+        "local_path": "docs/amendments/009.pdf",
+        "size_kb": 170.56
+      },
+      "summary": "Changes to the territories of Assam, Punjab, West Bengal, and Tripura to settle border disputes between India and Pakistan.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "001",
+            "status": "modified"
+          },
+          {
+            "article": "002",
+            "status": "modified"
+          }
+        ],
+        "ik": []
+      }
+    },
+    {
+      "number": 10,
+      "title": "The Constitution (Tenth Amendment) Act, 1961",
+      "year": 1961,
+      "published_date": "1961-08-16",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/9e2f8aa7cad5798c56d811820d905067.pdf",
+        "local_path": "docs/amendments/010.pdf",
+        "size_kb": 164.25
+      },
+      "summary": "Dadra and Nagar Haveli was incorporated into India, and made a Union Territory.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "001",
+            "status": "modified"
+          },
+          {
+            "article": "240",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "240"
+        ]
+      }
+    },
+    {
+      "number": 11,
+      "title": "The Constitution (Eleventh Amendment) Act, 1961",
+      "year": 1961,
+      "published_date": "1961-12-19",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/2afd30b40699bdea0da82ff187745382.pdf",
+        "local_path": "docs/amendments/011.pdf",
+        "size_kb": 146.61
+      },
+      "summary": "The method of election of Vice-President was changed. Instead of a joint sitting of the Parliament, he was to be elected by an electoral college comprising both houses of Parliament. In addition, it provided that the elections of president and vice-president can't be challenged on grounds of any vacancy among the electoral college.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "066",
+            "status": "modified"
+          },
+          {
+            "article": "071",
+            "status": "modified"
+          }
+        ],
+        "ik": []
+      }
+    },
+    {
+      "number": 12,
+      "title": "The Constitution (Twelfth Amendment) Act, 1962",
+      "year": 1962,
+      "published_date": "1962-03-27",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/90f537a2f96e5304e088b723b665d426.pdf",
+        "local_path": "docs/amendments/012.pdf",
+        "size_kb": 145.83
+      },
+      "summary": "Goa, Daman and Diu was incorporated into India and made a Union Territory.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "001",
+            "status": "modified"
+          },
+          {
+            "article": "240",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "240"
+        ]
+      }
+    },
+    {
+      "number": 13,
+      "title": "The Constitution (Thirteenth Amendment) Act, 1962",
+      "year": 1962,
+      "published_date": "1962-12-28",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/47137a87ca0016acc39e9eb9fe883fad.pdf",
+        "local_path": "docs/amendments/013.pdf",
+        "size_kb": 311.72
+      },
+      "summary": "Nagaland was separated from Assam and constituted as a separate state and governed under Article 371A",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "371A",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "371A"
+        ]
+      }
+    },
+    {
+      "number": 14,
+      "title": "The Constitution (Fourteenth Amendment) Act, 1962",
+      "year": 1962,
+      "published_date": "1962-12-28",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/8280fa9ccf56f067efd5cc9491297db8.pdf",
+        "local_path": "docs/amendments/014.pdf",
+        "size_kb": 151.26
+      },
+      "summary": "Pondicherry was incorporated into India and given the status of a Union Territory. This Act also created Legislatures and Council of Ministers for Himachal Pradesh, Tripura, Manipur and Goa, Daman and Diu and Pondicherry.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "001",
+            "status": "modified"
+          },
+          {
+            "article": "004",
+            "status": "modified"
+          },
+          {
+            "article": "081",
+            "status": "modified"
+          },
+          {
+            "article": "239A",
+            "status": "inserted"
+          },
+          {
+            "article": "240",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "081",
+          "239A",
+          "240"
+        ]
+      }
+    },
+    {
+      "number": 15,
+      "title": "The Constitution (Fifteenth Amendment) Act, 1963",
+      "year": 1963,
+      "published_date": "1963-10-05",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/e783be6f8c7c01084bd341be7389878b.pdf",
+        "local_path": "docs/amendments/015.pdf",
+        "size_kb": 427.35
+      },
+      "summary": "The age of retirement of High Court Judges was raised from 60 to 62, and any questions related to judges' age would be decided by the President. It made several amendments facilitate transfer of judges from High Court to another. In addition, High Courts now also had the jurisdiction to hear matters with respect to Central Government.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "007",
+            "status": "modified"
+          },
+          {
+            "article": "124",
+            "status": "modified"
+          },
+          {
+            "article": "128",
+            "status": "modified"
+          },
+          {
+            "article": "217",
+            "status": "modified"
+          },
+          {
+            "article": "222",
+            "status": "modified"
+          },
+          {
+            "article": "224",
+            "status": "modified"
+          },
+          {
+            "article": "224A",
+            "status": "inserted"
+          },
+          {
+            "article": "226",
+            "status": "modified"
+          },
+          {
+            "article": "297",
+            "status": "modified"
+          },
+          {
+            "article": "311",
+            "status": "modified"
+          },
+          {
+            "article": "316",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "124",
+          "128",
+          "217",
+          "222",
+          "224A",
+          "226",
+          "297",
+          "311",
+          "316"
+        ]
+      }
+    },
+    {
+      "number": 16,
+      "title": "The Constitution (sixteenth Amendment) Act, 1963",
+      "year": 1963,
+      "published_date": "1963-10-05",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/44c47a4fe2b7c4b4e9afb4509aeba383.pdf",
+        "local_path": "docs/amendments/016.pdf",
+        "size_kb": 227.3
+      },
+      "summary": "Provided the imposition of reasonable restrictions on exercise of Article 19 of the Constitution in the interests of the sovereignty and integrity of India. Further, candidates for Parliament, State Legislatures as well as public offices must take an oath to upholdthe sovereignty and integrity of India. Forms for these oaths were also provided.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "003",
+            "status": "modified"
+          },
+          {
+            "article": "019",
+            "status": "modified"
+          },
+          {
+            "article": "084",
+            "status": "modified"
+          },
+          {
+            "article": "173",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "019",
+          "084",
+          "173"
+        ]
+      }
+    },
+    {
+      "number": 17,
+      "title": "The Constitution (Seventeenth Amendment) Act, 1964",
+      "year": 1964,
+      "published_date": "1964-06-20",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/070cb7a0edb92c2d1fc0ca634ef60361.pdf",
+        "local_path": "docs/amendments/017.pdf",
+        "size_kb": 249.65
+      },
+      "summary": "Several land acquisition laws were placed within Schedule IX, so as to make them valid under the Constitution.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "009",
+            "status": "modified"
+          },
+          {
+            "article": "031A",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "031A"
+        ]
+      }
+    },
+    {
+      "number": 18,
+      "title": "The Constitution (Eighteenth Amendment) Act, 1966",
+      "year": 1966,
+      "published_date": "1966-08-27",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/75c9ecd6164365d5816e0de381d33194.pdf",
+        "local_path": "docs/amendments/018.pdf",
+        "size_kb": 219.54
+      },
+      "summary": "Union Territories were included in Article 3, and hence it became possible to alter the name, boundary and area of Union Territories. However, Union Territories are not subject to the provision of Article 3.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "003",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "003"
+        ]
+      }
+    },
+    {
+      "number": 19,
+      "title": "The Constitution (Nineteenth Amendment) Act, 1966",
+      "year": 1966,
+      "published_date": "1966-12-11",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/f6bc00d0cf640e651897539f1538caec.pdf",
+        "local_path": "docs/amendments/019.pdf",
+        "size_kb": 28.28
+      },
+      "summary": "Amended Article 324 to abolish Election Tribunals. Petitions related to elections would now be tried by regular High Courts",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "324",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "324"
+        ]
+      }
+    },
+    {
+      "number": 20,
+      "title": "The Constitution (Twentieth Amendment) Act, 1966",
+      "year": 1966,
+      "published_date": "1966-12-22",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/f81e5911e7c0855ebbc17420de69acc5.pdf",
+        "local_path": "docs/amendments/020.pdf",
+        "size_kb": 30.96
+      },
+      "summary": "It seeks to indemnify & validate judgments passed by judges who were not eligible for appointment under article 233. Their appointments, promotions and transfers were also validated. A few judges who were not eligible for appointment were barred.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "233A",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "233A"
+        ]
+      }
+    },
+    {
+      "number": 21,
+      "title": "The Constitution (Twenty-first Amendment) Act, 1967",
+      "year": 1967,
+      "published_date": "1967-04-10",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/33c21c8515cca2f3b602ff3a765ea035.pdf",
+        "local_path": "docs/amendments/021.pdf",
+        "size_kb": 28.21
+      },
+      "summary": "Sindhi was included as an official language in the Eighth schedule of the Constitution.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "008",
+            "status": "modified"
+          }
+        ],
+        "ik": []
+      }
+    },
+    {
+      "number": 22,
+      "title": "The Constitution (Twenty-second Amendment) Act, 1969",
+      "year": 1969,
+      "published_date": "1969-11-25",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/5d6c7ed399a157defd3b146994808380.pdf",
+        "local_path": "docs/amendments/022.pdf",
+        "size_kb": 34.56
+      },
+      "summary": "This Act provided for the formation of an autonomous state within the State of Assam. It also provided for a Legislature and Council of Ministers for this autonomous state.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "244A",
+            "status": "inserted"
+          },
+          {
+            "article": "275",
+            "status": "modified"
+          },
+          {
+            "article": "371B",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "244A",
+          "275",
+          "371B"
+        ]
+      }
+    },
+    {
+      "number": 23,
+      "title": "The Constitution (Twenty-third Amendment) Act, 1969",
+      "year": 1969,
+      "published_date": "1970-01-23",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/6421aae09fc09b38fdb9c3bd9a47921c.pdf",
+        "local_path": "docs/amendments/023.pdf",
+        "size_kb": 31.13
+      },
+      "summary": "Only one Anglo-Indian member could be nominated by the Governor to any State Legislative Assembly. Stopped reservation for the STs in Nagaland and extended reservation for SC/ST and Anglo-Indians in Lok Sabha and State Legislative Assemblies till 1980.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "330",
+            "status": "modified"
+          },
+          {
+            "article": "332",
+            "status": "modified"
+          },
+          {
+            "article": "333",
+            "status": "modified"
+          },
+          {
+            "article": "334",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "330",
+          "332",
+          "333",
+          "334"
+        ]
+      }
+    },
+    {
+      "number": 24,
+      "title": "The Constitution (Twenty-fourth Amendment) Act, 1971",
+      "year": 1971,
+      "published_date": "1971-11-05",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/2a321e3e1deabf4a8e1b878b640414d7.pdf",
+        "local_path": "docs/amendments/024.pdf",
+        "size_kb": 30.91
+      },
+      "summary": "Stipulated that the Parliament could amend the Fundamental Rights and that Article 13 is inapplicable to constitutional amendments under Article 368. In addition, whenever a Constitution Amendment Bill passed by both Houses of Parliament is presented to the President for his assent, he should give his assent.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "013",
+            "status": "modified"
+          },
+          {
+            "article": "368",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "013",
+          "368"
+        ]
+      }
+    },
+    {
+      "number": 25,
+      "title": "The Constitution (Twenty-fifth Amendment) Act, 1971",
+      "year": 1971,
+      "published_date": "1972-04-20",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/a9a6ff5abe015dc06b265ecc9485f7a7.pdf",
+        "local_path": "docs/amendments/025.pdf",
+        "size_kb": 14.43
+      },
+      "summary": "Stated that any law relating to acquisition of a private property for a public purpose will not be subject to Article 19(1)(f). Any law passed for giving effect to the DPSP in Article 39(2) and (3), and containing such a declaration could not be declared void for taking away fundamental rights under Articles 14, 19 and 31.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "031",
+            "status": "modified"
+          },
+          {
+            "article": "031C",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "031",
+          "031C"
+        ]
+      }
+    },
+    {
+      "number": 26,
+      "title": "The Constitution (Twenty-sixth Amendment) Act, 1971",
+      "year": 1971,
+      "published_date": "2971-12-28",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/c61e222417607ab6e944b07f79b55d1b.pdf",
+        "local_path": "docs/amendments/026.pdf",
+        "size_kb": 146.0
+      },
+      "summary": "Privy purses and privileges given to erstwhile rulers of former Princely States were abolished.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "291",
+            "status": "deleted"
+          },
+          {
+            "article": "362",
+            "status": "deleted"
+          },
+          {
+            "article": "363A",
+            "status": "inserted"
+          },
+          {
+            "article": "366",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "291",
+          "362",
+          "363A",
+          "366"
+        ]
+      }
+    },
+    {
+      "number": 27,
+      "title": "The Constitution (Twenty-seventh Amendment) Act, 1971. Date on which the Act came into force:– (i) Ss. 1 and 3…..30-12-1971 (as per s. 1 (2) of the Act). (ii) Ss. 2, 4 and 5 15-2-1972 [GSR 73(E), dated 14-2-1972]",
+      "year": 1971,
+      "published_date": "1971-12-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/5eecdd73586cdaabe3ffc54ed2ab10f8.pdf",
+        "local_path": "docs/amendments/027.pdf",
+        "size_kb": 18.82
+      },
+      "summary": "Mizoram was recognised as a Union Territory with a Legislature and a Council of Ministers. It further provided that whenever the Legislature in a Union Territory is dissolved or suspended, the President shall have powers to make regulations for that Territory during that time.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "239A",
+            "status": "modified"
+          },
+          {
+            "article": "239B",
+            "status": "inserted"
+          },
+          {
+            "article": "240",
+            "status": "modified"
+          },
+          {
+            "article": "371C",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "239A",
+          "239B",
+          "240",
+          "371C"
+        ]
+      }
+    },
+    {
+      "number": 28,
+      "title": "The Constitution (Twenty-eighth Amendment) Act, 1972",
+      "year": 1972,
+      "published_date": "1972-08-27",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/1143f441527d1adf5744e7e0ccf35a47.pdf",
+        "local_path": "docs/amendments/028.pdf",
+        "size_kb": 14.06
+      },
+      "summary": "Article 314 which provided that the service conditions of the civil servants appointed prior to commencement of Constitution would not change after the commencement of the Constitution was removed. Instead Article 312A was inserted which gave the Parliament the power to change the service conditions of the officers.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "312A",
+            "status": "inserted"
+          },
+          {
+            "article": "314",
+            "status": "deleted"
+          }
+        ],
+        "ik": [
+          "312A",
+          "314"
+        ]
+      }
+    },
+    {
+      "number": 29,
+      "title": "The Constitution (Twenty-ninth Amendment) Act, 1972",
+      "year": 1972,
+      "published_date": "1972-06-09",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/32c2b9a302c83703871e081351af5f49.pdf",
+        "local_path": "docs/amendments/029.pdf",
+        "size_kb": 11.61
+      },
+      "summary": "Several land acquisition laws were placed within Schedule IX, so as to make them valid under the Constitution.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "009",
+            "status": "modified"
+          }
+        ],
+        "ik": []
+      }
+    },
+    {
+      "number": 30,
+      "title": "The Constitution (Thirtieth Amendment) Act, 1972",
+      "year": 1972,
+      "published_date": "1973-02-22",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/d6970667d71b0cdaad2ad22b9d44d39c.pdf",
+        "local_path": "docs/amendments/030.pdf",
+        "size_kb": 12.07
+      },
+      "summary": "Amended Article 133 to make \" a substantial question of law\" the basis of an appeal to the Supreme Court from the High Court instead of monetary value of more than Rs.20,000.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "133",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "133"
+        ]
+      }
+    },
+    {
+      "number": 31,
+      "title": "The Constitution (Thirty-first Amendment) Act, 1973",
+      "year": 1973,
+      "published_date": "1973-10-17",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/03eeedc70a4dad36292b05d64bc8ddd4.pdf",
+        "local_path": "docs/amendments/031.pdf",
+        "size_kb": 17.89
+      },
+      "summary": "Increased the number of seats in Parliament from to 545, of which Seats for States were increased to 525 from 500. The seats for Union Territories were reduced from 25 to 20. In addition, it was provided that the Legislative Assembly of Meghalaya need not provide reservation for Scheduled Tribes",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "008",
+            "status": "modified"
+          },
+          {
+            "article": "013",
+            "status": "modified"
+          },
+          {
+            "article": "030",
+            "status": "modified"
+          },
+          {
+            "article": "332",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "081",
+          "300",
+          "332"
+        ]
+      }
+    },
+    {
+      "number": 32,
+      "title": "The Constitution (Thirty-second Amendment) Act, 1973",
+      "year": 1973,
+      "published_date": "1974-05-03",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/86861e79e41f499cf994f1f13da1df46.pdf",
+        "local_path": "docs/amendments/032.pdf",
+        "size_kb": 23.89
+      },
+      "summary": "Gives constitutional validity to the Six Point formula to provide for equitable safeguards in Andhra Pradesh with the inclusion of Article 371-D and 371-E.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "007",
+            "status": "modified"
+          },
+          {
+            "article": "371",
+            "status": "modified"
+          },
+          {
+            "article": "371D",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "371D",
+          "371E"
+        ]
+      }
+    },
+    {
+      "number": 33,
+      "title": "The Constitution (Thirty-third Amendment) Act, 1974",
+      "year": 1974,
+      "published_date": "1974-05-19",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/3562bb99bdcf20112f8341cc8562d308.pdf",
+        "local_path": "docs/amendments/033.pdf",
+        "size_kb": 10.93
+      },
+      "summary": "This amendment makes changes to the retirement of any Member of the Parliament or State Legislature. Such resignation becomes effective only if the Speaker/Chairman accepts it. The Speaker/Chairman is not to accept such resignation if he feels, after enquiry, that the resignation is not voluntary.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "001",
+            "status": "inserted"
+          },
+          {
+            "article": "190",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "101",
+          "190"
+        ]
+      }
+    },
+    {
+      "number": 34,
+      "title": "The Constitution (Thirty-fourth Amendment) Act, 1974",
+      "year": 1974,
+      "published_date": "1974-09-07",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/edc7f592dbf84a7300fc91819278c8af.pdf",
+        "local_path": "docs/amendments/034.pdf",
+        "size_kb": 12.25
+      },
+      "summary": "Several State land acquisition laws were placed within Schedule IX, so as to make them valid under the Constitution.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "009",
+            "status": "modified"
+          }
+        ],
+        "ik": []
+      }
+    },
+    {
+      "number": 35,
+      "title": "The Constitution (Thirty-fifth Amendment) Act, 1974",
+      "year": 1974,
+      "published_date": "1975-02-22",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/c7c27cef78844056fc4033c78c1131ea.pdf",
+        "local_path": "docs/amendments/035.pdf",
+        "size_kb": 22.25
+      },
+      "summary": "Sikkim was incorporated into the territory India.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "002A",
+            "status": "inserted"
+          },
+          {
+            "article": "010",
+            "status": "inserted"
+          },
+          {
+            "article": "080",
+            "status": "modified"
+          },
+          {
+            "article": "081",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "002A"
+        ]
+      }
+    },
+    {
+      "number": 36,
+      "title": "The Constitution (Thirty-sixth Amendment) Act, 1975",
+      "year": 1975,
+      "published_date": "1975-05-16",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/2a875dab390ddae1419f7f050ccd6ed0.pdf",
+        "local_path": "docs/amendments/036.pdf",
+        "size_kb": 21.78
+      },
+      "summary": "Sikkim was recognised as a state within India and allotted one seat in the Council of States and one seat in the House of thePeople.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "001",
+            "status": "modified"
+          },
+          {
+            "article": "004",
+            "status": "modified"
+          },
+          {
+            "article": "371F",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "002A",
+          "371F"
+        ]
+      }
+    },
+    {
+      "number": 37,
+      "title": "The Constitution (Thirty-seventh) Act, 1975",
+      "year": 1975,
+      "published_date": "1975-05-03",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/e758d6fb56d08150e4359287a75266c1.pdf",
+        "local_path": "docs/amendments/037.pdf",
+        "size_kb": 29.49
+      },
+      "summary": "It included Arunachal Pradesh in Article 239A, thus giving it a Legislative Assembly and Council of Ministers.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "239A",
+            "status": "modified"
+          },
+          {
+            "article": "240",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "239A",
+          "240"
+        ]
+      }
+    },
+    {
+      "number": 38,
+      "title": "The Constitution (Thirty-eighth Amendment) Act, 1975",
+      "year": 1975,
+      "published_date": "1975-08-01",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/bca8d0b507a4ddeadc5f7152f6c91193.pdf",
+        "local_path": "docs/amendments/038.pdf",
+        "size_kb": 37.74
+      },
+      "summary": "The President's decision to pass an ordinance or declare emergency is conclusive and can't be challenged in any court. It also made provisions regarding suspension of fundamental rights during Emergency",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "123",
+            "status": "modified"
+          },
+          {
+            "article": "213",
+            "status": "modified"
+          },
+          {
+            "article": "239B",
+            "status": "modified"
+          },
+          {
+            "article": "352",
+            "status": "modified"
+          },
+          {
+            "article": "356",
+            "status": "modified"
+          },
+          {
+            "article": "359",
+            "status": "modified"
+          },
+          {
+            "article": "360",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "213",
+          "352",
+          "356",
+          "359",
+          "360"
+        ]
+      }
+    },
+    {
+      "number": 39,
+      "title": "The Constitution (Thirty-ninth Amendment) Act, 1975",
+      "year": 1975,
+      "published_date": "1975-08-10",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/023c05a84523bce30bca92bd293625c5.pdf",
+        "local_path": "docs/amendments/039.pdf",
+        "size_kb": 43.47
+      },
+      "summary": "Election of President, Vice President or Member of Parliament can't be challenged in court and any pending petition to this effect declared to be void. Several laws were placed within Schedule IX so as to make them valid under the Constitution.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "009",
+            "status": "modified"
+          },
+          {
+            "article": "071",
+            "status": "modified"
+          },
+          {
+            "article": "329",
+            "status": "modified"
+          },
+          {
+            "article": "329A",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "329A"
+        ]
+      }
+    },
+    {
+      "number": 40,
+      "title": "The Constitution (Fortieth Amendment) Act, 1976",
+      "year": 1976,
+      "published_date": "1976-05-27",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/33631a9257ad901c974cb48e870372e1.pdf",
+        "local_path": "docs/amendments/040.pdf",
+        "size_kb": 41.12
+      },
+      "summary": "All the resources in Exclusive Economic Zones were deemed to vest in the Union and Parliament given the power to make laws regarding the limits of continental shelf, exclusive economic zones etc. Several more land reform laws were placed within Schedule IX, so as to make them valid under the Constitution.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "009",
+            "status": "modified"
+          },
+          {
+            "article": "297",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "297"
+        ]
+      }
+    },
+    {
+      "number": 41,
+      "title": "The Constitution (Forty-first Amendment) Act, 1976",
+      "year": 1976,
+      "published_date": "1976-08-18",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/c6953501ff9bdbbffcd0fe0a6cc0cb8e.pdf",
+        "local_path": "docs/amendments/041.pdf",
+        "size_kb": 33.2
+      },
+      "summary": "The retirement age of Chairman and Members of the State Public Service Commissions or the Joint Commission to 62 was raised from sixty to sixty two.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "316",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "316"
+        ]
+      }
+    },
+    {
+      "number": 42,
+      "title": "The Constitution (Forty-second Amendment) Act, 1976. Date on which the Act came into force:– (i) Sections 2 to 5, 7 to 17, 20, 28, 29, 30, 33, 36, 43 to 53, 55, 56, 57 and 59. 3-1-1977 (ii) Sections 6, 23 to 26, 37 to 42, 54 and 58. 1-2-1977 (iii) Se",
+      "year": 1976,
+      "published_date": "1976-08-28",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/9f820a53b6e6840a459bde27eb5d24e5.pdf",
+        "local_path": "docs/amendments/042.pdf",
+        "size_kb": 109.8
+      },
+      "summary": "Imposed fundamental duties, adds the words \"socialist, secular\" to the Preamble, further imposed limits on the power and jurisdiction of the judiciary; raised the term of the Lok Sabha and the Vidhan Sabha from five to six years; authorised the use of Central armed forces in any State to deal with law and order problems, made the President bound by the advice of the Council of Ministers and envisaged the establishment of administrative tribunals for service matters of Government employees and also other tribunals for economic offences. No Constitutional Amendment could be questioned in any court of law. It thus curtailed fundamental rights.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "007",
+            "status": "modified"
+          },
+          {
+            "article": "031C",
+            "status": "modified"
+          },
+          {
+            "article": "031D",
+            "status": "inserted"
+          },
+          {
+            "article": "032A",
+            "status": "inserted"
+          },
+          {
+            "article": "039",
+            "status": "modified"
+          },
+          {
+            "article": "039A",
+            "status": "inserted"
+          },
+          {
+            "article": "043A",
+            "status": "inserted"
+          },
+          {
+            "article": "048A",
+            "status": "inserted"
+          },
+          {
+            "article": "055",
+            "status": "modified"
+          },
+          {
+            "article": "074",
+            "status": "modified"
+          },
+          {
+            "article": "077",
+            "status": "modified"
+          },
+          {
+            "article": "081",
+            "status": "modified"
+          },
+          {
+            "article": "082",
+            "status": "modified"
+          },
+          {
+            "article": "083",
+            "status": "modified"
+          },
+          {
+            "article": "100",
+            "status": "modified"
+          },
+          {
+            "article": "102",
+            "status": "modified"
+          },
+          {
+            "article": "103",
+            "status": "modified"
+          },
+          {
+            "article": "105",
+            "status": "modified"
+          },
+          {
+            "article": "118",
+            "status": "modified"
+          },
+          {
+            "article": "131A",
+            "status": "inserted"
+          },
+          {
+            "article": "139A",
+            "status": "inserted"
+          },
+          {
+            "article": "144A",
+            "status": "inserted"
+          },
+          {
+            "article": "145",
+            "status": "modified"
+          },
+          {
+            "article": "150",
+            "status": "modified"
+          },
+          {
+            "article": "166",
+            "status": "modified"
+          },
+          {
+            "article": "170",
+            "status": "modified"
+          },
+          {
+            "article": "172",
+            "status": "modified"
+          },
+          {
+            "article": "189",
+            "status": "modified"
+          },
+          {
+            "article": "191",
+            "status": "modified"
+          },
+          {
+            "article": "192",
+            "status": "modified"
+          },
+          {
+            "article": "194",
+            "status": "modified"
+          },
+          {
+            "article": "208",
+            "status": "modified"
+          },
+          {
+            "article": "217",
+            "status": "modified"
+          },
+          {
+            "article": "225",
+            "status": "modified"
+          },
+          {
+            "article": "226",
+            "status": "modified"
+          },
+          {
+            "article": "226A",
+            "status": "inserted"
+          },
+          {
+            "article": "227",
+            "status": "modified"
+          },
+          {
+            "article": "228",
+            "status": "modified"
+          },
+          {
+            "article": "228A",
+            "status": "inserted"
+          },
+          {
+            "article": "257A",
+            "status": "inserted"
+          },
+          {
+            "article": "311",
+            "status": "modified"
+          },
+          {
+            "article": "312",
+            "status": "modified"
+          },
+          {
+            "article": "330",
+            "status": "modified"
+          },
+          {
+            "article": "352",
+            "status": "modified"
+          },
+          {
+            "article": "353",
+            "status": "modified"
+          },
+          {
+            "article": "356",
+            "status": "modified"
+          },
+          {
+            "article": "357",
+            "status": "modified"
+          },
+          {
+            "article": "358",
+            "status": "modified"
+          },
+          {
+            "article": "359",
+            "status": "modified"
+          },
+          {
+            "article": "366",
+            "status": "modified"
+          },
+          {
+            "article": "368",
+            "status": "modified"
+          },
+          {
+            "article": "371F",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "031D",
+          "039",
+          "039A",
+          "043A",
+          "048A",
+          "051A",
+          "083",
+          "105",
+          "172",
+          "228A",
+          "257A",
+          "312",
+          "329A",
+          "357",
+          "358",
+          "359"
+        ]
+      }
+    },
+    {
+      "number": 43,
+      "title": "The Constitution (Forty-third Amendment) Act, 1977",
+      "year": 1977,
+      "published_date": "1977-12-12",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/92ab0775a464da9f13fa816c402823f8.pdf",
+        "local_path": "docs/amendments/043.pdf",
+        "size_kb": 35.83
+      },
+      "summary": "Repealed some of the provisions of the 42nd Amendment Act that limited the judiciary's power of judicial review.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "031D",
+            "status": "deleted"
+          },
+          {
+            "article": "032A",
+            "status": "deleted"
+          },
+          {
+            "article": "131A",
+            "status": "deleted"
+          },
+          {
+            "article": "144A",
+            "status": "deleted"
+          },
+          {
+            "article": "145",
+            "status": "modified"
+          },
+          {
+            "article": "226",
+            "status": "modified"
+          },
+          {
+            "article": "226A",
+            "status": "deleted"
+          },
+          {
+            "article": "228",
+            "status": "modified"
+          },
+          {
+            "article": "228A",
+            "status": "deleted"
+          },
+          {
+            "article": "366",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "031D",
+          "032A",
+          "131A",
+          "144A",
+          "145",
+          "226",
+          "226A",
+          "228",
+          "228A",
+          "366"
+        ]
+      }
+    },
+    {
+      "number": 44,
+      "title": "The Constitution (Forty-fourth Amendment) Act, 1978. Date on which the Act came into force:– (i) Sections 2, 4 to 16, 22, 23, 25 to 29, 31 to 42, 44 and 45 20-6-1979 [GSR 383(E), dated 19-6-1979]. (ii) Sections 17 to 21 and 30 1-8-1979 [GSR 383(E), d",
+      "year": 1978,
+      "published_date": "1987-05-09",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/376b37bf0ae18f1d9276ce226d0e67a1.pdf",
+        "local_path": "docs/amendments/044.pdf",
+        "size_kb": 81.83
+      },
+      "summary": "Amended Article 31 to remove property as a fundamental right, thus reducing it to only a statutory right. Emergency could only be imposed under 352 when the security of India was threatened due to war, external aggression or armed rebellion. It repeals some sections of the 42nd Amendment Act.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "009",
+            "status": "modified"
+          },
+          {
+            "article": "019",
+            "status": "modified"
+          },
+          {
+            "article": "022",
+            "status": "modified"
+          },
+          {
+            "article": "030",
+            "status": "modified"
+          },
+          {
+            "article": "031",
+            "status": "deleted"
+          },
+          {
+            "article": "031A",
+            "status": "modified"
+          },
+          {
+            "article": "031C",
+            "status": "modified"
+          },
+          {
+            "article": "038",
+            "status": "modified"
+          },
+          {
+            "article": "071",
+            "status": "modified"
+          },
+          {
+            "article": "074",
+            "status": "modified"
+          },
+          {
+            "article": "077",
+            "status": "modified"
+          },
+          {
+            "article": "083",
+            "status": "modified"
+          },
+          {
+            "article": "105",
+            "status": "modified"
+          },
+          {
+            "article": "123",
+            "status": "modified"
+          },
+          {
+            "article": "130",
+            "status": "modified"
+          },
+          {
+            "article": "132",
+            "status": "modified"
+          },
+          {
+            "article": "133",
+            "status": "modified"
+          },
+          {
+            "article": "134",
+            "status": "modified"
+          },
+          {
+            "article": "134A",
+            "status": "inserted"
+          },
+          {
+            "article": "139A",
+            "status": "modified"
+          },
+          {
+            "article": "150",
+            "status": "modified"
+          },
+          {
+            "article": "166",
+            "status": "modified"
+          },
+          {
+            "article": "172",
+            "status": "modified"
+          },
+          {
+            "article": "192",
+            "status": "modified"
+          },
+          {
+            "article": "194",
+            "status": "modified"
+          },
+          {
+            "article": "213",
+            "status": "modified"
+          },
+          {
+            "article": "217",
+            "status": "modified"
+          },
+          {
+            "article": "225",
+            "status": "modified"
+          },
+          {
+            "article": "226",
+            "status": "modified"
+          },
+          {
+            "article": "227",
+            "status": "modified"
+          },
+          {
+            "article": "239B",
+            "status": "modified"
+          },
+          {
+            "article": "257A",
+            "status": "deleted"
+          },
+          {
+            "article": "329",
+            "status": "modified"
+          },
+          {
+            "article": "329A",
+            "status": "deleted"
+          },
+          {
+            "article": "352",
+            "status": "modified"
+          },
+          {
+            "article": "356",
+            "status": "modified"
+          },
+          {
+            "article": "358",
+            "status": "modified"
+          },
+          {
+            "article": "359",
+            "status": "modified"
+          },
+          {
+            "article": "360",
+            "status": "modified"
+          },
+          {
+            "article": "361A",
+            "status": "inserted"
+          },
+          {
+            "article": "371F",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "019",
+          "022",
+          "030",
+          "031",
+          "031A",
+          "031C",
+          "038",
+          "074",
+          "077",
+          "083",
+          "103",
+          "105",
+          "123",
+          "132",
+          "133",
+          "134",
+          "134A",
+          "139A",
+          "150",
+          "166",
+          "172",
+          "192",
+          "194",
+          "213",
+          "217",
+          "225",
+          "226",
+          "227",
+          "239B",
+          "257A",
+          "300A",
+          "329",
+          "329A",
+          "352",
+          "356",
+          "358",
+          "359",
+          "360",
+          "361A",
+          "371F"
+        ]
+      }
+    },
+    {
+      "number": 45,
+      "title": "The Constitution (Forty-fifth Amendment) Act, 1980",
+      "year": 1980,
+      "published_date": "1980-01-16",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/62194c761da541335c5e1d8b4da03aab.pdf",
+        "local_path": "docs/amendments/045.pdf",
+        "size_kb": 28.42
+      },
+      "summary": "Reservation of Seats for SC/ST and Anglo-Indians in the Lok Sabha and State Legislative assemblies was extended till 1990.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "334",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "334"
+        ]
+      }
+    },
+    {
+      "number": 46,
+      "title": "The Constitution (Forty-sixth Amendment) Act, 1982",
+      "year": 1982,
+      "published_date": "2025-10-31",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/45675709264e657076d95506afb1da2a.pdf",
+        "local_path": "docs/amendments/046.pdf",
+        "size_kb": 51.75
+      },
+      "summary": "Inserted to overcome the judgements delivered in the context of Sales Tax which could be levied by States. \"Tax on the sale or purchase of goods\" was defined by adding clause 29A to Article 366. Tax levied on the consignment of goods in the course of inter-State trade or commerce to be assigned to the States.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "007",
+            "status": "modified"
+          },
+          {
+            "article": "269",
+            "status": "modified"
+          },
+          {
+            "article": "286",
+            "status": "modified"
+          },
+          {
+            "article": "366",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "269",
+          "286",
+          "366"
+        ]
+      }
+    },
+    {
+      "number": 47,
+      "title": "The Constitution (Forty-seventh Amendment) Act, 1984",
+      "year": 1984,
+      "published_date": "2025-12-15",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/b13ee4d9fe904587911afadf86379838.pdf",
+        "local_path": "docs/amendments/047.pdf",
+        "size_kb": 31.44
+      },
+      "summary": "Several land reform laws were placed within Schedule IX, so as to make them valid under the Constitution.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "009",
+            "status": "modified"
+          }
+        ],
+        "ik": []
+      }
+    },
+    {
+      "number": 48,
+      "title": "The Constitution (Forty-eighth Amendment) Act, 1984",
+      "year": 1984,
+      "published_date": "2025-12-15",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/1b65d89d6107c526d5dc2102f3dcf479.pdf",
+        "local_path": "docs/amendments/048.pdf",
+        "size_kb": 29.23
+      },
+      "summary": "This amendment dealt with the Emergency in Punjab. Since the special conditions mentioned in Article 356 were satisfied, it was provided that Emergency would be allowed for two years in Punjab.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "356",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "356"
+        ]
+      }
+    },
+    {
+      "number": 49,
+      "title": "The Constitution (Forty-ninth Amendment) Act, 1984",
+      "year": 1984,
+      "published_date": "2025-12-15",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/63e45ad1fb67b3ca83fd83935e5d39b3.pdf",
+        "local_path": "docs/amendments/049.pdf",
+        "size_kb": 33.21
+      },
+      "summary": "Tripura was recognised as a tribal state and its name was added to the sixth schedule. The Tripura Tribal Areas Autonomous District Council was given constitutional sanctity.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "005",
+            "status": "modified"
+          },
+          {
+            "article": "006",
+            "status": "modified"
+          },
+          {
+            "article": "244",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "244"
+        ]
+      }
+    },
+    {
+      "number": 50,
+      "title": "The Constitution (Fiftieth Amendment) Act, 1984",
+      "year": 1984,
+      "published_date": "2025-12-15",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/92a0a27dfea67d7e6117a833aeff0da9.pdf",
+        "local_path": "docs/amendments/050.pdf",
+        "size_kb": 29.53
+      },
+      "summary": "Article 33, which provides for curtailment of fundamental rights of Army Personnel, was also extended to Security Personnel protecting property and communication infrastructure.Amendment made to curtail Fundamental Rights as per Part III as prescribed in Article 33 to cover Security Personnel protecting property and communication infrastructure.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "033",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "033"
+        ]
+      }
+    },
+    {
+      "number": 51,
+      "title": "The Constitution (Fifty-first Amendment) Act, 1984",
+      "year": 1984,
+      "published_date": "2025-12-15",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/a0285cd36e42bf42aceb90f882f486ec.pdf",
+        "local_path": "docs/amendments/051.pdf",
+        "size_kb": 30.36
+      },
+      "summary": "Seats were reserved in Lok Sabha and State legislative Assemblies for the Scheduled Tribes in Meghalaya, Nagaland, Arunachal Pradesh and Mizoram",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "330",
+            "status": "modified"
+          },
+          {
+            "article": "332",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "330",
+          "332"
+        ]
+      }
+    },
+    {
+      "number": 52,
+      "title": "The Constitution (Fifty-second Amendment) Act, 1985",
+      "year": 1985,
+      "published_date": "2025-12-15",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/2d3bb2cbee87a8e7ede010fe0ca27655.pdf",
+        "local_path": "docs/amendments/052.pdf",
+        "size_kb": 47.79
+      },
+      "summary": "This amendment inserted the X Schedule to combat political defection. Any member of the Parliament or State legislature who was a member of a political party at the time of taking his seat, loses the same if he leaves his party or doesn't vote in the manner prescribed by the party.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "010",
+            "status": "inserted"
+          },
+          {
+            "article": "101",
+            "status": "modified"
+          },
+          {
+            "article": "102",
+            "status": "modified"
+          },
+          {
+            "article": "190",
+            "status": "modified"
+          },
+          {
+            "article": "191",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "101"
+        ]
+      }
+    },
+    {
+      "number": 53,
+      "title": "The Constitution (Fifty-third Amendment) Act, 1986",
+      "year": 1986,
+      "published_date": "2025-12-15",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/f1b620ba6a4d19f4fc9b83bb1d892160.pdf",
+        "local_path": "docs/amendments/053.pdf",
+        "size_kb": 31.33
+      },
+      "summary": "Added Article 371G to the Constitution giving special provisions for Mizoram",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "371G",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "371G"
+        ]
+      }
+    },
+    {
+      "number": 54,
+      "title": "The Constitution (Fifty-fourth Amendment) Act, 1986",
+      "year": 1986,
+      "published_date": "2025-12-15",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/10490cf8cc0117c5dfab227ad228f6fc.pdf",
+        "local_path": "docs/amendments/054.pdf",
+        "size_kb": 30.7
+      },
+      "summary": "The salaries of Chief Justices and Judges of Supreme Court and High Courts were raised. In addition, the Parliament was given the power of raising the salaries of judges in the future by law.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "002",
+            "status": "modified"
+          },
+          {
+            "article": "125",
+            "status": "modified"
+          },
+          {
+            "article": "221",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "125"
+        ]
+      }
+    },
+    {
+      "number": 55,
+      "title": "The Constitution (Fifty-fifth Amendment) Act, 1986",
+      "year": 1986,
+      "published_date": "2025-12-15",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/de89f6e3d1d78cd9ce5fc456597278f2.pdf",
+        "local_path": "docs/amendments/055.pdf",
+        "size_kb": 31.39
+      },
+      "summary": "Inserted 371-H to give special powers to Governor of Arunachal Pradesh",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "371H",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "371H"
+        ]
+      }
+    },
+    {
+      "number": 56,
+      "title": "The Constitution (Fifty-sixth Amendment) Act, 1987",
+      "year": 1987,
+      "published_date": "2025-12-15",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/04e04860c93f704a1f6a80b1a3f245c3.pdf",
+        "local_path": "docs/amendments/056.pdf",
+        "size_kb": 29.72
+      },
+      "summary": "Inserted 371-I mandating that the Legislative Assembly of Goa shall consist of not less than thirty members.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "371I",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "371I"
+        ]
+      }
+    },
+    {
+      "number": 57,
+      "title": "The Constitution (Fifty-seventh Amendment) Act, 1987",
+      "year": 1987,
+      "published_date": "2025-12-15",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/3b8f890171e2000fd23d21d261d5d0a3.pdf",
+        "local_path": "docs/amendments/057.pdf",
+        "size_kb": 33.69
+      },
+      "summary": "Deals with reservation for Scheduled Tribes in Meghalaya, Nagaland, Arunachal Pradesh and Mizoram.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "332",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "332"
+        ]
+      }
+    },
+    {
+      "number": 58,
+      "title": "The Constitution (Fifty-eighth Amendment) Act, 1987",
+      "year": 1987,
+      "published_date": "1987-12-09",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/12a318771c5670cf827c0a68ebf4c731.pdf",
+        "local_path": "docs/amendments/058.pdf",
+        "size_kb": 30.98
+      },
+      "summary": "It empowers the President to publish a Hindi translation of the constitution with all its amendments and future amendments as well.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "394A",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "394A"
+        ]
+      }
+    },
+    {
+      "number": 59,
+      "title": "The Constitution (Fifty-ninth Amendment) Act, 1988",
+      "year": 1988,
+      "published_date": "1988-03-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/3756888f4fb9ffa8e456c1a94e3eaf2f.pdf",
+        "local_path": "docs/amendments/059.pdf",
+        "size_kb": 35.29
+      },
+      "summary": "Emergency in Punjab was extended upto three years by amending Article 359A",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "356",
+            "status": "modified"
+          },
+          {
+            "article": "359A",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "359A"
+        ]
+      }
+    },
+    {
+      "number": 60,
+      "title": "The Constitution (Sixtieth Amendment) Act, 1988",
+      "year": 1988,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/1f71451452256d6fa3063c5678d7f8a9.pdf",
+        "local_path": "docs/amendments/060.pdf",
+        "size_kb": 29.78
+      },
+      "summary": "Article 276(2) was amended to increase the ceiling of Profession Tax from a minimum of Rs. 250/- to a maximum of Rs. 2500/- per annum. The proviso was omitted to Article 276 was omitted.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "276",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "276"
+        ]
+      }
+    },
+    {
+      "number": 61,
+      "title": "The Constitution (Sixty-first Amendment) Act, 1988",
+      "year": 1988,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/8446eabf82b28598535e8c5f1ef65508.pdf",
+        "local_path": "docs/amendments/061.pdf",
+        "size_kb": 28.43
+      },
+      "summary": "Voting age was reduced from 21 to 18 years for the electorate.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "326",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "326"
+        ]
+      }
+    },
+    {
+      "number": 62,
+      "title": "The Constitution (Sixty-second Amendment) Act, 1989",
+      "year": 1989,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/ba766f1db4f622e4241ebcd8124838dc.pdf",
+        "local_path": "docs/amendments/062.pdf",
+        "size_kb": 28.46
+      },
+      "summary": "Reservation of Seats for SC/ST and Anglo-Indians in the Lok Sabha and State Legislative assemblies was extended till 2000.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "334",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "334"
+        ]
+      }
+    },
+    {
+      "number": 63,
+      "title": "The Constitution (Sixty-third Amendment ) Act, 1989",
+      "year": 1989,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/b5ab483885454d08a510dbb34b72c3f5.pdf",
+        "local_path": "docs/amendments/063.pdf",
+        "size_kb": 28.37
+      },
+      "summary": "The 59th Amendment Act was repealed, thus removing Article 359A of the Constitution. The proviso to clause (5) of Article 356 also omitted.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "356",
+            "status": "modified"
+          },
+          {
+            "article": "359A",
+            "status": "deleted"
+          }
+        ],
+        "ik": []
+      }
+    },
+    {
+      "number": 64,
+      "title": "The Constitution (Sixty-fourth Amendment ) Act, 1990",
+      "year": 1990,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/a82862d726c4ce4102d23cc814693051.pdf",
+        "local_path": "docs/amendments/064.pdf",
+        "size_kb": 30.58
+      },
+      "summary": "President's rule in Punjab was extended to three years and six months.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "356",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "356"
+        ]
+      }
+    },
+    {
+      "number": 65,
+      "title": "The Constitution (Sixty-fifth Amendment) Act, 1990",
+      "year": 1990,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/17b7a09c7b1fbb07df2a26209e631d7b.pdf",
+        "local_path": "docs/amendments/065.pdf",
+        "size_kb": 35.01
+      },
+      "summary": "This amendment provided for formation of the National Commission for Scheduled Castes and Scheduled Tribes, and its powers were specified in Article 338.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "338",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "338"
+        ]
+      }
+    },
+    {
+      "number": 66,
+      "title": "The Constitution (Sixty-sixth Amendment) Act, 1990",
+      "year": 1990,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/ea709c4d92276c96a05a4a72b4f032c9.pdf",
+        "local_path": "docs/amendments/066.pdf",
+        "size_kb": 352.0
+      },
+      "summary": "Several land acquistion laws were placed within Schedule 9, so as to make them valid under the Constitution.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "009",
+            "status": "modified"
+          }
+        ],
+        "ik": []
+      }
+    },
+    {
+      "number": 67,
+      "title": "The Constitution (Sixty-seventh Amendment) Act, 1990",
+      "year": 1990,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/3d081c80a5358ff987eb6dbd74c32f69.pdf",
+        "local_path": "docs/amendments/067.pdf",
+        "size_kb": 29.81
+      },
+      "summary": "President's rule extended up to four years in the state of Punjab",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "356",
+            "status": "modified"
+          }
+        ],
+        "ik": []
+      }
+    },
+    {
+      "number": 68,
+      "title": "The Constitution (Sixty-eighth Amendment) Act, 1991",
+      "year": 1991,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/d27d3702f6ba11b069b74f3d42c8bf4e.pdf",
+        "local_path": "docs/amendments/068.pdf",
+        "size_kb": 30.37
+      },
+      "summary": "President's rule extended upto five years in the state of Punjab",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "356",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "356"
+        ]
+      }
+    },
+    {
+      "number": 69,
+      "title": "The Constitution (Sixty-ninth Amendment) Act, 1991",
+      "year": 1991,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/cb901ee7998206ee9f74849dff237ade.pdf",
+        "local_path": "docs/amendments/069.pdf",
+        "size_kb": 337.17
+      },
+      "summary": "This Act created Legislatures and Council of Ministers for the National Capital of Delhi.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "239AA",
+            "status": "inserted"
+          },
+          {
+            "article": "239AB",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "239AA",
+          "239AB"
+        ]
+      }
+    },
+    {
+      "number": 70,
+      "title": "The Constitution (Seventieth Amendment) Act, 1992. Date on which the Act came into force:– (I) S.2……..Yet to be notified. (ii) S.3……..21-12-1991 (as per s.1 (2) of the Act)",
+      "year": 1992,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/6bdc9fcb7696dd93c5d1c71c41e1b969.pdf",
+        "local_path": "docs/amendments/070.pdf",
+        "size_kb": 31.8
+      },
+      "summary": "National Capital of Delhi and Union Territory of Pondicherry are included in electoral college for Presidential Election",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "054",
+            "status": "modified"
+          },
+          {
+            "article": "239AA",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "054",
+          "239AA"
+        ]
+      }
+    },
+    {
+      "number": 71,
+      "title": "The Constitution (Seventy-first Amendment) Act, 1992",
+      "year": 1992,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/87042b42e6fd5757797be6d2250a7e32.pdf",
+        "local_path": "docs/amendments/071.pdf",
+        "size_kb": 28.29
+      },
+      "summary": "Konkani, Manipuri and Nepali were included in the Eighth Schedule.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "008",
+            "status": "modified"
+          }
+        ],
+        "ik": []
+      }
+    },
+    {
+      "number": 72,
+      "title": "The Constitution (Seventy-second Amendment) Act, 1992",
+      "year": 1992,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/5767a4c1cfd857e2b9521046e3681b6d.pdf",
+        "local_path": "docs/amendments/072.pdf",
+        "size_kb": 142.9
+      },
+      "summary": "Amended Article 332 of the Constitution to reserve seats for Scheduled Tribes in the Legislative Assembly of Tripura.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "332",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "232"
+        ]
+      }
+    },
+    {
+      "number": 73,
+      "title": "The Constitution (Seventy-third Amendment) Act, 1992",
+      "year": 1992,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/d6e04624ef8b6b869af003909507cfe6.pdf",
+        "local_path": "docs/amendments/073.pdf",
+        "size_kb": 60.09
+      },
+      "summary": "Inserted Part IX which provides for Panchayat Raj in rural areas",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "",
+            "status": null
+          }
+        ],
+        "ik": [
+          "243"
+        ]
+      }
+    },
+    {
+      "number": 74,
+      "title": "THE CONSTITUTION (SEVENTY-FOURTH AMENDMENT) ACT, 1992",
+      "year": 1992,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/8e3828fa91baa94f3aaa74cdc4152cf2.pdf",
+        "local_path": "docs/amendments/074.pdf",
+        "size_kb": 65.26
+      },
+      "summary": "Inserted Part IX-A which provides for Urban Local Bodies in towns and cities",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "012",
+            "status": "inserted"
+          },
+          {
+            "article": "280",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "243P"
+        ]
+      }
+    },
+    {
+      "number": 75,
+      "title": "The Constitution (Seventy-fifth Amendment) Act, 1993",
+      "year": 1993,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/fda338a4ec06555ee424f9ea10759d0d.pdf",
+        "local_path": "docs/amendments/075.pdf",
+        "size_kb": 126.63
+      },
+      "summary": "Amended Article 323B setting up Rent Control Tribunals to hear disputes of rent litigants. The jurisdiction of all other courts except Supreme Court was excluded.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "323B",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "323B"
+        ]
+      }
+    },
+    {
+      "number": 76,
+      "title": "The Constitution (Seventy-sixth Amendment) Act, 1994",
+      "year": 1994,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/f3b4ae82cc697454c66a98b610225f34.pdf",
+        "local_path": "docs/amendments/076.pdf",
+        "size_kb": 34.94
+      },
+      "summary": "An Act passed by the Tamil Nadu Government provided 69% reservation in Government Services and for admission in Educational Institutions. This act was included within the IX Schedule to secure its constitutional validity.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "009",
+            "status": "modified"
+          },
+          {
+            "article": "257A",
+            "status": "inserted"
+          }
+        ],
+        "ik": []
+      }
+    },
+    {
+      "number": 77,
+      "title": "The Constitution (Seventy-seventh Amendment) Act, 1995",
+      "year": 1995,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/a6d304fce13d42d83222daab59e01415.pdf",
+        "local_path": "docs/amendments/077.pdf",
+        "size_kb": 29.77
+      },
+      "summary": "Article 16 was amended to protect reservation to SC/ST Employees in professional promotions",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "016",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "016"
+        ]
+      }
+    },
+    {
+      "number": 78,
+      "title": "The Constitution (Seventy eight Amendment) Act, 1995",
+      "year": 1995,
+      "published_date": "1995-08-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/545b0ff2c61d1a6972905f0b50188a95.pdf",
+        "local_path": "docs/amendments/078.pdf",
+        "size_kb": 32.57
+      },
+      "summary": "Several land reform laws were placed within Schedule IX, so as to make them valid under the Constitution.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "009",
+            "status": "modified"
+          },
+          {
+            "article": "258",
+            "status": "inserted"
+          },
+          {
+            "article": "259",
+            "status": "inserted"
+          },
+          {
+            "article": "260",
+            "status": "inserted"
+          },
+          {
+            "article": "261",
+            "status": "inserted"
+          },
+          {
+            "article": "262",
+            "status": "inserted"
+          },
+          {
+            "article": "267",
+            "status": "inserted"
+          },
+          {
+            "article": "268",
+            "status": "inserted"
+          },
+          {
+            "article": "269",
+            "status": "inserted"
+          },
+          {
+            "article": "270",
+            "status": "inserted"
+          },
+          {
+            "article": "271",
+            "status": "inserted"
+          },
+          {
+            "article": "272",
+            "status": "inserted"
+          },
+          {
+            "article": "273",
+            "status": "inserted"
+          },
+          {
+            "article": "274",
+            "status": "inserted"
+          },
+          {
+            "article": "275",
+            "status": "inserted"
+          },
+          {
+            "article": "276",
+            "status": "inserted"
+          },
+          {
+            "article": "277",
+            "status": "inserted"
+          },
+          {
+            "article": "278",
+            "status": "inserted"
+          },
+          {
+            "article": "279",
+            "status": "inserted"
+          },
+          {
+            "article": "280",
+            "status": "inserted"
+          },
+          {
+            "article": "281",
+            "status": "inserted"
+          },
+          {
+            "article": "282",
+            "status": "inserted"
+          },
+          {
+            "article": "283",
+            "status": "inserted"
+          },
+          {
+            "article": "284",
+            "status": "inserted"
+          }
+        ],
+        "ik": []
+      }
+    },
+    {
+      "number": 79,
+      "title": "The Constitution (Seventy ninth Amendment) Act, 1999",
+      "year": 1999,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/f44bc2266c00bac19672e503dcf056a2.pdf",
+        "local_path": "docs/amendments/079.pdf",
+        "size_kb": 85.31
+      },
+      "summary": "Reservation of Seats for SC/ST and Anglo-Indians in the Lok Sabha and State Legislative assemblies was extended till 2010.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "334",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "334"
+        ]
+      }
+    },
+    {
+      "number": 80,
+      "title": "The Constitution (Eightieth Amendment) Act, 2000",
+      "year": 2000,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/e87cb6624f9c380b43c396c1979342cf.pdf",
+        "local_path": "docs/amendments/080.pdf",
+        "size_kb": 97.68
+      },
+      "summary": "This Act made some changes regarding sharing of certain Union taxes and duties between the Union and the States in order to implement the report of the Tenth Finance Commission.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "269",
+            "status": "modified"
+          },
+          {
+            "article": "270",
+            "status": "modified"
+          },
+          {
+            "article": "272",
+            "status": "deleted"
+          }
+        ],
+        "ik": [
+          "269",
+          "270",
+          "272"
+        ]
+      }
+    },
+    {
+      "number": 81,
+      "title": "The Constitution (Eighty-first Amendment) Act, 2000",
+      "year": 2000,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/cfb3fbce2387ec465a8e6529647512ad.pdf",
+        "local_path": "docs/amendments/081.pdf",
+        "size_kb": 30.67
+      },
+      "summary": "Amended Article 16 in the context of backlog in vacancies of jobs reserved for SC/STs.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "016",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "016"
+        ]
+      }
+    },
+    {
+      "number": 82,
+      "title": "The Constitution (Eighty-second Amendment) Act, 2000",
+      "year": 2000,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/163d821e39b1891f0321d008fea81e50.pdf",
+        "local_path": "docs/amendments/082.pdf",
+        "size_kb": 85.63
+      },
+      "summary": "Amended Article 335 to permit relaxation of qualifying marks and other criteria for SC / ST candidates in any examination for promotion.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "335",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "335"
+        ]
+      }
+    },
+    {
+      "number": 83,
+      "title": "The Constitution (Eighty-third Amendment) Act, 2000",
+      "year": 2000,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/de0ef6f8f469f9a4b7d5421de25dfc2b.pdf",
+        "local_path": "docs/amendments/083.pdf",
+        "size_kb": 85.49
+      },
+      "summary": "Arunachal Pradesh was exempted from the reservation of Scheduled Castes in Panchayati Raj institutions",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "243M",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "243M"
+        ]
+      }
+    },
+    {
+      "number": 84,
+      "title": "The Constitution (Eighty-fourth Amendment) Act, 2001",
+      "year": 2001,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/879abe65ba0eac1dbfffa83ba5cd0438.pdf",
+        "local_path": "docs/amendments/084.pdf",
+        "size_kb": 171.47
+      },
+      "summary": "The freeze on undertaking fresh delimitation was extended up to the year 2026, as this will motivate the states to pursue population control. In addition, the Central Government could alter constituencies within the state without altering the number of seats in the Legislature.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "055",
+            "status": "modified"
+          },
+          {
+            "article": "081",
+            "status": "modified"
+          },
+          {
+            "article": "082",
+            "status": "modified"
+          },
+          {
+            "article": "170",
+            "status": "modified"
+          },
+          {
+            "article": "330",
+            "status": "modified"
+          },
+          {
+            "article": "332",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "055"
+        ]
+      }
+    },
+    {
+      "number": 85,
+      "title": "The Constitution (Eighty-fifth Amendment) Act, 2002",
+      "year": 2002,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/0306241a215c6aafe8bee67f6a9fe894.pdf",
+        "local_path": "docs/amendments/085.pdf",
+        "size_kb": 29.46
+      },
+      "summary": "Amended Article 16 to provide Consequential seniority in matter of promotions of SC/STs",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "016",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "016"
+        ]
+      }
+    },
+    {
+      "number": 86,
+      "title": "The Constitution (Eighty-sixth Amendment) Act, 2002",
+      "year": 2002,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/16970eb1a68d4fe46ac40acd783a6c34.pdf",
+        "local_path": "docs/amendments/086.pdf",
+        "size_kb": 31.21
+      },
+      "summary": "Mandated provision of free and compulsory education for children between six and fourteen years, made it a fundamental duty for parents to provide educational opportunities to their children and made early childhood care and education for children below six years of age a DPSP.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "021A",
+            "status": "inserted"
+          },
+          {
+            "article": "045",
+            "status": "modified"
+          },
+          {
+            "article": "051A",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "021A"
+        ]
+      }
+    },
+    {
+      "number": 87,
+      "title": "The Constitution (Eighty-seventh Amendment) Act, 2003",
+      "year": 2003,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/ba763f8738d9c5a13e212e9ea4cc6aaa.pdf",
+        "local_path": "docs/amendments/087.pdf",
+        "size_kb": 31.31
+      },
+      "summary": "Enabled Electoral constituencies to be readjusted according to the 2001 census; however the number of seats for States in the legislature remained unchanged.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "081",
+            "status": "modified"
+          },
+          {
+            "article": "082",
+            "status": "modified"
+          },
+          {
+            "article": "170",
+            "status": "modified"
+          },
+          {
+            "article": "330",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "081"
+        ]
+      }
+    },
+    {
+      "number": 88,
+      "title": "The Constitution (Eighty-eighth Amendment) Act, 2003",
+      "year": 2003,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/1488ce649fee8ec56a270137b2cb2e55.pdf",
+        "local_path": "docs/amendments/088.pdf",
+        "size_kb": 30.93
+      },
+      "summary": "Provides for specific power to levy Service Tax by the Centre and the manner in which it has to be distributed.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "007",
+            "status": "modified"
+          },
+          {
+            "article": "268A",
+            "status": "inserted"
+          },
+          {
+            "article": "270",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "270"
+        ]
+      }
+    },
+    {
+      "number": 89,
+      "title": "The Constitution (Eighty-ninth Amendment) Act, 2003",
+      "year": 2003,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/0c2366570aee86b57258a378ddf6dbc1.pdf",
+        "local_path": "docs/amendments/089.pdf",
+        "size_kb": 35.2
+      },
+      "summary": "The National Commission for Scheduled Castes and Scheduled Tribes was separated into two commissions: The National Commission for Scheduled Castes and The National Commission for Scheduled Tribes",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "338",
+            "status": "modified"
+          },
+          {
+            "article": "338A",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "338A"
+        ]
+      }
+    },
+    {
+      "number": 90,
+      "title": "The Constitution (Ninetieth Amendment) Act, 2003",
+      "year": 2003,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/4af6a31f7c56bdd0b93dbaaae0362190.pdf",
+        "local_path": "docs/amendments/090.pdf",
+        "size_kb": 28.34
+      },
+      "summary": "It provided that the reservation for ST and non-ST Bodoland Territory Area in the Legislative Assembly of Assam shall be maintained.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "332",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "332"
+        ]
+      }
+    },
+    {
+      "number": 91,
+      "title": "The Constitution (Ninety-First Amendment) Act, 2003",
+      "year": 2003,
+      "published_date": "2004-01-01",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/1bc0ff014a6cd9946d181eb268f1259b.pdf",
+        "local_path": "docs/amendments/091.pdf",
+        "size_kb": 241.65
+      },
+      "summary": "Limitation imposed on the size of the council of ministers so as to not exceed 15% of the strength of the legislature. It also omitted paragraph 3 of the X Schedule which provided that disqualification on ground of defection will not apply when there is a split in the party.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "010",
+            "status": "modified"
+          },
+          {
+            "article": "075",
+            "status": "modified"
+          },
+          {
+            "article": "164",
+            "status": "modified"
+          },
+          {
+            "article": "361B",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "075"
+        ]
+      }
+    },
+    {
+      "number": 92,
+      "title": "The Constitution (Ninety-Second Amendment) Act, 2003",
+      "year": 2003,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/2e3c0925d75850f85cafbf34aa72eb31.pdf",
+        "local_path": "docs/amendments/092.pdf",
+        "size_kb": 106.23
+      },
+      "summary": "Bodo, Dogri, Santali and Maithali were included as official languages in the VIII Schedule.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "007",
+            "status": "modified"
+          },
+          {
+            "article": "008",
+            "status": "modified"
+          },
+          {
+            "article": "268A",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "270"
+        ]
+      }
+    },
+    {
+      "number": 93,
+      "title": "The Constitution (Ninety-third Amendment) Act, 2005",
+      "year": 2005,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/aa777da5ac292230760bcc5778f5e0cc.pdf",
+        "local_path": "docs/amendments/093.pdf",
+        "size_kb": 121.64
+      },
+      "summary": "Amended Article 15 to allow for 27% reservation of OBC in educational institutions, both government as well as private.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "015",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "015"
+        ]
+      }
+    },
+    {
+      "number": 94,
+      "title": "The Constitution (Ninety-fourth Amendment) Act, 2006",
+      "year": 2006,
+      "published_date": "2025-10-30",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/9dc56d2e8add2dcaa2bc7c53cc6f6a04.pdf",
+        "local_path": "docs/amendments/094.pdf",
+        "size_kb": 26.64
+      },
+      "summary": "Amended Article 164 to provide for a Minister of Tribal Welfare in Jharkhand and Chhattisgarh States.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "164",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "164"
+        ]
+      }
+    },
+    {
+      "number": 95,
+      "title": "The Constitution (Ninety-fifth Amendment) Act, 2009",
+      "year": 2009,
+      "published_date": "2010-01-18",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/11/206474f718cdbfdc7dfe1a0b178e7518.pdf",
+        "local_path": "docs/amendments/095.pdf",
+        "size_kb": 568.93
+      },
+      "summary": "Reservation of Seats for SC/ST and Anglo-Indians in the Lok Sabha and State Legislative assemblies was extended till 2020",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "334",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "334"
+        ]
+      }
+    },
+    {
+      "number": 96,
+      "title": "The Constitution (Ninety-sixth Amendment) Act, 2011",
+      "year": 2011,
+      "published_date": "2011-09-23",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/534530333a967f990e4a48baca37fb81.pdf",
+        "local_path": "docs/amendments/096.pdf",
+        "size_kb": 411.21
+      },
+      "summary": "In VIII Schedule, the word \"Odia\" was substitued for \"Oriya\"",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "008",
+            "status": "modified"
+          }
+        ],
+        "ik": []
+      }
+    },
+    {
+      "number": 97,
+      "title": "The Constitution (Ninety-seventh Amendment) Act, 2011",
+      "year": 2011,
+      "published_date": "2012-01-12",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/4499315a6ffd7121c68adacbf1ad8dc9.pdf",
+        "local_path": "docs/amendments/097.pdf",
+        "size_kb": null
+      },
+      "summary": "Inserted Article 43B and Part-IXB relating to Co-operative Societies.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "043B",
+            "status": "inserted"
+          },
+          {
+            "article": "IXB",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "019",
+          "043B",
+          "243ZH",
+          "243ZI",
+          "243ZJ",
+          "243ZK",
+          "243ZL",
+          "243ZM",
+          "243ZN",
+          "243ZO",
+          "243ZP",
+          "243ZQ",
+          "243ZR",
+          "243ZS",
+          "243ZT"
+        ]
+      }
+    },
+    {
+      "number": 98,
+      "title": "The Constitution (Ninety-eighth Amendment)Act, 2012",
+      "year": 2012,
+      "published_date": "2013-01-01",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/543af8337b820982df352f2ecacfbb23.pdf",
+        "local_path": "docs/amendments/098.pdf",
+        "size_kb": 212.17
+      },
+      "summary": "Inserted Article 371J which enabled the Governor of Karnataka to take measures for development of Hyderabad-Karnataka Region.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "371J",
+            "status": "inserted"
+          }
+        ],
+        "ik": [
+          "371J"
+        ]
+      }
+    },
+    {
+      "number": 99,
+      "title": "The Constitution (Ninety-ninth Amendment) Act, 2014",
+      "year": 2014,
+      "published_date": "2014-12-31",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/09c2097e2e34183043e9e3f6afc3753d.pdf",
+        "local_path": "docs/amendments/099.pdf",
+        "size_kb": 97.49
+      },
+      "summary": "Provides for formation of National Judicial Appointment Commission to recommend appointment of judges to the Supreme Court and High Courts.",
+      "articles_touched": {
+        "pykih": [
+          {
+            "article": "124A",
+            "status": "inserted"
+          },
+          {
+            "article": "124B",
+            "status": "inserted"
+          },
+          {
+            "article": "124C",
+            "status": "inserted"
+          },
+          {
+            "article": "127",
+            "status": "modified"
+          },
+          {
+            "article": "128",
+            "status": "modified"
+          },
+          {
+            "article": "217",
+            "status": "modified"
+          },
+          {
+            "article": "222",
+            "status": "modified"
+          },
+          {
+            "article": "224A",
+            "status": "modified"
+          },
+          {
+            "article": "231",
+            "status": "modified"
+          }
+        ],
+        "ik": [
+          "124C",
+          "127",
+          "217",
+          "222",
+          "224",
+          "224A",
+          "231"
+        ]
+      }
+    },
+    {
+      "number": 100,
+      "title": "The Constitution (One Hundredth Amendment) Act, 2015",
+      "year": 2015,
+      "published_date": "2015-05-28",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/3b5b640b91d58f470aff54278d6d969b.pdf",
+        "local_path": "docs/amendments/100.pdf",
+        "size_kb": 130.05
+      },
+      "summary": null,
+      "articles_touched": {
+        "pykih": [],
+        "ik": []
+      }
+    },
+    {
+      "number": 101,
+      "title": "The Constitution (One Hundred One Amendment) Act, 2016",
+      "year": 2016,
+      "published_date": "2016-09-08",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/a4250c5ad613af2f4f9347ef45add1db.pdf",
+        "local_path": "docs/amendments/101.pdf",
+        "size_kb": null
+      },
+      "summary": null,
+      "articles_touched": {
+        "pykih": [],
+        "ik": []
+      }
+    },
+    {
+      "number": 102,
+      "title": "THE CONSTITUTION (ONE HUNDRED AND SECOND AMENDMENT) ACT, 2018",
+      "year": 2018,
+      "published_date": "2018-08-11",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/8c366f8ebe268d1bee2992bfb4ae9db1.pdf",
+        "local_path": "docs/amendments/102.pdf",
+        "size_kb": 654.61
+      },
+      "summary": null,
+      "articles_touched": {
+        "pykih": [],
+        "ik": [
+          "338B",
+          "342A",
+          "366"
+        ]
+      }
+    },
+    {
+      "number": 103,
+      "title": "THE CONSTITUTION (ONE HUNDRED AND THIRD AMENDMENT) ACT,2019",
+      "year": 2019,
+      "published_date": "2019-01-12",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/1e84d2ca7394641dfb2653b0a5ef0e86.pdf",
+        "local_path": "docs/amendments/103.pdf",
+        "size_kb": 332.95
+      },
+      "summary": null,
+      "articles_touched": {
+        "pykih": [],
+        "ik": [
+          "015"
+        ]
+      }
+    },
+    {
+      "number": 104,
+      "title": "THE CONSTITUTION (ONE HUNDRED AND FOURTH AMENDMENT) ACT, 2019",
+      "year": 2019,
+      "published_date": "2020-01-21",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/e8e83c0faf01f4dc4fdad9ef4d37f556.pdf",
+        "local_path": "docs/amendments/104.pdf",
+        "size_kb": 589.34
+      },
+      "summary": null,
+      "articles_touched": {
+        "pykih": [],
+        "ik": [
+          "334"
+        ]
+      }
+    },
+    {
+      "number": 105,
+      "title": "THE CONSTITUTION (ONE HUNDRED AND FIFTH AMENDMENT) ACT, 2021",
+      "year": 2021,
+      "published_date": "2021-08-18",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/f98100221cb33fa76e84162532b48d56.pdf",
+        "local_path": "docs/amendments/105.pdf",
+        "size_kb": 316.48
+      },
+      "summary": null,
+      "articles_touched": {
+        "pykih": [],
+        "ik": [
+          "338B",
+          "366"
+        ]
+      }
+    },
+    {
+      "number": 106,
+      "title": "The Constitution (One Hundred And Sixth Amendment) Act,2023",
+      "year": 2023,
+      "published_date": "2023-09-28",
+      "pdf": {
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/677f65dda7c606ba1d13b8430af70555.pdf",
+        "local_path": "docs/amendments/106.pdf",
+        "size_kb": 264.4
+      },
+      "summary": null,
+      "articles_touched": {
+        "pykih": [],
+        "ik": [
+          "239AA",
+          "330"
+        ]
+      }
+    }
+  ]
+}
