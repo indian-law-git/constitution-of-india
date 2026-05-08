@@ -18,11 +18,14 @@ This file exists so a fresh Claude Code session (or human collaborator) can pick
 - `metadata/cross-references.json` (403 nodes, inbound/outbound)
 - `metadata/amendments.json` (106 amendments, 4-source triangulation)
 
-**Phase 2 underway. 1 of 106 amendments landed:**
+**Phase 2 underway. 3 of 106 amendments landed:**
 - Commit [`d1ddc77`](https://github.com/indian-law-git/constitution-of-india/commit/d1ddc77) — baseline-integrity fix for Article 19 clause (6) (true 1950 form restored from manuscript; CLPR's per-article page had carried the post-1st-Amendment (i)/(ii) split).
 - Commit [`4251da3`](https://github.com/indian-law-git/constitution-of-india/commit/4251da3) — **The Constitution (First Amendment) Act, 1951.** 14 files changed: edits to Articles 15, 19, 85, 87, 174, 176, 341, 342, 372, 376; new Articles 31A, 31B; new Ninth Schedule; Part III manifest updated.
+- Commit `384e42c` — baseline-integrity fix for Article 81 (CLPR's per-article page mislabels its 1950 section as "(1) to (2)" and was missing clause (3); body taken from CLPR's consolidated 1950 page, cross-checked against Aggarwala 1950 facsimile).
+- Commit `b779d66` — **The Constitution (Second Amendment) Act, 1952.** 1 file: Article 81(1)(b) loses the lower-bound population floor (omits "not less than one member for every 750,000 of the population and").
+- Commit `e116bc1` — **The Constitution (Third Amendment) Act, 1954.** 1 file: Schedule 7 List III entry 33 substituted wholesale with five-sub-clause form bringing essential commodities (foodstuffs, cattle fodder, raw cotton, raw jute) under concurrent jurisdiction. **First scanned-PDF amendment** — required OCR with cross-verification (tesseract + `/liteparse` + 600 DPI image inspection at punctuation-ambiguous lines).
 
-**105 amendments remain.**
+**103 amendments remain.**
 
 ## 2. Pipeline cheat-sheet
 
@@ -56,7 +59,7 @@ indlaw build-amendments
 
 For each remaining amendment N (`docs/amendments/NNN.pdf`):
 
-1. **Read the PDF** end to end. Identify each section's edit op (substitute / insert clause / insert article / add at end / repeal). The pdfplumber text extraction works well; no OCR needed for any of the 106 PDFs we have.
+1. **Read the PDF** end to end. Identify each section's edit op (substitute / insert clause / insert article / add at end / repeal). Try `pdfplumber` first — when it returns chars but no text, the PDF is a scanned image with no text layer (the 3rd Amendment was the first such case). For scans, render pages with `pdftoppm -r 300` and OCR with both **tesseract** and **`/liteparse` with OCR**, cross-verify the operative section verbatim, and on any disagreement crop the relevant region at 600 DPI and inspect the image directly to settle punctuation / wording. Old Gazette typography (semicolon-with-trailing-dash, comma-with-em-dash) is a frequent OCR-misread source.
 2. **Cross-check the touched-articles list** against `metadata/amendments.json` for amendment N. Three independent seed sources (legislative.gov.in PDF, pykih, IK) — discrepancies are interesting but not blocking.
 3. **Validate-before-patch.** For each article the amendment claims to touch, verify our current corpus's clause / wording matches the BEFORE state the amendment expects. Mismatches mean the v1.0-baseline carries a hybrid form (e.g. CLPR mixed in some early-amendment text). Fix the baseline from manuscript as a **discrete prior commit** — see commit `d1ddc77` for the pattern.
 4. **Apply edits.** Direct file edits to `articles/article-NNN.md`, `schedules/schedule-NN.md`, `parts/part-X.md`. Frontmatter on every touched file:
