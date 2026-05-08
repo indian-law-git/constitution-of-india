@@ -10,6 +10,7 @@ docs/*.pdf
 docs/*.txt
 docs/*.html
 docs/*_files/
+docs/amendments/
 
 # Python
 __pycache__/
