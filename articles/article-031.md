@@ -5,18 +5,21 @@ title: "Compulsory acquisition of property"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Fourth Amendment) Act, 1955"
+current_as_of: "1955-04-27"
 source: mixed
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
-note: "CLPR's per-article page rendered clauses (5) and (6) with three drift errors against the consolidated /constitution-of-india-1950/ page (and the Aggarwala 1950 facsimile): (5)(b)(i) was missing 'or' between 'tax' and 'penalty'; (6) had 'therefore' for 'thereupon' and was missing the phrase 'the provisions of clause (2) of this article or has contravened' before 'the provisions of sub-section (2) of section 299'. Capitalisation of 'the' in (5)(a) and (5)(b) was also normalised to lowercase. Body re-rendered from the consolidated CLPR page."
+note: "Body composed of (a) the 1950 baseline (from CLPR's consolidated page; per-article-page wording errors in clauses (5) and (6) fixed in the prior baseline-fix commit) and (b) Section 2 of The Constitution (Fourth Amendment) Act, 1955 which substituted clause (2) with new clauses (2) and (2A). Clauses (1), (3), (4), (5), (6) remain in their 1950 form."
 ---
 
 # Article 31. Compulsory acquisition of property
 
 (1) No person shall be deprived of his property save by authority of law.
 
-(2) No property, movable or immovable, including any interest in, or in any company owning, any commercial or industrial undertaking, shall be taken possession of or acquired for public purposes under any law authorising the taking of such possession or such acquisition, unless the law provides for compensation for the property taken possession of or acquired and either fixes the amount of the compensation, or specifies the principles on which, and the manner in which, the compensation is to be determined and given.
+(2) No property shall be compulsorily acquired or requisitioned save for a public purpose and save by authority of a law which provides for compensation for the property so acquired or requisitioned and either fixes the amount of the compensation or specifies the principles on which, and the manner in which, the compensation is to be determined and given; and no such law shall be called in question in any court on the ground that the compensation provided by that law is not adequate.
+
+(2A) Where a law does not provide for the transfer of the ownership or right to possession of any property to the State or to a corporation owned or controlled by the State, it shall not be deemed to provide for the compulsory acquisition or requisitioning of property, notwithstanding that it deprives any person of his property.
 
 (3) No such law as is referred to in clause (2) made by the Legislature of a State shall have effect unless such law, having been reserved for the consideration of the President, has received his assent.
 

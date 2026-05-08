@@ -7,19 +7,33 @@ inserted_by: "The Constitution (First Amendment) Act, 1951"
 repealed_by: null
 amended_by:
   - "The Constitution (First Amendment) Act, 1951"
-current_as_of: "1951-06-18"
+  - "The Constitution (Fourth Amendment) Act, 1955"
+current_as_of: "1955-04-27"
 source: legislative-gov-in
-source_url: "https://www.legislative.gov.in/static/uploads/2025/07/f3789482ad0dfee795e54fb88c0401e6.pdf"
+source_url: "https://www.legislative.gov.in/static/uploads/2025/07/68badaa2da25d641c51992f854344773.pdf"
+note: "Section 3 of The Constitution (Fourth Amendment) Act, 1955 substituted clause (1) wholesale (deemed always to have been substituted) and inserted words into clause (2)(a) ('and in the States of Madras and Travancore-Cochin, any janman right' after 'grant') and clause (2)(b) ('raiyat, under-raiyat' after 'tenure-holder') — both deemed always to have been inserted."
 ---
 
 # Article 31A. Saving of laws providing for acquisition of estates, etc.
 
-(1) Notwithstanding anything in the foregoing provisions of this Part, no law providing for the acquisition by the State of any estate or of any rights therein or for the extinguishment or modification of any such rights shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by, any provisions of this Part:
+(1) Notwithstanding anything contained in article 13, no law providing for—
+
+(a) the acquisition by the State of any estate or of any rights therein or the extinguishment or modification of any such rights, or
+
+(b) the taking over of the management of any property by the State for a limited period either in the public interest or in order to secure the proper management of the property, or
+
+(c) the amalgamation of two or more corporations either in the public interest or in order to secure the proper management of any of the corporations, or
+
+(d) the extinguishment or modification of any rights of managing agents, secretaries and treasurers, managing directors, directors or managers of corporations, or of any voting rights of shareholders thereof, or
+
+(e) the extinguishment or modification of any rights accruing by virtue of any agreement, lease or licence for the purpose of searching for, or winning, any mineral or mineral oil, or the premature termination or cancellation of any such agreement, lease or licence,
+
+shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by article 14, article 19 or article 31:
 
 Provided that where such law is a law made by the Legislature of a State, the provisions of this article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent.
 
 (2) In this article,—
 
-(a) the expression "estate" shall, in relation to any local area, have the same meaning as that expression or its local equivalent has in the existing law relating to land tenures in force in that area, and shall also include any jagir, inam or muafi or other similar grant;
+(a) the expression "estate" shall, in relation to any local area, have the same meaning as that expression or its local equivalent has in the existing law relating to land tenures in force in that area, and shall also include any jagir, inam or muafi or other similar grant, and in the States of Madras and Travancore-Cochin, any janman right;
 
-(b) the expression "rights", in relation to an estate, shall include any rights vesting in a proprietor, sub-proprietor, under-proprietor, tenure-holder or other intermediary and any rights or privileges in respect of land revenue.
+(b) the expression "rights", in relation to an estate, shall include any rights vesting in a proprietor, sub-proprietor, under-proprietor, tenure-holder, raiyat, under-raiyat or other intermediary and any rights or privileges in respect of land revenue.
