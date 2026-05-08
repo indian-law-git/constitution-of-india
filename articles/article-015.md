@@ -5,8 +5,9 @@ title: "Prohibition of discrimination on grounds of religion race caste sex or p
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (First Amendment) Act, 1951"
+current_as_of: "1951-06-18"
 source: clpr
 source_url: "https://www.constitutionofindia.net/articles/article-15-prohibition-of-discrimination-on-grounds-of-religion-race-caste-sex-or-place-of-birth/"
 ---
@@ -22,3 +23,5 @@ source_url: "https://www.constitutionofindia.net/articles/article-15-prohibition
 (b) The use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public.
 
 (3) Nothing in this article shall prevent the State from making any special provision for women and children.
+
+(4) Nothing in this article or in clause (2) of article 29 shall prevent the State from making any special provision for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes and the Scheduled Tribes.
