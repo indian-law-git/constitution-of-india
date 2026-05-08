@@ -1,0 +1,15 @@
+# Title: List I — Union List
+# Page:
+# Notes: SAMPLE/TEMPLATE — body taken from CLPR-scraped data (only the first 6 of 97 entries shown). The "SAMPLE-" filename prefix makes the parser skip this file. Use it as a format reference for typing schedule-07-iii.txt (the Concurrent List, with 47 entries). When you transcribe a real schedule, drop the SAMPLE- prefix from the filename and replace this Notes line with your own page reference / observations.
+
+1. Defence of India and every part thereof including preparation for defence and all such acts as may be conducive in times of war to its prosecution and after its termination to effective demobilisation.
+
+2. Naval, military and air forces; any other armed forces of the Union.
+
+3. Delimitation of cantonment areas, local self-government in such areas, the constitution and powers within such areas of cantonment authorities and the regulation of house accommodation (including the control of rents) in such areas.
+
+4. Naval, military and air force works.
+
+5. Arms, firearms, ammunition and explosives.
+
+6. Atomic energy and mineral resources necessary for its production.

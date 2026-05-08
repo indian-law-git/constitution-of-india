@@ -5,7 +5,7 @@ status: active
 inserted_by: original
 amended_by: []
 current_as_of: "1950-01-26"
-source: clpr
+source: mixed
 ---
 
 # Second Schedule — Provisions as to the President, Governors, Speakers, Judges, and the Comptroller and Auditor-General
@@ -26,6 +26,12 @@ The Governor of a State
 3. The President and the Governors of such States throughout their respective terms of office shall be entitled to the same privileges to which the Governor-General and the Governors of the corresponding Provinces were respectively entitled immediately before the commencement of this Constitution.
 
 4. While the Vice-President or any other person is discharging the functions of, or is acting as, President, or any person is discharging the functions of the Governor, he shall be entitled to the same emoluments, allowances and privileges as the President or the Governor whose functions he discharges or for whom he acts, as the case may be.
+
+## B - Provisions as to the Ministers for the Union and for the States
+
+5. There shall be paid to the Prime Minister and to each of the other Ministers for the Union such salaries and allowances as were payable respectively to the Prime Minister and to each of the other Ministers for the Dominion of India immediately before the commencement of this Constitution.
+
+6. There shall be paid to the Ministers for any State specified in Part A or Part B of the First Schedule such salaries and allowances as were payable to such Ministers for the corresponding Province or the corresponding Indian State, as the case may be, immediately before the commencement of this Constitution.
 
 ## C: Provisions as to the Speaker and the Deputy Speaker of the House of the People and the Chairman and the Deputy Chairman of the Council of States and the Speaker and the Deputy Speaker of the Legislative Assembly of a State
 
@@ -99,7 +105,3 @@ shall, if he was immediately before such commencement drawing a salary at a rate
 (2) The person who was holding office immediately before the commencement of this Constitution as Auditor-General of India and has become on such commencement the Comptroller and Auditor-General of India under article 377 shall in addition to the salary specified in sub-paragraph (1) of this paragraph be entitled to receive as special pay an amount equivalent to the difference between the salary so specified and the salary which he was drawing as Auditor-General of India immediately before such commencement.
 
 (3) The rights in respect of leave of absence and pension and the other conditions of service of the Comptroller and Auditor-General of India shall be governed or shall continue to be governed, as the case may be, by the provisions which were applicable to the Auditor-General of India immediately before toe commencement of this Constitution and all references in those provisions to the Governor-General shall be construed as references to the President.
-
-## Part B — gap
-
-> **Documented gap.** Part B of the Second Schedule (provisions as to the salaries of the Speaker and the Deputy Speaker of the House of the People and the Chairman and the Deputy Chairman of the Council of States, etc.) is not present on CLPR's schedules-sitemap and remains a documented gap pending manuscript transcription.

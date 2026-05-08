@@ -1,0 +1,11 @@
+# Title: A — Provisions as to the President and the Governors of States
+# Page:
+# Notes: SAMPLE/TEMPLATE — body taken from CLPR-scraped data, not yet verified against the calligraphic manuscript. The "SAMPLE-" prefix makes the parser skip this file. Use as a format reference for typing schedule-02-b.txt (Provisions for the Rajpramukhs and the Uprajpramukhs of Part B States, abolished by the 7th Amendment in 1956). Salary tables in the manuscript are easier to transcribe inline as prose; the renderer doesn't try to preserve table layout.
+
+1. There shall be paid to the President and to the Governors of the States specified in Part A of the First Schedule the following emoluments per mensem, that is to say:— The President, 10,000 rupees; the Governor of a State, 5,500 rupees.
+
+2. There shall also be paid to the President and to the Governors of the States so specified such allowances as were payable respectively to the Governor-General of the Dominion of India and to the Governors of the corresponding Provinces immediately before the commencement of this Constitution.
+
+3. The President and the Governors of such States throughout their respective terms of office shall be entitled to the same privileges to which the Governor-General and the Governors of the corresponding Provinces were respectively entitled immediately before the commencement of this Constitution.
+
+4. While the Vice-President or any other person is discharging the functions of, or is acting as, President, or any person is discharging the functions of the Governor, he shall be entitled to the same emoluments, allowances and privileges as the President or the Governor whose functions he discharges or for whom he acts, as the case may be.
