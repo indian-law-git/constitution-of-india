@@ -197,6 +197,35 @@ def build() -> int:
         ),
     })
 
+    legislative_html = REPO_ROOT / "docs" / "legislative-amendments.html"
+    sources.append({
+        "id": "legislative-gov-in-amendments",
+        "kind": "offline-html + downloaded-pdfs",
+        "name": "Ministry of Law and Justice — The Constitution (Amendment) Acts (legislative.gov.in)",
+        "role": "Phase 2 authoritative source — full text of all 106 amending Acts as PDFs",
+        "url": (
+            "https://www.legislative.gov.in/documents/constitution-of-india/"
+            "the-constitution-amendment-acts-YTM2EjMtQWa"
+        ),
+        "file_path": "docs/legislative-amendments.html",
+        "sha256": _file_sha256(legislative_html),
+        "retrieved": "2026-05-08",
+        "stats": {
+            "rows_in_html": 114,  # 106 enacted Acts + their SOR companions + a Bill
+            "amendment_pdfs_downloaded": _scraped_count("docs/amendments", "*.pdf"),
+            "amendments_indexed": 106,
+        },
+        "notes": (
+            "Akamai Bot Manager guards the live page; user saved the rendered HTML "
+            "manually (same playbook as the IK source). Each amendment PDF lives at "
+            "https://www.legislative.gov.in/static/uploads/2025/07/{hash}.pdf and "
+            "downloads work with browser-like headers (User-Agent, Referer, "
+            "Sec-Fetch-*). PDFs are gitignored under docs/amendments/ due to size; "
+            "the SHA-256 of the saved listing here lets contributors verify they "
+            "have the same source set."
+        ),
+    })
+
     out = {
         "schema_version": "1",
         "sources": sources,

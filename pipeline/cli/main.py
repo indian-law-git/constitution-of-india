@@ -180,6 +180,44 @@ def scrape_clpr_schedules(
         f"done: scanned={n_scanned} emitted={n_emitted} skipped_post_1950={n_skipped}"
     )
 
+@app.command("extract-legislative")
+def extract_legislative(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
+    """Parse docs/legislative-amendments.html for amendment PDF URLs + metadata."""
+    from pipeline.extract import legislative
+
+    logging.basicConfig(
+        level=logging.INFO if verbose else logging.WARNING,
+        format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    )
+    records = legislative.parse_html()
+    out = legislative.write_records(records)
+    parsed_n = sum(1 for r in records if r.amendment_number is not None)
+    typer.echo(
+        f"done: rows={len(records)} parsed_numbers={parsed_n} -> {out}"
+    )
+
+
+@app.command("download-amendments")
+def download_amendments(
+    throttle: float = typer.Option(1.0, "--throttle", help="Seconds between PDF downloads."),
+    force: bool = typer.Option(False, "--force", help="Re-download even if file exists."),
+    verbose: bool = typer.Option(False, "--verbose", "-v"),
+) -> None:
+    """Download every amendment PDF to docs/amendments/{NN}.pdf."""
+    from pipeline.extract import legislative
+
+    logging.basicConfig(
+        level=logging.INFO if verbose else logging.WARNING,
+        format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    )
+    records = legislative.parse_html()
+    n_dl, n_skip, n_fail = legislative.download_pdfs(
+        records, throttle_s=throttle, force=force
+    )
+    typer.echo(
+        f"done: downloaded={n_dl} skipped_existing={n_skip} failed={n_fail} -> {legislative.DOWNLOAD_DIR}"
+    )
+
 
 if __name__ == "__main__":
     app()

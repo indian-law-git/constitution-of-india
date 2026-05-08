@@ -95,6 +95,22 @@
       "fulltext_sha256": "a7e00ee9567f00546870b2022ce1eb4c1146561778b5db27b5ffacbe92c97fa6",
       "retrieved": "2026-05-07",
       "notes": "A 1950 *commentary* by Om Prakash Aggarawala and S.K. Aiyar (Rajkamal Publications / Metropolitan Book Co., Delhi) — NOT the official Government of India publication. Discovered during Phase 1 scouting; the constitutional articles are quoted within the OCR'd commentary but the text is interleaved with extensive editorial notes and the OCR is noisy. Could still serve as a fallback for future gap fills."
+    },
+    {
+      "id": "legislative-gov-in-amendments",
+      "kind": "offline-html + downloaded-pdfs",
+      "name": "Ministry of Law and Justice — The Constitution (Amendment) Acts (legislative.gov.in)",
+      "role": "Phase 2 authoritative source — full text of all 106 amending Acts as PDFs",
+      "url": "https://www.legislative.gov.in/documents/constitution-of-india/the-constitution-amendment-acts-YTM2EjMtQWa",
+      "file_path": "docs/legislative-amendments.html",
+      "sha256": "86becba7382778aa922f7691861859c2bbbaf8e785146e7e313def2fefa0683d",
+      "retrieved": "2026-05-08",
+      "stats": {
+        "rows_in_html": 114,
+        "amendment_pdfs_downloaded": 106,
+        "amendments_indexed": 106
+      },
+      "notes": "Akamai Bot Manager guards the live page; user saved the rendered HTML manually (same playbook as the IK source). Each amendment PDF lives at https://www.legislative.gov.in/static/uploads/2025/07/{hash}.pdf and downloads work with browser-like headers (User-Agent, Referer, Sec-Fetch-*). PDFs are gitignored under docs/amendments/ due to size; the SHA-256 of the saved listing here lets contributors verify they have the same source set."
     }
   ]
 }
