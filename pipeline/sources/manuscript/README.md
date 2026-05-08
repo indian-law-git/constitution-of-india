@@ -38,8 +38,37 @@ Where a High Court exercises jurisdiction in relation to more than one State spe
 - Don't try to mimic line breaks of the manuscript; just paragraph breaks.
 - If the manuscript text is genuinely ambiguous to read, transcribe your best guess and add a `# Notes:` line noting the uncertainty.
 
+## Schedules
+
+Schedules use the same format with a different filename convention:
+
+- `schedule-NN.txt` — single-section schedule (e.g. `schedule-08.txt`)
+- `schedule-NN-X.txt` — sub-part `X` of a multi-part schedule, where `X` is the lowercase letter or roman numeral CLPR uses (e.g. `schedule-02-b.txt`, `schedule-07-iii.txt`).
+
+Sub-parts on the 1950 baseline:
+- Schedule 1: `i` (Part I — States), `ii` (Part II — Union Territories)
+- Schedule 2: `a`, `b`, `c`, `d`, `e` (Provisions for President / Speaker / Judges / CAG / etc.)
+- Schedule 5: `a`, `b`, `c`, `d`
+- Schedule 7: `i` (Union List), `ii` (State List), `iii` (Concurrent List)
+- Schedules 3, 4, 6, 8: single-section, no `-X` suffix
+
+For long lists (Concurrent List has ~47 entries, Union/State Lists have 90+), use a numbered list inside the body — one entry per line, prefixed with the entry number:
+
+```
+# Title: Concurrent List
+# Page: 196-200
+
+1. Criminal law, including all matters included in the Indian Penal Code at the commencement of this Constitution but excluding offences against laws...
+
+2. Criminal procedure, including all matters included in the Code of Criminal Procedure...
+
+3. Preventive detention for reasons connected with the security of a State, the maintenance of public order, or the maintenance of supplies and services essential to the community.
+```
+
+The renderer detects the `N.` prefix as a paragraph break.
+
 ## What gets tracked
 
 Files in this directory ARE committed to git. They represent valuable manual work and are part of the project's audit trail. Each file is small (a few hundred lines at most).
 
-The pipeline reads these files via `pipeline/extract/manuscript.py` and emits standard JSON records to `pipeline/intermediate/scraped/manuscript/` (gitignored), which then feed the same render step as CLPR/IK records.
+The pipeline reads these files via `pipeline/extract/manuscript.py` and emits standard JSON records to `pipeline/intermediate/scraped/manuscript/` and `pipeline/intermediate/scraped/manuscript-schedules/` (both gitignored), which then feed the same render step as CLPR/IK records. Manuscript records take precedence on overlap with CLPR.

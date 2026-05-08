@@ -64,16 +64,21 @@ def render_schedules(verbose: bool = typer.Option(False, "--verbose", "-v")) -> 
 
 @app.command("extract-manuscript")
 def extract_manuscript(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
-    """Parse human transcriptions in pipeline/sources/manuscript and emit JSON."""
+    """Parse human transcriptions in pipeline/sources/manuscript and emit JSON.
+
+    Handles both article-NNN.txt files (1950 baseline articles and gap fills)
+    and schedule-NN[-X].txt files (schedule fills like Schedule 2 Part B).
+    """
     from pipeline.extract import manuscript
 
     logging.basicConfig(
         level=logging.INFO if verbose else logging.WARNING,
         format="%(asctime)s %(levelname)s %(name)s: %(message)s",
     )
-    n = manuscript.extract_all()
+    n_articles = manuscript.extract_all()
+    n_schedules = manuscript.extract_all_schedules()
     typer.echo(
-        f"done: transcriptions={n} -> {manuscript.OUT_DIR}"
+        f"done: articles={n_articles} schedules={n_schedules} -> {manuscript.OUT_DIR.parent}"
     )
 
 

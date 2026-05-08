@@ -136,3 +136,123 @@ def extract_all() -> int:
         write_record(art)
         n += 1
     return n
+
+
+
+# ──────────────────────────── schedules ────────────────────────────
+
+SCHEDULES_OUT = REPO_ROOT / "pipeline" / "intermediate" / "scraped" / "manuscript-schedules"
+
+# Filename forms accepted for schedule transcriptions:
+#   schedule-NN.txt        — single-section schedule (e.g. schedule-08.txt)
+#   schedule-NN-X.txt      — sub-part X (e.g. schedule-02-b.txt, schedule-07-iii.txt)
+_SCHEDULE_FILENAME_RE = re.compile(r"^schedule-(\d{2})(?:-([a-z0-9]+))?\.txt$")
+
+
+@dataclass(frozen=True)
+class ManuscriptSchedule:
+    """One schedule (or sub-part of a multi-part schedule) transcribed from
+    the calligraphic 1950 manuscript.
+    """
+
+    schedule_number: int          # 1..8 for the 1950 baseline
+    sub_part: str | None          # e.g. "B", "III", or None for single-section
+    sub_part_order: int           # ordering within the schedule (matches CLPR)
+    title: str                    # from `# Title:` header
+    page: str | None              # from `# Page:` header
+    notes: str | None             # from `# Notes:` header
+    body_text: str                # the verbatim body (entries / paragraphs preserved)
+    transcription_sha256: str
+    source_file: str
+    source_pdf_sha256: str
+    source_url: str
+    extracted_at: str
+
+
+_SCHEDULE_SUBPART_ORDER = {
+    None: 0,
+    "i": 1, "ii": 2, "iii": 3, "iv": 4,
+    "a": 1, "b": 2, "c": 3, "d": 4, "e": 5,
+}
+
+
+def _schedule_subpart_order(sub: str | None) -> int:
+    if sub is None:
+        return 0
+    return _SCHEDULE_SUBPART_ORDER.get(sub.lower(), 99)
+
+
+def parse_schedule_file(path: Path) -> ManuscriptSchedule | None:
+    """Parse a single schedule-NN[-X].txt transcription file."""
+    fn_m = _SCHEDULE_FILENAME_RE.match(path.name)
+    if not fn_m:
+        return None
+    schedule_no = int(fn_m.group(1))
+    sub_part_raw = fn_m.group(2)
+    sub_part = sub_part_raw.upper() if sub_part_raw else None
+
+    text = path.read_text(encoding="utf-8")
+    headers: dict[str, str] = {}
+    body_lines: list[str] = []
+    in_body = False
+    for raw_line in text.splitlines():
+        line = raw_line.rstrip()
+        if not in_body:
+            if line.startswith("#"):
+                hm = _HEADER_RE.match(line)
+                if hm:
+                    headers[hm.group(1).strip().lower()] = hm.group(2)
+                continue
+            if line.strip() == "":
+                in_body = True
+                continue
+            in_body = True
+            body_lines.append(line)
+            continue
+        body_lines.append(line)
+
+    body_text = "\n".join(body_lines).strip()
+    if not body_text:
+        return None
+    return ManuscriptSchedule(
+        schedule_number=schedule_no,
+        sub_part=sub_part,
+        sub_part_order=_schedule_subpart_order(sub_part_raw),
+        title=headers.get("title", ""),
+        page=headers.get("page") or None,
+        notes=headers.get("notes") or None,
+        body_text=body_text,
+        transcription_sha256=hashlib.sha256(body_text.encode("utf-8")).hexdigest(),
+        source_file=str(path.relative_to(REPO_ROOT)),
+        source_pdf_sha256=MANUSCRIPT_PDF_SHA256,
+        source_url=MANUSCRIPT_PROVENANCE_URL,
+        extracted_at=datetime.now(timezone.utc).isoformat(timespec="seconds"),
+    )
+
+
+def iter_schedule_transcriptions() -> Iterator[ManuscriptSchedule]:
+    if not SOURCES_DIR.exists():
+        return
+    for path in sorted(SOURCES_DIR.glob("schedule-*.txt")):
+        seg = parse_schedule_file(path)
+        if seg is not None:
+            yield seg
+
+
+def write_schedule_record(seg: ManuscriptSchedule) -> Path:
+    SCHEDULES_OUT.mkdir(parents=True, exist_ok=True)
+    if seg.sub_part is None:
+        name = f"schedule-{seg.schedule_number:02d}.json"
+    else:
+        name = f"schedule-{seg.schedule_number:02d}-{seg.sub_part.lower()}.json"
+    out = SCHEDULES_OUT / name
+    out.write_text(json.dumps(asdict(seg), indent=2, ensure_ascii=False))
+    return out
+
+
+def extract_all_schedules() -> int:
+    n = 0
+    for seg in iter_schedule_transcriptions():
+        write_schedule_record(seg)
+        n += 1
+    return n

@@ -177,9 +177,10 @@ def html_body_to_markdown(body_html: str) -> str:
 _CLAUSE_START_RE = re.compile(
     # A new paragraph begins at a line that opens with:
     #   - a parenthesised clause marker like (1), (2), (a), (b), (i)
+    #   - a numbered-list entry like "1." or "47." (used for Schedule list items)
     #   - the word "Provided" (provisos)
     #   - the word "Explanation" or "Illustration" (legalese constructs)
-    r"^(?:\([0-9a-zA-Z]+\)|Provided\b|Explanation\b|Illustration\b)",
+    r"^(?:\([0-9a-zA-Z]+\)|[0-9]+\.\s|Provided\b|Explanation\b|Illustration\b)",
 )
 
 
@@ -409,34 +410,82 @@ SCHEDULE_GAPS: dict[tuple[int, str | None], str] = {
 }
 
 
+SCHEDULES_MANU_SCRAPED = REPO_ROOT / "pipeline" / "intermediate" / "scraped" / "manuscript-schedules"
+
+
 def _load_schedule_segments() -> dict[int, list[dict]]:
-    """Group scraped CLPR schedule segments by schedule_number."""
-    by_schedule: dict[int, list[dict]] = {}
-    if not SCHEDULES_SCRAPED.exists():
-        return by_schedule
-    for path in sorted(SCHEDULES_SCRAPED.glob("*.json")):
-        d = json.loads(path.read_text())
-        n = d["schedule_number"]
-        by_schedule.setdefault(n, []).append(d)
-    for segs in by_schedule.values():
+    """Group schedule segments by schedule_number, with manuscript precedence.
+
+    For any (schedule_number, sub_part) pair present in
+    ``pipeline/intermediate/scraped/manuscript-schedules/``, the manuscript
+    record replaces the CLPR record (or fills the gap if CLPR has none).
+    Manuscript records carry ``source = manuscript`` plus PDF SHA-256 +
+    page provenance; CLPR segments stay ``source = clpr``.
+    """
+    by_schedule: dict[int, dict[tuple[int, str | None], dict]] = {}
+
+    # Pass 1: CLPR
+    if SCHEDULES_SCRAPED.exists():
+        for path in sorted(SCHEDULES_SCRAPED.glob("*.json")):
+            d = json.loads(path.read_text())
+            d["source"] = "clpr"
+            by_schedule.setdefault(d["schedule_number"], {})[(d["schedule_number"], d["sub_part"])] = d
+
+    # Pass 2: manuscript schedule fills (override / fill gap)
+    if SCHEDULES_MANU_SCRAPED.exists():
+        for path in sorted(SCHEDULES_MANU_SCRAPED.glob("*.json")):
+            d = json.loads(path.read_text())
+            seg = {
+                "schedule_number": d["schedule_number"],
+                "sub_part": d["sub_part"],
+                "sub_part_order": d["sub_part_order"],
+                "schedule_title": "",  # not present in manuscript records; rendered from SCHEDULE_TITLES
+                "section_title": d.get("title") or (
+                    f"Part {d['sub_part']}" if d["sub_part"] else ""
+                ),
+                "body_text": d["body_text"],
+                "body_html": "",
+                "source": "manuscript",
+                "source_url": d["source_url"],
+                "source_pdf_sha256": d["source_pdf_sha256"],
+                "page": d.get("page"),
+            }
+            by_schedule.setdefault(d["schedule_number"], {})[(d["schedule_number"], d["sub_part"])] = seg
+
+    out: dict[int, list[dict]] = {}
+    for n, parts_map in by_schedule.items():
+        segs = list(parts_map.values())
         segs.sort(key=lambda x: x["sub_part_order"])
-    return by_schedule
+        out[n] = segs
+    return out
 
 
 def _render_schedule_segment(seg: dict) -> str:
-    """Convert one segment's body_html to Markdown, prefixed by a sub-part heading."""
-    body_md = html_body_to_markdown(seg["body_html"])
+    """Convert one segment to Markdown, prefixed by its sub-part heading.
+
+    Dispatches on ``source``: CLPR records have body_html, manuscript records
+    have body_text (plain text using the manuscript paragraph rules).
+    """
+    if seg.get("source") == "manuscript":
+        body_md = manuscript_body_to_markdown(seg["body_text"])
+    else:
+        body_md = html_body_to_markdown(seg["body_html"])
     sub = seg["sub_part"]
     title = seg["section_title"] or ""
     if sub is None:
-        # Single-section schedule — no sub-heading needed
         return body_md
     return f"## {title}\n\n{body_md}"
 
 
 def render_schedule(n: int, segments: list[dict]) -> str:
-    """Build a single Markdown file for Schedule ``n`` from its segments."""
+    """Build a single Markdown file for Schedule ``n`` from its segments.
+
+    Frontmatter ``source`` reports ``clpr`` / ``manuscript`` / ``mixed`` based
+    on which extractors contributed segments.
+    """
     title = SCHEDULE_TITLES.get(n, f"Schedule {n}")
+    sources = {seg.get("source", "clpr") for seg in segments}
+    source_label = "mixed" if len(sources) > 1 else (sources.pop() if sources else "clpr")
     fm_lines = [
         "---",
         f"schedule: {n}",
@@ -445,29 +494,23 @@ def render_schedule(n: int, segments: list[dict]) -> str:
         "inserted_by: original",
         "amended_by: []",
         'current_as_of: "1950-01-26"',
-        "source: clpr",
+        f"source: {source_label}",
         "---",
     ]
     parts: list[str] = ["\n".join(fm_lines), "", f"# {title}", ""]
-    expected_subs = sorted(
-        {s for k, s in SCHEDULE_GAPS if k == n} | {seg["sub_part"] for seg in segments},
-        key=lambda x: (x is None, x or ""),
-    )
     rendered_subs: set[str | None] = set()
     for seg in segments:
         parts.append(_render_schedule_segment(seg))
         parts.append("")
         rendered_subs.add(seg["sub_part"])
-    # Append gap notes for any expected sub-parts that we don't have content for.
+    # Append gap notes for any expected sub-parts not yet covered by either
+    # CLPR or a manuscript fill.
     for (sched_n, sub), note in SCHEDULE_GAPS.items():
         if sched_n != n:
             continue
         if sub in rendered_subs:
             continue
-        if sub is None:
-            heading = f"## (gap)"
-        else:
-            heading = f"## Part {sub} — gap"
+        heading = f"## Part {sub} — gap" if sub else "## (gap)"
         parts.append(heading)
         parts.append("")
         parts.append(f"> **Documented gap.** {note}")
