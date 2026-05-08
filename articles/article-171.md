@@ -1,0 +1,38 @@
+---
+article: 171
+part: VI
+title: "Composition of the legislative councils"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-171-composition-of-the-legislative-councils/"
+---
+
+# Article 171. Composition of the legislative councils
+
+(1) The total number of members in the Legislative Council of a State having such a Council shall not exceed one-fourth of the total number of members in the Legislative Assembly of that State:
+
+Provided that the total number of members in the Legislative Council of a State shall in no case be less than forty.
+
+(2) Until Parliament by law otherwise provides, the composition of the Legislative Council of a State shall be as provided in clause (3).
+
+(3) Of the total number of members of the Legislative Council of a State—
+
+(a) as nearly as may be, one-third shall be elected by electorates consisting of members of municipalities, district boards and such other local authorities in the State as Parliament may by law specify;
+
+(b) as nearly as may be, one-twelfth shall be elected by electorates consisting of persons residing in the State who have been for at least three years graduates of any university in the territory of India or have been for at least three years in possession of qualifications prescribed by or under any law made by Parliament as equivalent to that of a graduate of any such university;
+
+(c) as nearly as may be, one-twelfth shall be elected by electorates consisting of persons who have been for at least three years engaged in teaching in such educational institutions within the State, not lower in standard than that of a secondary school, as may be prescribed by or under any law made by Parliament;
+
+(d) as nearly as may be, one-third shall be elected by the members of the Legislative Assembly of the State from amongst persons who are not members of the Assembly;
+
+(e) the remainder shall be nominated by the Governor in accordance with the provisions of clause (5).
+
+(4) The members to be elected under sub-clauses (a), (b) and (c) of clause (3) shall be chosen in such territorial constituencies as may be prescribed by or under any law made by Parliament, and the elections under the said sub-clauses and under sub-clause (d) of the said clause shall be held in accordance with the system of proportional representation by means of the single transferable vote.
+
+(5) The members to be nominated by the Governor under sub-clause (e) of clause (3) shall consist of persons having special knowledge or practical experience in respect of such matters as the following, namely:—
+
+Literature, science, art, co-operative movement and social service.

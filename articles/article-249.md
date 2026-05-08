@@ -1,0 +1,22 @@
+---
+article: 249
+part: XI
+title: "Power of parliament to legislate with respect to a matter in the state list in the national interest"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-249-power-of-parliament-to-legislate-with-respect-to-a-matter-in-the-state-list-in-the-national-interest/"
+---
+
+# Article 249. Power of parliament to legislate with respect to a matter in the state list in the national interest
+
+*(1) Notwithstanding anything in the foregoing provisions of this Chapter, if the Council of States has declared by resolution supported by not less than two-thirds of the members present and voting that it is necessary or expedient in the national interest that Parliament should make laws with respect to any matter enumerated in the State List specified in the resolution, it shall be lawful for Parliament to make laws for the whole or any part of the territory of India with respect to that matter while the resolution remains in force.*
+
+*(2) A resolution passed under clause (1) shall remain in force for such period not exceeding one year as may be specified therein:*
+
+*Provided that, if and so often as a resolution approving the continuance in force of any such resolution is passed in the manner provided in clause (1), such resolution shall continue in force for a further period of one year from the date on which under this clause it would otherwise have ceased to be in force.*
+
+*(3) A law made by Parliament which Parliament would not but for the passing of a resolution under clause (1) have been competent to make shall, to the extent of the incompetency, cease to have effect on the expiration of a period of six months after the resolution has ceased to be in force, except as respects things done or omitted to be done before the expiration of the said period.*

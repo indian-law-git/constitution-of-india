@@ -1,0 +1,20 @@
+---
+article: 214
+part: VI
+title: "High courts for states"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-214-high-courts-for-states/"
+---
+
+# Article 214. High courts for states
+
+(1) There shall be a High Court for each State.
+
+(2) For the purposes of this Constitution the High Court exercising jurisdiction in relation to any Province immediately before the commencement of this Constitution shall be deemed to be the High Court for the corresponding State.
+
+(3) The provisions of this Chapter shall apply to every High Court referred to in this article.

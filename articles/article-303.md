@@ -1,0 +1,18 @@
+---
+article: 303
+part: XIII
+title: "Restrictions on the legislative powers of the union and of the states with regard to trade and commerce"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-303-restrictions-on-the-legislative-powers-of-the-union-and-of-the-states-with-regard-to-trade-and-commerce/"
+---
+
+# Article 303. Restrictions on the legislative powers of the union and of the states with regard to trade and commerce
+
+(1) Notwithstanding anything in article 302, neither Parliament nor the Legislature of a State shall have power to make any law giving, or authorising the giving of, any preference to one State over another, or making, or authorising the making of, any discrimination between one State and another, by virtue of any entry relating to trade and commerce in any of the Lists in the Seventh Schedule.
+
+(2) Nothing in clause (1) shall prevent Parliament from making any law giving, or authorising the giving of, any preference or making, or authorising the making of, any discrimination if it is declared by such law that it is necessary to do so for the purpose of dealing with a situation arising from scarcity of goods in any part of the territory of India.

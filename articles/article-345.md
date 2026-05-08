@@ -1,0 +1,18 @@
+---
+article: 345
+part: XVII
+title: "Official language or languages of a state"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-345-official-language-or-languages-of-a-state/"
+---
+
+# Article 345. Official language or languages of a state
+
+Subject to the provisions of articles 346 and 347, the Legislature of a State may by law adopt any one or more of the languages in use in the State or Hindi as the language or languages to be used for all or any of the official purposes of that State:
+
+Provided that, until the Legislature of the State otherwise provides by law, the English language shall continue to be used for those official purposes within the State for which it was being used immediately before the commencement of this Constitution.

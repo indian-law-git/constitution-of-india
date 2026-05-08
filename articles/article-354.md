@@ -1,0 +1,18 @@
+---
+article: 354
+part: XVIII
+title: "Application of provisions relating to distribution of revenues while a proclamation of emergency is in operation"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-354-application-of-provisions-relating-to-distribution-of-revenues-while-a-proclamation-of-emergency-is-in-operation/"
+---
+
+# Article 354. Application of provisions relating to distribution of revenues while a proclamation of emergency is in operation
+
+(1) The President may, while a Proclamation of Emergency is in operation, by order direct that all or any of the provisions of articles 268 to 279 shall for such period, not extending in any case beyond the expiration of the financial year in which such Proclamation ceases to operate, as may be specified in the order, have effect subject to such exceptions or modifications as he thinks fit.
+
+(2) Every order made under clause (1) shall, as soon as may be after it is made, be laid before each House of Parliament.

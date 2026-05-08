@@ -1,0 +1,22 @@
+---
+article: 18
+part: III
+title: "Abolition of titles"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-18-abolition-of-titles/"
+---
+
+# Article 18. Abolition of titles
+
+(1) No title, not being a military or academic distinction, shall be conferred by the State.
+
+(2) No citizen of India shall accept any title from any foreign State.
+
+(3) No person who is not a citizen of India shall, while he holds any office of profit or trust under the State, accept without the consent of the President any title from any foreign State.
+
+(4) No person holding any office of profit or trust under the State shall, without the consent of the President, accept any present, emolument, or office of any kind from or under any foreign State.

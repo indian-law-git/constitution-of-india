@@ -1,0 +1,22 @@
+---
+article: 32
+part: III
+title: "Remedies for enforcement of rights conferred by this part"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-32-remedies-for-enforcement-of-rights-conferred-by-this-part/"
+---
+
+# Article 32. Remedies for enforcement of rights conferred by this part
+
+(1) The right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by this Part is guaranteed.
+
+(2) The Supreme Court shall have power to issue directions or orders or writs, including writs in the nature of *habeas corpus*, *mandamus*, prohibition, *quo warranto* and *certiorari*, whichever may be appropriate, for the enforcement of any of the rights conferred by this Part.
+
+(3) Without prejudice to the powers conferred on the Supreme Court by clauses (1) and (2), Parliament may by law empower any other court to exercise within the local limits of its jurisdiction all or any of the powers exercisable by the Supreme Court under clause (2).
+
+(4) The right guaranteed by this article shall not be suspended except as otherwise provided for by this Constitution.

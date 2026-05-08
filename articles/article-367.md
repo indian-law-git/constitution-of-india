@@ -1,0 +1,22 @@
+---
+article: 367
+part: XIX
+title: "Interpretation"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-367-interpretation/"
+---
+
+# Article 367. Interpretation
+
+(1) Unless the context otherwise requires, the General Clauses Act, 1897, shall, subject to any adaptations and modifications that may be made therein under article 372, apply for the interpretation of this Constitution as it applies for the interpretation of an Act of the Legislature of the Dominion of India.
+
+(2) Any reference in this Constitution to Acts or laws of, or made by, Parliament, or to Acts or laws of, or made by, the Legislature of a State specified in Part A or Part B of the First Schedule, shall be construed as including a reference to an Ordinance made by the President or, to an Ordinance made by a Governor or Rajpramukh, as the case may be.
+
+(3) For the purposes of this Constitution “foreign State” means any State other than India:
+
+Provided that, subject to the provisions of any law made by Parliament, the President may by order declare any State not to be a foreign State for such purposes as may be specified in the order.

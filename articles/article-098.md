@@ -1,0 +1,22 @@
+---
+article: 98
+part: V
+title: "Secretariat of parliament"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-98-secretariat-of-parliament/"
+---
+
+# Article 98. Secretariat of parliament
+
+(1) Each House of Parliament shall have a separate secretarial staff:
+
+Provided that nothing in this clause shall be construed as preventing the creation of posts common to both Houses of Parliament.
+
+(2) Parliament may by law regulate the recruitment, and the conditions of service of persons appointed, to the secretarial staff of either House of Parliament.
+
+(3) Until provision is made by Parliament under clause (2), the President may, after consultation with the Speaker of the House of the People or the Chairman of the Council of States, as the case may be, make rules regulating the recruitment, and the conditions of service of persons appointed, to the secretarial staff of the House of the People or the Council of States, and any rules so made shall have effect subject to the provisions of any law made under the said clause.

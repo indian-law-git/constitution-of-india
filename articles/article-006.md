@@ -1,0 +1,24 @@
+---
+article: 6
+part: II
+title: "Rights of citizenship of certain persons who have migrated to india from pakistan"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-6-rights-of-citizenship-of-certain-persons-who-have-migrated-to-india-from-pakistan/"
+---
+
+# Article 6. Rights of citizenship of certain persons who have migrated to india from pakistan
+
+Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of the Constitution if —
+
+(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and
+
+(b) (i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or
+
+(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:
+
+Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application

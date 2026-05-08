@@ -1,0 +1,28 @@
+---
+article: 25
+part: III
+title: "Freedom of conscience and free profession practice and propagation of religion"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-25-freedom-of-conscience-and-free-profession-practice-and-propagation-of-religion/"
+---
+
+# Article 25. Freedom of conscience and free profession practice and propagation of religion
+
+(1) Subject to public order, morality and health and to the other provisions of this Part, all persons are equally entitled to freedom of conscience and the right freely to profess, practise and propagate religion.
+
+(2) Nothing in this article shall affect the operation of any existing law or prevent the State from making any law-
+
+(a) Regulating or restricting any economic, financial, political or other secular activity which may be associated with religious practice;
+
+(b) Providing for social welfare and reform or the throwing open of Hindu religious institutions of a public character to all classes and section of Hindus.
+
+Explanation I.—The wearing and carrying of kirpans shall be deemed to be included in the profession of the Sikh religion.
+
+Explanation II.—In sub-clause (b) of clause (2), the reference to Hindus shall be construed as including a reference to persons professing the Sikh, Jaina or Buddhist religion, and the reference to Hindu religious institutions shall be
+
+construed accordingly.

@@ -1,0 +1,18 @@
+---
+article: 250
+part: XI
+title: "Power of parliament to legislate with respect to any matter in the state list if a proclamation of emergency is in operation"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-250-power-of-parliament-to-legislate-with-respect-to-any-matter-in-the-state-list-if-a-proclamation-of-emergency-is-in-operation/"
+---
+
+# Article 250. Power of parliament to legislate with respect to any matter in the state list if a proclamation of emergency is in operation
+
+*(1) Notwithstanding anything in this Chapter, Parliament shall, while a Proclamation of Emergency is in operation, have power to make laws for the whole or any part of the territory of India with respect to any of the matters enumerated in the State List.*
+
+*(2) A law made by Parliament which Parliament would not but for the issue of a Proclamation of Emergency have been competent to make shall, to the extent of the incompetency, cease to have effect on the expiration of a period of six months after the Proclamation has ceased to operate, except as respects things done or omitted to be done before the expiration of the said period.*

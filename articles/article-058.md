@@ -1,0 +1,26 @@
+---
+article: 58
+part: V
+title: "Qualifications for election as president"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-58-qualifications-for-election-as-president/"
+---
+
+# Article 58. Qualifications for election as president
+
+(1) No person shall be eligible for election as President unless he —
+
+(a) is a citizen of India,
+
+(b) has completed the age of thirty-five years, and
+
+(c) is qualified for election as a member of the House of the People.
+
+(2) A person shall not be eligible for election as President if he holds any office of profit under the Government of India or the Government of any State or under any local or other authority subject to the control of any of the said Governments.
+
+*Explanation*. — For the purposes of this article, a person shall not be deemed to hold any office of profit by reason only that he is the President or Vice-President of the Union or the Governor or Rajpramukh or Uparajpramukh of any State or is a Minister either for the Union or for any State.

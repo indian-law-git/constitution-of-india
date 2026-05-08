@@ -23,6 +23,19 @@ def info() -> None:
     typer.echo("indian-law-git pipeline — Phase 0 (scaffolded). Modules are stubs.")
 
 
+@app.command("render-articles")
+def render_articles(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
+    """Render the merged baseline JSONs into articles/article-NNN.md."""
+    from pipeline.render import markdown as md
+
+    logging.basicConfig(
+        level=logging.INFO if verbose else logging.WARNING,
+        format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    )
+    written, missing = md.render_all()
+    typer.echo(f"done: written={written} missing={missing} -> {md.OUT_DIR}")
+
+
 @app.command("extract-manuscript")
 def extract_manuscript(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
     """Parse human transcriptions in pipeline/sources/manuscript and emit JSON."""

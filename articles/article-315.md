@@ -1,0 +1,24 @@
+---
+article: 315
+part: XIV
+title: "Public service commissions for the union and for the states"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-315-public-service-commissions-for-the-union-and-for-the-states/"
+---
+
+# Article 315. Public service commissions for the union and for the states
+
+(1) Subject to the provisions of this article, there shall be a Public Service Commission for the Union and a Public Service Commission for each State.
+
+(2) Two or more States may agree that there shall be one Public Service Commission for that group of States, and if a resolution to that effect is passed by the House or, where there are two Houses, by each House of the Legislature of each of those States, Parliament may by law provide for the appointment of a Joint State Public Service Commission (referred to in this Chapter as Joint Commission) to serve the needs of those States.
+
+(3) Any such law as aforesaid may contain such incidental and consequential provisions as may be necessary or desirable for giving effect to the purposes of the law.
+
+(4) The Public Service Commission for the Union, if requested so to do by the Governor or Rajpramukh of a State, may, with the approval of the President, agree to serve all or any of the needs of the State.
+
+(5) References in this Constitution to the Union Public Service Commission or a State Public Service Commission shall, unless the context otherwise requires, be construed as references to the Commission serving the needs of the Union or, as the case may be, the State as respects the particular matter in question.

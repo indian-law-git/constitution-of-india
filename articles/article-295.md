@@ -1,0 +1,22 @@
+---
+article: 295
+part: XII
+title: "Succession to property assets rights liabilities and obligations in other cases"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-295-succession-to-property-assets-rights-liabilities-and-obligations-in-other-cases/"
+---
+
+# Article 295. Succession to property assets rights liabilities and obligations in other cases
+
+(1) As from the commencement of this Constitution—
+
+(a) all property and assets which immediately before such commencement were vested in any Indian State corresponding to a State specified in Part B of the First Schedule shall vest in the Union, if the purposes for which such property and assets were held immediately before such commencement will thereafter be purposes of the Union relating to any of the matters enumerated in the Union List, and
+
+(b) all rights, liabilities and obligations of the Government of any Indian State corresponding to a State specified in Part B of the First Schedule, whether arising out of any contract or otherwise, shall be the rights, liabilities and obligations of the Government of India, if the purposes for which such rights were acquired or liabilities or obligations were incurred before such commencement will thereafter be purposes of the Government of India relating to any of the matters enumerated in the Union List, subject to any agreement entered into in that behalf by the Government of India with the Government of that State.
+
+(2) Subject as aforesaid, the Government of each State specified in Part B of the First Schedule shall, as from the commencement of this Constitution, be the successor of the Government of the corresponding Indian State as regards all property and assets and all rights, liabilities and obligations, whether arising out of any contract or otherwise, other than those referred to in clause (1).

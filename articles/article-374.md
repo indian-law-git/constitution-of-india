@@ -1,0 +1,21 @@
+---
+article: 374
+part: XXI
+title: "Provisions as to judges of the federal court and proceedings pending in the federal court or before his majesty in council"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-374-provisions-as-to-judges-of-the-federal-court-and-proceedings-pending-in-the-federal-court-or-before-his-majesty-in-council/"
+---
+
+# Article 374. Provisions as to judges of the federal court and proceedings pending in the federal court or before his majesty in council
+
+(1) The Judges of the Federal Court holding office immediately before the commencement of this Constitution shall, unless they have elected otherwise, become on such commencement the Judges of the Supreme Court and shall thereupon be entitled to such salaries and allowances and to such rights in respect of leave of absence and pension as are provided for under article 125 in respect of the Judges of the Supreme Court.
+
+(2) All suits, appeals and proceedings, civil or criminal, pending in the Federal Court at the commencement of this Constitution shall stand removed to the Supreme Court, and the Supreme Court shall have jurisdiction to hear and determine the same, and the judgments and orders of the Federal Court delivered or made before the commencement of this Constitution shall have the same force and effect as if they had been delivered or made by the Supreme Court.
+(3) Nothing in this Constitution shall operate to invalidate the exercise of jurisdiction by His Majesty in Council to dispose of appeals and petitions from, or in respect of, any judgment, decree or order of any court within the territory of India in so far as the exercise of such jurisdiction is authorised by law, and any order of His Majesty in Council made on any such appeal or petition after the commencement of this Constitution shall for all purposes have effect as if it were an order or decree made by the Supreme Court in the exercise of the jurisdiction conferred on such Court by this Constitution.
+(4) On and from the commencement of this Constitution the jurisdiction of the authority functioning as the Privy Council in a State specified in Part B of the First Schedule to entertain and dispose of appeals and petitions from or in respect of any judgment, decree or order of any court within that State shall cease, and all appeals and other proceedings pending before the said authority at such commencement shall be transferred to, and disposed of by, the Supreme Court.
+(5) Further provision may be made by Parliament by law to give effect to the provisions of this article.

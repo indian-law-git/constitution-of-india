@@ -1,0 +1,22 @@
+---
+article: 293
+part: XII
+title: "Borrowing by state"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-293-borrowing-by-state/"
+---
+
+# Article 293. Borrowing by state
+
+*(1) Subject to the provisions of this article, the executive power of a State extends to borrowing within the territory of India upon the security of the Consolidated Fund of the State within such limits, if any, as may from time to time be fixed by the Legislature of such State by law and to the giving of guarantees within such limits, if any, as may be so fixed.*
+
+*(2) The Government of India may, subject to such conditions as may be laid down by or under any law made by Parliament, make loans to any State or, so long as any limits fixed under article 292 are not exceeded, give guarantees in respect of loans raised by any State, and any sums required for the purpose of making such loans shall be charged on the Consolidated Fund of India.*
+
+*(3) A State may not without the consent of the Government of India raise any loan if there is still outstanding any part of a loan which has been made to the State by the Government of India or by its predecessor Government, or in respect of which a guarantee has been given by the Government of India or by its predecessor Government.*
+
+*(4) A consent under clause (3) may be granted subject to such conditions, if any, as the Government of India may think fit to impose.*

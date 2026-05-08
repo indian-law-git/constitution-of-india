@@ -1,0 +1,18 @@
+---
+article: 285
+part: XII
+title: "Exemption of property of the union from state taxation"
+status: active
+inserted_by: original
+repealed_by: null
+amended_by: []
+current_as_of: "1950-01-26"
+source: clpr
+source_url: "https://www.constitutionofindia.net/articles/article-285-exemption-of-property-of-the-union-from-state-taxation/"
+---
+
+# Article 285. Exemption of property of the union from state taxation
+
+*(1) The property of the Union shall, save in so far as Parliament may by law otherwise provide, be exempt from all taxes imposed by a State or by any authority within a State.*
+
+*(2) Nothing in clause (1) shall, until Parliament by law otherwise provides, prevent any authority within a State from levying any tax on any property of the Union to which such property was immediately before the commencement of this Constitution liable or treated as liable, so long as that tax continues to be levied in that State.*
