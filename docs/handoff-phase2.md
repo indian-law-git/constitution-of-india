@@ -61,7 +61,7 @@ For each remaining amendment N (`docs/amendments/NNN.pdf`):
 
 1. **Read the PDF** end to end. Identify each section's edit op (substitute / insert clause / insert article / add at end / repeal). Try `pdfplumber` first — when it returns chars but no text, the PDF is a scanned image with no text layer (the 3rd Amendment was the first such case). For scans, render pages with `pdftoppm -r 300` and OCR with both **tesseract** and **`/liteparse` with OCR**, cross-verify the operative section verbatim, and on any disagreement crop the relevant region at 600 DPI and inspect the image directly to settle punctuation / wording. Old Gazette typography (semicolon-with-trailing-dash, comma-with-em-dash) is a frequent OCR-misread source.
 2. **Cross-check the touched-articles list** against `metadata/amendments.json` for amendment N. Three independent seed sources (legislative.gov.in PDF, pykih, IK) — discrepancies are interesting but not blocking.
-3. **Validate-before-patch.** For each article the amendment claims to touch, verify our current corpus's clause / wording matches the BEFORE state the amendment expects. Mismatches mean the v1.0-baseline carries a hybrid form (e.g. CLPR mixed in some early-amendment text). Fix the baseline from manuscript as a **discrete prior commit** — see commit `d1ddc77` for the pattern.
+3. **Validate-before-patch.** For each article the amendment claims to touch, verify our current corpus's clause / wording matches the BEFORE state the amendment expects. Mismatches mean the v1.0-baseline carries a hybrid form (e.g. CLPR mixed in some early-amendment text) or has plain CLPR drift errors (Art 19 cl 6, Art 81 missing cl 3, Art 31 cl 5/6 wording, Art 305 title — all surfaced and fixed already). When mismatches are found, bundle ALL baseline corrections for this amendment cycle into a **single consolidated commit** between the previous amendment commit and this amendment commit. Do NOT split per-article. Do NOT fold baseline fixes into the amendment commit (a non-technical reader of the amendment diff would see edits that aren't actually in the Act).
 4. **Apply edits.** Direct file edits to `articles/article-NNN.md`, `schedules/schedule-NN.md`, `parts/part-X.md`. Frontmatter on every touched file:
    ```yaml
    amended_by:
@@ -71,8 +71,11 @@ For each remaining amendment N (`docs/amendments/NNN.pdf`):
    ```
    For new articles, also: `inserted_by: "The Constitution (Nth Amendment) Act, YYYY"`.
    For new schedules: `inserted_by:` + `source: legislative-gov-in` + `source_url:` (the legislative.gov.in PDF URL from `metadata/amendments.json`).
-5. **Single commit per amendment** (PRD §5.7). Commit message format: see commit `4251da3` for the template — section-by-section breakdown, source PDF cite, validation pass summary, before-state mismatch notes (with reference to the prior baseline-fix commit).
-6. **Push** when satisfied.
+5. **Single commit per amendment** (PRD §5.7). Commit message format: see commit `4251da3` for the template — section-by-section breakdown, source PDF cite, validation pass summary, before-state mismatch notes (with reference to the prior baseline-fix commit if any).
+6. **Tag the amendment commit** `amendment-NNN` (3-digit zero-padded; annotated; tag message = full Act title + assent date). This lets `git tag --list "amendment-*"` filter Phase 2 history out of the noise.
+7. **Push** the commit AND the tag (`git push origin main && git push origin amendment-NNN`).
+
+**Don't commit often.** Resist the urge to make per-article baseline-fix commits, doc-touchup commits, or progress commits. The repo is read by non-technical lawyers / journalists / students; a noisy `git log` is hostile to them. Workflow scratch goes into the working tree, not into commits.
 
 ## 4. Decisions that aren't obvious from the code
 
