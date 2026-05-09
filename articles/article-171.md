@@ -5,15 +5,16 @@ title: "Composition of the Legislative Councils"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 171. Composition of the Legislative Councils
 
-(1) The total number of members in the Legislative Council of a State having such a Council shall not exceed one-fourth of the total number of members in the Legislative Assembly of that State:
+(1) The total number of members in the Legislative Council of a State having such a Council shall not exceed one-third of the total number of members in the Legislative Assembly of that State:
 
 Provided that the total number of members in the Legislative Council of a State shall in no case be less than forty.
 

@@ -5,15 +5,16 @@ title: "Appointment and term of office of members"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 316. Appointment and term of office of members
 
-(1) The Chairman and other members of a Public Service Commission shall be appointed, in the case of the Union Commission or a Joint Commission, by the President, and in the case of a State Commission, by the Governor or Rajpramukh of the State:
+(1) The Chairman and other members of a Public Service Commission shall be appointed, in the case of the Union Commission or a Joint Commission, by the President, and in the case of a State Commission, by the Governor of the State:
 
 Provided that as nearly as may be one-half of the members of every Public Service Commission shall be persons who at the dates of their respective appointments have held office for at least ten years either under the Government of India or under the Government of a State, and in computing the said period of ten years any period before the commencement of this Constitution during which a person has held office under the Crown in India or under the Government of an Indian State shall be included.
 
@@ -21,7 +22,7 @@ Provided that as nearly as may be one-half of the members of every Public Servic
 
 Provided that—
 
-(a) a member of a Public Service Commission may, by writing under his hand addressed, in the case of the Union Commission or a Joint Commission, to the President, and in the case of a State Commission, to the Governor or Rajpramukh of the State, resign his office;
+(a) a member of a Public Service Commission may, by writing under his hand addressed, in the case of the Union Commission or a Joint Commission, to the President, and in the case of a State Commission, to the Governor of the State, resign his office;
 
 (b) a member of a Public Service Commission may be removed from his office in the manner provided in clause (1) or clause (3) of article 317.
 

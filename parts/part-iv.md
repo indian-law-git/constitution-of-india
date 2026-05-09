@@ -5,8 +5,9 @@ articles: [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51]
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 ---
 
 # Part IV — Directive Principles of State Policy

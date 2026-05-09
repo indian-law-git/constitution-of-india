@@ -3,270 +3,37 @@ schedule: 4
 title: "Fourth Schedule — Allocation of Seats in the Council of States"
 status: active
 inserted_by: original
-amended_by: []
-current_as_of: "1950-01-26"
-source: clpr
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
+source: legislative-gov-in
+source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
 
 # Fourth Schedule — Allocation of Seats in the Council of States
 
-**Allocation of seats in the Council of States**
-
-To each State or group of States specified in the first column of the table of seats appended to this Schedule there shall be allotted the number of seats specified in the second column of the said table opposite to that State or group of States, as the case may be.
-
-**Table of Seats**
-
-The Council of States
-
-**Representatives of States specified in Part A of the First Schedule**
-
-1
-
-2
-
-
-
-
-
-
-States
-
-
-Total Seats
-
-
-
-
-
-
-1. Assam
-
-6
-
-
-
-
-2. Bihar
-
-21
-
-
-3. Bombay
-
-17
-
-
-
-
-4. Madhya Pradesh
-
-12
-
-
-5. Madras
-
-27
-
-
-
-
-6. Orissa
-
-9
-
-
-
-7. Punjab
-
-8
-
-
-
-8. The United Provinces
-
-
-31
-
-
-
-
-9. West Bengal
-
-
-14
-
-
-
-
-
-
-
-Total … … 145
-
-**Representatives of States specified in Part B of the First Schedule**
-
-1
-
-2
-
-
-
-
-
-
-States
-
-
-Total Seats
-
-
-
-
-
-
-
-1. Hyderabad
-
-
-11
-
-
-
-
-2. Jammu and Kashmir
-
-4
-
-
-
-3. Madhya Bharat
-
-
-6
-
-
-
-4. Mysore
-
-6
-
-
-
-
-5. Patiala and East Punjab States Union
-
-3
-
-
-
-6. Rajasthan
-
-
-9
-
-
-
-7. Saurashtra
-
-4
-
-
-
-
-8. Travancore-Cochin
-
-6
-
-
-9. Vindhya Pradesh
-
-4
-
-
-
-
-
-
-
-Total … … 53
-
-**Representatives of States specified in Part C of the First Schedule**
-
-1
-
-
-2
-
-
-
-
-
-
-
-States and Groups of States
-
-
-Total Seats
-
-
-
-
-
-
-
-1. Ajmer
-2. Coorg
-1
-
-
-3. Bhopal
-
-1
-
-
-
-
-4. Bilaspur
-5. Himachal Pradesh
-1
-
-
-6. Cooch-Behar
-
-1
-
-
-
-
-7. Delhi
-
-1
-
-
-8. Kutch
-
-1
-
-
-
-
-9. Manipur
-10. Tripura
-
-1
-
-
-
-
-
-
-
-Total … … 7
-
-
-
-
-
-
-
-Total of all Seats … 205
+[Articles 4(1) and 80(2)]
+
+To each State or Union territory specified in the first column of the following table, there shall be allotted the number of seats specified in the second column thereof opposite to that State or that Union territory, as the case may be.
+
+| Name | Number of Seats |
+|---|---|
+| 1. Andhra Pradesh | 18 |
+| 2. Assam | 7 |
+| 3. Bihar | 22 |
+| 4. Bombay | 27 |
+| 5. Kerala | 9 |
+| 6. Madhya Pradesh | 16 |
+| 7. Madras | 17 |
+| 8. Mysore | 12 |
+| 9. Orissa | 10 |
+| 10. Punjab | 11 |
+| 11. Rajasthan | 10 |
+| 12. Uttar Pradesh | 34 |
+| 13. West Bengal | 16 |
+| 14. Jammu and Kashmir | 4 |
+| 15. Delhi | 3 |
+| 16. Himachal Pradesh | 2 |
+| 17. Manipur | 1 |
+| 18. Tripura | 1 |
+| **Total** | **220** |

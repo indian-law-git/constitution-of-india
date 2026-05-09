@@ -5,8 +5,9 @@ title: "Power of President to grant pardons, etc., and to suspend, remit or comm
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -23,4 +24,4 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (2) Nothing in sub-clause (a) of clause (1) shall affect the power conferred by law on any officer of the Armed Forces of the Union to suspend, remit or commute a sentence passed by a Court Martial.
 
-(3) Nothing in sub-clause (c) of clause (1) shall affect the power to suspend, remit or commute a sentence of death exercisable by the Governor or Rajpramukh of a State under any law for the time being in force.
+(3) Nothing in sub-clause (c) of clause (1) shall affect the power to suspend, remit or commute a sentence of death exercisable by the Governor of a State under any law for the time being in force.

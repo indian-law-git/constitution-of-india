@@ -5,8 +5,9 @@ title: "Public Service Commissions for the Union and for the States"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -19,6 +20,6 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (3) Any such law as aforesaid may contain such incidental and consequential provisions as may be necessary or desirable for giving effect to the purposes of the law.
 
-(4) The Public Service Commission for the Union, if requested so to do by the Governor or Rajpramukh of a State, may, with the approval of the President, agree to serve all or any of the needs of the State.
+(4) The Public Service Commission for the Union, if requested so to do by the Governor of a State, may, with the approval of the President, agree to serve all or any of the needs of the State.
 
 (5) References in this Constitution to the Union Public Service Commission or a State Public Service Commission shall, unless the context otherwise requires, be construed as references to the Commission serving the needs of the Union or, as the case may be, the State as respects the particular matter in question.

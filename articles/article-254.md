@@ -5,8 +5,9 @@ title: "Inconsistency between laws made by Parliament and laws made by the Legis
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -15,6 +16,6 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (1) If any provision of a law made by the Legislature of a State is repugnant to any provision of a law made by Parliament which Parliament is competent to enact, or to any provision of an existing law with respect to one of the matters enumerated in the Concurrent List, then, subject to the provisions of clause (2), the law made by Parliament, whether passed before or after the law made by the Legislature of such State, or, as the case may be, the existing law, shall prevail and the law made by the Legislature of the State shall, to the extent of the repugnancy, be void.
 
-(2) Where a law made by the Legislature of a State specified in Part A or Part B of the First Schedule with respect to one of the matters enumerated in the Concurrent List contains any provision repugnant to the provisions of an earlier law made by Parliament or an existing law with respect to that matter, then, the law so made by the Legislature of such State shall, if it has been reserved for the consideration of the President and has received his assent, prevail in that State:
+(2) Where a law made by the Legislature of a State with respect to one of the matters enumerated in the Concurrent List contains any provision repugnant to the provisions of an earlier law made by Parliament or an existing law with respect to that matter, then, the law so made by the Legislature of such State shall, if it has been reserved for the consideration of the President and has received his assent, prevail in that State:
 
 Provided that nothing in this clause shall prevent Parliament from enacting at any time any law with respect to the same matter including a law adding to, amending, varying or repealing the law so made by the Legislature of the State.

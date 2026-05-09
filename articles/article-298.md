@@ -1,18 +1,23 @@
 ---
 article: 298
 part: XII
-title: "Power to acquire property"
+title: "Power to carry on trade, etc."
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
-source: clpr
-source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
+source: legislative-gov-in
+source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
 
-# Article 298. Power to acquire property
+# Article 298. Power to carry on trade, etc.
 
-(1) The executive power of the Union and of each State shall extend, subject to any law made by the appropriate Legislature, to the grant, sale, disposition or mortgage of any property held for the purposes of the Union or of such State, as the case may be, and to the purchase or acquisition of property for those purposes respectively, and to the making of contracts.
+The executive power of the Union and of each State shall extend to the carrying on of any trade or business and to the acquisition, holding and disposal of property and the making of contracts for any purpose:
 
-(2) All property acquired for the purposes of the Union or of a State shall vest in the Union or in such State, as the case may be.
+Provided that —
+
+(a) the said executive power of the Union shall, in so far as such trade or business or such purpose is not one with respect to which Parliament may make laws, be subject in each State to legislation by the State; and
+
+(b) the said executive power of each State shall, in so far as such trade or business or such purpose is not one with respect to which the State Legislature may make laws, be subject to legislation by Parliament.

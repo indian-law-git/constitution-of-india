@@ -2,17 +2,16 @@
 article: 242
 part: VIII
 title: "Coorg"
-status: active
+status: repealed
 inserted_by: original
-repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+repealed_by: "The Constitution (Seventh Amendment) Act, 1956"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 242. Coorg
 
-(1) Until Parliament by law otherwise provides, the constitution, powers and functions of the Coorg Legislative Council shall be the same as they were immediately before the commencement of this Constitution.
-
-(2) The arrangements with respect to revenues collected in Coorg and expenses in respect of Coorg shall, until other provision is made in that behalf by the President by order, continue unchanged.
+*[Section 29 + Schedule of the 7th Amendment expressly omitted Article 242 (provisions about Council of Ministers / Legislative Council in Part C States). Part C State category was eliminated by the same Act.]*

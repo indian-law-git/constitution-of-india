@@ -5,10 +5,12 @@ title: "Definitions"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
-source: clpr
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
+source: mixed
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
+note: "Baseline gap: clauses (22)–(29) of Article 366 are missing from both CLPR per-article and CLPR consolidated sources (both truncate at cl(21)). The 7th Amendment §29 Schedule omits clause (21) (Rajpramukh definition, no longer needed) and substitutes clause (30) with a new Union-territory definition; both edits applied here. Clauses (22)–(29) in their 1950 form are TODO — needs back-fill from Aggarwala 1950 facsimile or manuscript."
 ---
 
 # Article 366. Definitions
@@ -69,12 +71,8 @@ In this Constitution, unless the context otherwise requires, the following expre
 
 (b) any other line of communication wholly situate in one State and declared by Parliament by law not to be a railway;
 
-(21) “Rajpramukh” means—
+*[Clause (21) (definition of "Rajpramukh") omitted by section 29 + Schedule of The Constitution (Seventh Amendment) Act, 1956. The Rajpramukh office was tied to the Part B State category, which the same Act eliminated.]*
 
-(a) in relation to the State of Hyderabad, the person who for the time being is recognised by the President as the Nizam of Hyderabad;
+*[Clauses (22)–(29) of the 1950 form are missing in this rendering — see frontmatter `note`.]*
 
-(b) in relation to the State of Jammu and Kashmir or the State of Mysore, the person who for the time being is recognised by the President as the Maharaja of that State; and
-
-(c) in relation to any other State specified in Part B of the First Schedule, the person who for the time being is recognised by the President as the Rajpramukh of that State,
-
-and includes in relation to any of the said States any person for the time being recognised by the President as competent to exercise the powers of the Rajpramukh in relation to that State;
+(30) "Union territory" means any Union territory specified in the First Schedule and includes any other territory comprised within the territory of India but not specified in that Schedule.

@@ -5,8 +5,9 @@ title: "Dismissal, removal or reduction in rank of persons employed in civil cap
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -23,6 +24,6 @@ Provided that this clause shall not apply—
 
 (b) where an authority empowered to dismiss or remove a person or to reduce him in rank is satisfied that for some reason, to be recorded by that authority in writing, it is not reasonably practicable to give to that person an opportunity of showing cause; or
 
-(c) where the President or Governor or Rajpramukh, as the case may be, is satisfied that in the interest of the security of the State it is not expedient to give to that person such an opportunity.
+(c) where the President or Governor, as the case may be, is satisfied that in the interest of the security of the State it is not expedient to give to that person such an opportunity.
 
 (3) If any question arises whether it is reasonably practicable to give to any person an opportunity of showing cause under clause (2), the decision thereon of the authority empowered to dismiss or remove such person or to reduce him in rank, as the case may be, shall be final.

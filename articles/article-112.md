@@ -5,8 +5,9 @@ title: "Annual financial statement"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -35,7 +36,7 @@ and shall distinguish expenditure on revenue account from other expenditure.
 (ii) the pensions payable to or in respect of Judges of the Federal Court;
 
 
-(iii) the pensions payable to or in respect of Judges of any High Court which exercises jurisdiction in relation to any area included in the territory of India or which at any time before the commencement of this Constitution exercised jurisdiction in relation to any area included in a Province corresponding to a State specified in Part A of the First Schedule;
+(iii) the pensions payable to or in respect of Judges of any High Court which exercises jurisdiction in relation to any area included in the territory of India or which at any time before the commencement of this Constitution exercised jurisdiction in relation to any area included in a Governor's Province of the Dominion of India;
 
 
 

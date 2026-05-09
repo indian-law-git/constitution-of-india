@@ -1,22 +1,23 @@
 ---
 article: 230
 part: VI
-title: "Extension of or exclusion from the jurisdiction of High Courts"
+title: "Extension of jurisdiction of High Courts to Union territories"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
-source: clpr
-source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
+source: legislative-gov-in
+source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
 
-# Article 230. Extension of or exclusion from the jurisdiction of High Courts
+# Article 230. Extension of jurisdiction of High Courts to Union territories
 
-Parliament may by law—
+(1) Parliament may by law extend the jurisdiction of a High Court to, or exclude the jurisdiction of a High Court from, any Union territory.
 
-(a) extend the jurisdiction of a High Court to, or
+(2) Where the High Court of a State exercises jurisdiction in relation to a Union territory —
 
-(b) exclude the jurisdiction of a High Court from,
+(a) nothing in this Constitution shall be construed as empowering the Legislature of the State to increase, restrict or abolish that jurisdiction; and
 
-any State specified in the First Schedule other than, or any area not within, the State in which the High Court has its principal seat.
+(b) the reference in article 227 to the Governor shall, in relation to any rules, forms or tables for subordinate courts in that territory, be construed as a reference to the President.

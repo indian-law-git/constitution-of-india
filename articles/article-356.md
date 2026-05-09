@@ -5,17 +5,18 @@ title: "Provisions in case of failure of constitutional machinery in States"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 356. Provisions in case of failure of constitutional machinery in States
 
-(1) If the President, on receipt of a report from the Governor or Rajpramukh of a State or otherwise, is satisfied that a situation has arisen in which the government of the State cannot be carried on in accordance with the provisions of this Constitution, the President may by Proclamation—
+(1) If the President, on receipt of a report from the Governor of a State or otherwise, is satisfied that a situation has arisen in which the government of the State cannot be carried on in accordance with the provisions of this Constitution, the President may by Proclamation—
 
-(a) assume to himself all or any of the functions of the Government of the State and all or any of the powers vested in or exercisable by the Governor or Rajpramukh, as the case may be, or any body or authority in the State other than the Legislature of the State;
+(a) assume to himself all or any of the functions of the Government of the State and all or any of the powers vested in or exercisable by the Governor, or any body or authority in the State other than the Legislature of the State;
 
 (b) declare that the powers of the Legislature of the State shall be exercisable by or under the authority of Parliament;
 

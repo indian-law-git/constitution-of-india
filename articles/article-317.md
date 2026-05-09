@@ -5,8 +5,9 @@ title: "Removal and suspension of a member of a Public Service Commission"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -15,7 +16,7 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (1) Subject to the provisions of clause (3), the Chairman or any other member of a Public Service Commission shall only be removed from his office by order of the President on the ground of misbehaviour after the Supreme Court, on reference being made to it by the President, has, on inquiry held in accordance with the procedure prescribed in that behalf under article 145, reported that the Chairman or such other member, as the case may be, ought on any such ground to be removed.
 
-(2) The President, in the case of the Union Commission or a Joint Commission, and the Governor or Rajpramukh, in the case of a State Commission, may suspend from office the Chairman or any other member of the Commission in respect of whom a reference has been made to the Supreme Court under clause (1) until the President has passed orders on receipt of the report of the Supreme Court on such reference.
+(2) The President, in the case of the Union Commission or a Joint Commission, and the Governor, in the case of a State Commission, may suspend from office the Chairman or any other member of the Commission in respect of whom a reference has been made to the Supreme Court under clause (1) until the President has passed orders on receipt of the report of the Supreme Court on such reference.
 
 (3) Notwithstanding anything in clause (1), the President may by order remove from office the Chairman or any other member of a Public Service Commission if the Chairman or such other member, as the case may be,—
 

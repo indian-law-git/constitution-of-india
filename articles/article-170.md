@@ -5,22 +5,21 @@ title: "Composition of the Legislative Assemblies"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
-source: clpr
-source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
+source: legislative-gov-in
+source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
 
 # Article 170. Composition of the Legislative Assemblies
 
-(1) Subject to the provisions of article 333, the Legislative Assembly of each State shall be composed of members chosen by direct election.
+(1) Subject to the provisions of article 333, the Legislative Assembly of each State shall consist of not more than five hundred, and not less than sixty, members chosen by direct election from territorial constituencies in the State.
 
-(2) The representation of each territorial constituency in the Legislative Assembly of a State shall be on the basis of the population of that constituency as ascertained at the last preceding census of which the relevant figures have been published and shall, save in the case of the autonomous districts of Assam and the constituency comprising the cantonment and municipality of Shillong, be on a scale of not more than one member for every seventy-five thousand of the population:
+(2) For the purposes of clause (1), each State shall be divided into territorial constituencies in such manner that the ratio between the population of each constituency and the number of seats allotted to it shall, so far as practicable, be the same throughout the State.
 
-Provided that the total number of members in the Legislative Assembly of a State shall in no case be more than five hundred or less than sixty.
+*Explanation*.—In this clause, the expression "population" means the population as ascertained at the last preceding census of which the relevant figures have been published.
 
-(3) The ratio between the number of members to be allotted to each territorial constituency in a State and the population of that constituency as ascertained at the last preceding census of which the relevant figures have been published shall, so far as practicable, be the same throughout the State.
-
-(4) Upon the completion of each census, the representation of the several territorial constituencies in the Legislative Assembly of each State shall be readjusted by such authority, in such manner and with effect from such date as Parliament may by law determine:
+(3) Upon the completion of each census, the total number of seats in the Legislative Assembly of each State and the division of each State into territorial constituencies shall be readjusted by such authority and in such manner as Parliament may by law determine:
 
 Provided that such readjustment shall not affect representation in the Legislative Assembly until the dissolution of the then existing Assembly.

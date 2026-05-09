@@ -5,8 +5,9 @@ title: "Taxes levied and collected by the Union and distributed between the Unio
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -15,9 +16,9 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (1) Taxes on income other than agricultural income shall be levied and collected by the Government of India and distributed between the Union and the States in the manner provided in clause (2).
 
-(2) Such percentage, as may be prescribed, of the net proceeds in any financial year of any such tax, except in so far as those proceeds represent proceeds attributable to States specified in Part C of the First Schedule or to taxes payable in respect of Union emoluments, shall not form part of the Consolidated Fund of India, but shall be assigned to the States within which that tax is leviable in that year, and shall be distributed among those States in such manner and from such time as may be prescribed.
+(2) Such percentage, as may be prescribed, of the net proceeds in any financial year of any such tax, except in so far as those proceeds represent proceeds attributable to Union territories or to taxes payable in respect of Union emoluments, shall not form part of the Consolidated Fund of India, but shall be assigned to the States within which that tax is leviable in that year, and shall be distributed among those States in such manner and from such time as may be prescribed.
 
-(3) For the purposes of clause (2), in each financial year such percentage as may be prescribed of so much of the net proceeds of taxes on income as does not represent the net proceeds of taxes payable in respect of Union emoluments shall be deemed to represent proceeds attributable to States specified in Part C of the First Schedule.
+(3) For the purposes of clause (2), in each financial year such percentage as may be prescribed of so much of the net proceeds of taxes on income as does not represent the net proceeds of taxes payable in respect of Union emoluments shall be deemed to represent proceeds attributable to Union territories.
 
 (4) In this article—
 

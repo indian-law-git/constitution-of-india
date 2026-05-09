@@ -5,8 +5,9 @@ articles: [308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321,
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 ---
 
 # Part XIV — Services under the Union and the States

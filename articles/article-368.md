@@ -5,8 +5,9 @@ title: "Procedure for amendment of the Constitution"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -27,4 +28,4 @@ Provided that if such amendment seeks to make any change in—
 
 (e) the provisions of this article,
 
-the amendment shall also require to be ratified by the Legislatures of not less than one-half of the States specified in Parts A and B of the First Schedule by resolutions to that effect passed by those Legislatures before the Bill making provision for such amendment is presented to the President for assent.
+the amendment shall also require to be ratified by the Legislatures of not less than one-half of the States by resolutions to that effect passed by those Legislatures before the Bill making provision for such amendment is presented to the President for assent.

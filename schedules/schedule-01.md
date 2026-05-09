@@ -1,109 +1,43 @@
 ---
 schedule: 1
-title: "First Schedule — The Territories"
+title: "First Schedule — The States and the Union Territories"
 status: active
 inserted_by: original
-amended_by: []
-current_as_of: "1950-01-26"
-source: clpr
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
+source: legislative-gov-in
+source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
 
-# First Schedule — The Territories
+# First Schedule — The States and the Union Territories
 
-## I: The States
+## I. The States
 
-**Part A**
+| Name | Territories |
+|---|---|
+| 1. Andhra Pradesh | The territories specified in sub-section (1) of section 3 of the Andhra State Act, 1953, and the territories specified in sub-section (1) of section 3 of the States Reorganisation Act, 1956. |
+| 2. Assam | The territories which immediately before the commencement of this Constitution were comprised in the Province of Assam, the Khasi States and the Assam Tribal Areas, but excluding the territories specified in the Schedule to the Assam (Alteration of Boundaries) Act, 1951. |
+| 3. Bihar | The territories which immediately before the commencement of this Constitution were either comprised in the Province of Bihar or were being administered as if they formed part of that Province, but excluding the territories specified in sub-section (1) of section 3 of the Bihar and West Bengal (Transfer of Territories) Act, 1956. |
+| 4. Bombay | The territories specified in sub-section (1) of section 8 of the States Reorganisation Act, 1956. |
+| 5. Kerala | The territories specified in sub-section (1) of section 5 of the States Reorganisation Act, 1956. |
+| 6. Madhya Pradesh | The territories specified in sub-section (1) of section 9 of the States Reorganisation Act, 1956. |
+| 7. Madras | The territories which immediately before the commencement of this Constitution were either comprised in the Province of Madras or were being administered as if they formed part of that Province and the territories specified in section 4 of the States Reorganisation Act, 1956, but excluding the territories specified in sub-section (1) of section 3 and sub-section (1) of section 4 of the Andhra State Act, 1953 and the territories specified in clause (b) of sub-section (1) of section 5, section 6 and clause (d) of sub-section (1) of section 7 of the States Reorganisation Act, 1956. |
+| 8. Mysore | The territories specified in sub-section (1) of section 7 of the States Reorganisation Act, 1956. |
+| 9. Orissa | The territories which immediately before the commencement of this Constitution were either comprised in the Province of Orissa or were being administered as if they formed part of that Province. |
+| 10. Punjab | The territories specified in section 11 of the States Reorganisation Act, 1956. |
+| 11. Rajasthan | The territories specified in section 10 of the States Reorganisation Act, 1956. |
+| 12. Uttar Pradesh | The territories which immediately before the commencement of this Constitution were either comprised in the Province known as the United Provinces or were being administered as if they formed part of that Province. |
+| 13. West Bengal | The territories which immediately before the commencement of this Constitution were either comprised in the Province of West Bengal or were being administered as if they formed part of that Province and the territory of Chandernagore as defined in clause (c) of section 2 of the Chandernagore (Merger) Act, 1954, and also the territories specified in sub-section (1) of section 3 of the Bihar and West Bengal (Transfer of Territories) Act, 1956. |
+| 14. Jammu and Kashmir | The territory which immediately before the commencement of this Constitution was comprised in the Indian State of Jammu and Kashmir. |
 
-**Names of States**
-**Names of corresponding Provinces**
+## II. The Union Territories
 
-
-1. Assam
-Assam
-
-
-2. Bihar
-Bihar
-
-
-3. Bombay
-Bombay
-
-
-4. Madhya Pradesh
-The Central Provinces and Berar
-
-
-5. Madras
-Madras
-
-
-6. Orissa
-Orissa
-
-
-7. Punjab
-East Punjab
-
-
-8. The United Provinces
-The United Provinces
-
-
-9. West Bengal
-West Bengal
-
-**Territories of States**
-
-The territory of the State of Assam shall comprise the territories which immediately before the commencement of this Constitution were comprised in the Province of Assam, the Khasi States and the Assam Tribal Areas.
-
-The territory of the State of West Bengal shall comprise the territory which immediately before the commencement of this Constitution was comprised in the Province of West Bengal.
-
-The territory of each of the other States in this Part shall comprise the territories which immediately before the commencement of this Constitution were comprised in the corresponding Province and the territories which, by virtue of an order made under section 290A of the Government of India Act, 1935, were immediately before such commencement being administered as if they formed part of that Province.
-
-**Part B**
-
-**Names of States**
-
-1. Hyderabad.
-2. Jammu and Kashmir.
-3. Madhya Bharat.
-4. Mysore.
-5. Patiala and East Punjab States Union.
-6. Rajasthan.
-7. Saurashtra.
-8. Travancore-Cochin.
-9. Vindhya Pradesh.
-
-**Territories of States**
-
-The territory of each of the States in this Part shall comprise the territory which immediately before the commencement of this Constitution was comprised in the corresponding Indian State, and—
-
-a) in the case of each of the States of Rajasthan and Saurashtra, shall also comprise the territories which immediately before such commencement were being administered by the Government of the corresponding Indian State, whether under the provisions of the Extra-Provincial Jurisdiction Act, 1947, or otherwise; and
-
-b) in the case of the State of Madhya Bharat, shall also comprise the territory which immediately before such commencement was comprised in the Chief Commissioner’s Province of Panth Piploda.
-
-**Part C**
-
-**Names of States**
-
-1. Ajmer.
-2. Bhopal.
-3. Bilaspur.
-4. Cooch-Behar.
-5. Coorg.
-6. Delhi.
-7. Himachal Pradesh.
-8. Kutch.
-9. Manipur.
-10. Tripura.
-
-**Territories of States**
-
-The territory of each of the States of Ajmer, Coorg and Delhi shall comprise the territory which immediately before the commencement of this Constitution was comprised in the Chief Commissioners’ Provinces of Ajmer-Merwara, Coorg and Delhi, respectively.
-
-The territory of each of the other States in this Part shall comprise the territories which, by virtue of an order made under section 290A of the Government of India Act, 1935, were immediately before the commencement of this Constitution being administered as if they were a Chief Commissioner’s Province of the same name.
-
-**Part D**
-
-The Andaman and Nicobar Islands.
+| Name | Extent |
+|---|---|
+| 1. Delhi | The territory which immediately before the commencement of this Constitution was comprised in the Chief Commissioner's Province of Delhi. |
+| 2. Himachal Pradesh | The territories which immediately before the commencement of this Constitution were being administered as if they were Chief Commissioner's Provinces under the names of Himachal Pradesh and Bilaspur. |
+| 3. Manipur | The territory which immediately before the commencement of this Constitution was being administered as if it were a Chief Commissioner's Province under the name of Manipur. |
+| 4. Tripura | The territory which immediately before the commencement of this Constitution was being administered as if it were a Chief Commissioner's Province under the name of Tripura. |
+| 5. The Andaman and Nicobar Islands | The territory which immediately before the commencement of this Constitution was comprised in the Chief Commissioner's Province of the Andaman and Nicobar Islands. |
+| 6. The Laccadive, Minicoy and Amindivi Islands | The territory specified in section 6 of the States Reorganisation Act, 1956. |

@@ -5,8 +5,9 @@ articles: [324, 325, 326, 327, 328, 329]
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 ---
 
 # Part XV — Elections

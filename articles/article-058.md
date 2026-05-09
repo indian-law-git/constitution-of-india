@@ -5,8 +5,9 @@ title: "Qualifications for election as President"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -23,4 +24,4 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (2) A person shall not be eligible for election as President if he holds any office of profit under the Government of India or the Government of any State or under any local or other authority subject to the control of any of the said Governments.
 
-Explanation. — For the purposes of this article, a person shall not be deemed to hold any office of profit by reason only that he is the President or Vice-President of the Union or the Governor or Rajpramukh or Uparajpramukh of any State or is a Minister either for the Union or for any State.
+Explanation. — For the purposes of this article, a person shall not be deemed to hold any office of profit by reason only that he is the President or Vice-President of the Union or the Governor of any State or is a Minister either for the Union or for any State.

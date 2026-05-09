@@ -1,24 +1,23 @@
 ---
 article: 240
 part: VIII
-title: "Creation or continuance of local Legislatures or Council of Advisers or Ministers"
+title: "Power of President to make regulations for certain Union territories"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
-source: manuscript
-source_url: "https://www.constitutionofindia.net/read/original-manuscript/"
-source_pdf_sha256: "e5cb50a2df24f4fbf65fbb1e125cbaa81124e0f518ba52d005344de10c742ec4"
-manuscript_page: "102-103"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
+source: legislative-gov-in
+source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
 
-# Article 240. Creation or continuance of local Legislatures or Council of Advisers or Ministers
+# Article 240. Power of President to make regulations for certain Union territories
 
-(1) Parliament may by law create or continue for any State specified in Part C of the First Schedule and administered through a Chief Commissioner or Lieutenant-Governor—
+(1) The President may make regulations for the peace, progress and good government of the Union territory of —
 
-(a) a body, whether nominated, elected or partly nominated and partly elected, to function as a Legislature for the State; or
+(a) the Andaman and Nicobar Islands;
 
-(b) a Council of Advisers or Ministers, or both with such constitution, powers and functions, in each case, as may be specified in the law.
+(b) the Laccadive, Minicoy and Amindivi Islands.
 
-(2) Any such law as is referred to in clause (1) shall not be deemed to be an amendment of this Constitution for the purposes of article 368 notwithstanding that it contains any provision which amends or has the effect of amending the Constitution.
+(2) Any regulation so made may repeal or amend any Act made by Parliament or any existing law which is for the time being applicable to the Union territory and, when promulgated by the President, shall have the same force and effect as an Act of Parliament which applies to that territory.

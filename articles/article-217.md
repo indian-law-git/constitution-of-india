@@ -5,15 +5,16 @@ title: "Appointment and conditions of the office of a Judge of a High Court"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 217. Appointment and conditions of the office of a Judge of a High Court
 
-(1) Every Judge of a High Court shall be appointed by the President by warrant under his hand and seal after consultation with the Chief Justice of India, the Governor of the State, and, in the case of appointment of a Judge other than the Chief Justice, the Chief Justice of the High Court, and shall hold office until he attains the age of sixty years:
+(1) Every Judge of a High Court shall be appointed by the President by warrant under his hand and seal after consultation with the Chief Justice of India, the Governor of the State, and, in the case of appointment of a Judge other than the Chief Justice, the Chief Justice of the High Court, and shall hold office, in the case of an additional or acting Judge, as provided in article 224, and in any other case, until he attains the age of sixty years:
 
 Provided that—
 
@@ -27,7 +28,7 @@ Provided that—
 
 (a) has for at least ten years held a judicial office in the territory of India; or
 
-(b) has for at least ten years been an advocate of a High Court in any State specified in the First Schedule or of two or more such Courts in succession.
+(b) has for at least ten years been an advocate of a High Court or of two or more such Courts in succession.
 
 Explanation.—For the purposes of this clause—
 

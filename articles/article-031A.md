@@ -8,9 +8,10 @@ repealed_by: null
 amended_by:
   - "The Constitution (First Amendment) Act, 1951"
   - "The Constitution (Fourth Amendment) Act, 1955"
-current_as_of: "1955-04-27"
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: legislative-gov-in
-source_url: "https://www.legislative.gov.in/static/uploads/2025/07/68badaa2da25d641c51992f854344773.pdf"
+source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
 
 # Article 31A. Saving of laws providing for acquisition of estates, etc.
@@ -33,6 +34,6 @@ Provided that where such law is a law made by the Legislature of a State, the pr
 
 (2) In this article,—
 
-(a) the expression "estate" shall, in relation to any local area, have the same meaning as that expression or its local equivalent has in the existing law relating to land tenures in force in that area, and shall also include any jagir, inam or muafi or other similar grant, and in the States of Madras and Travancore-Cochin, any janman right;
+(a) the expression "estate" shall, in relation to any local area, have the same meaning as that expression or its local equivalent has in the existing law relating to land tenures in force in that area, and shall also include any jagir, inam or muafi or other similar grant, and in the States of Madras and Kerala, any janman right;
 
 (b) the expression "rights", in relation to an estate, shall include any rights vesting in a proprietor, sub-proprietor, under-proprietor, tenure-holder, raiyat, under-raiyat or other intermediary and any rights or privileges in respect of land revenue.

@@ -5,8 +5,9 @@ title: "Custody, etc., of Consolidated Funds, Contingency Funds and moneys credi
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -15,4 +16,4 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (1) The custody of the Consolidated Fund of India and the Contingency Fund of India, the payment of moneys into such Funds, the withdrawal of moneys therefrom, the custody of public moneys other than those credited to such Funds received by or on behalf of the Government of India, their payment into the public account of India and the withdrawal of moneys from such account and all other matters connected with or ancillary to matters aforesaid shall be regulated by law made by Parliament, and, until provision in that behalf is so made, shall be regulated by rules made by the President.
 
-(2) The custody of the Consolidated Fund of a State and the Contingency Fund of a State, the payment of moneys into such Funds, the withdrawal of moneys therefrom, the custody of public moneys other than those credited to such Funds received by or on behalf of the Government of the State, their payment into the public account of the State and the withdrawal of moneys from such account and all other matters connected with or ancillary to matters aforesaid shall be regulated by law made by the Legislature of the State, and, until provision in that behalf is so made, shall be regulated by rules made by the Governor or Rajpramukh of the State.
+(2) The custody of the Consolidated Fund of a State and the Contingency Fund of a State, the payment of moneys into such Funds, the withdrawal of moneys therefrom, the custody of public moneys other than those credited to such Funds received by or on behalf of the Government of the State, their payment into the public account of the State and the withdrawal of moneys from such account and all other matters connected with or ancillary to matters aforesaid shall be regulated by law made by the Legislature of the State, and, until provision in that behalf is so made, shall be regulated by rules made by the Governor of the State.

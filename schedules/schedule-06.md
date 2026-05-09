@@ -3,8 +3,9 @@ schedule: 6
 title: "Sixth Schedule — Provisions as to the Administration of Tribal Areas in Assam"
 status: active
 inserted_by: original
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 ---
 
@@ -218,7 +219,7 @@ Provided further that no action shall be taken under clause (b) of this paragrap
 
 (b) with like approval, by public notification, exclude from the said table any tribal area specified in Part B of that table or any part of such area.
 
-(2) Until a notification is issued under sub-paragraph (1) of this paragraph in respect of any tribal area specified in Part B of the said table or any part of such area, the administration of such area or part thereof, as the case may be, shall be carried on by the President through the Governor of Assam as his agent and the provisions of Part IX shall apply thereto as if such area or part thereof were a territory specified in Part D of the First Schedule.
+(2) Until a notification is issued under sub-paragraph (1) of this paragraph in respect of any tribal area specified in Part B of the said table or any part of such area, the administration of such area or part thereof, as the case may be, shall be carried on by the President through the Governor of Assam as his agent and the provisions of article 240 shall apply thereto as if such area or part thereof were a Union territory specified in that article.
 
 (3) In the discharge of his functions under sub-paragraph (2) of this paragraph as the agent of the President the Governor shall act in his discretion.
 

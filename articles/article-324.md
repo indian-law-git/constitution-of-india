@@ -5,8 +5,9 @@ title: "Superintendence, direction and control of elections to be vested in an E
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -27,4 +28,4 @@ Provided that the Chief Election Commissioner shall not be removed from his offi
 
 Provided further that any other Election Commissioner or a Regional Commissioner shall not be removed from office except on the recommendation of the Chief Election Commissioner.
 
-(6) The President, or the Governor or Rajpramukh of a State, shall, when so requested by the Election Commission, make available to the Election Commission or to a Regional Commissioner such staff as may be necessary for the discharge of the functions conferred on the Election Commission by clause (1).
+(6) The President, or the Governor of a State, shall, when so requested by the Election Commission, make available to the Election Commission or to a Regional Commissioner such staff as may be necessary for the discharge of the functions conferred on the Election Commission by clause (1).

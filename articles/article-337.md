@@ -5,15 +5,16 @@ title: "Special provision with respect to educational grants for the benefit of 
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Seventh Amendment) Act, 1956"
+current_as_of: "1956-10-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 337. Special provision with respect to educational grants for the benefit of Anglo-Indian community
 
-During the first three financial years after the commencement of this Constitution, the same grants, if any, shall be made by the Union and by each State specified in Part A or Part B of the First Schedule for the benefit of the Anglo-Indian community in respect of education as were made in the financial year ending on the thirty-first day of March, 1948.
+During the first three financial years after the commencement of this Constitution, the same grants, if any, shall be made by the Union and by each State for the benefit of the Anglo-Indian community in respect of education as were made in the financial year ending on the thirty-first day of March, 1948.
 
 During every succeeding period of three years the grants may be less by ten per cent than those for the immediately preceding period of three years:
 
