@@ -5,9 +5,10 @@ status: active
 inserted_by: "The Constitution (First Amendment) Act, 1951"
 amended_by:
   - "The Constitution (First Amendment) Act, 1951"
-current_as_of: "1951-06-18"
+  - "The Constitution (Fourth Amendment) Act, 1955"
+current_as_of: "1955-04-27"
 source: legislative-gov-in
-source_url: "https://www.legislative.gov.in/static/uploads/2025/07/f3789482ad0dfee795e54fb88c0401e6.pdf"
+source_url: "https://www.legislative.gov.in/static/uploads/2025/07/68badaa2da25d641c51992f854344773.pdf"
 ---
 
 # Ninth Schedule — Acts and Regulations validated by Article 31B
@@ -39,3 +40,17 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/f3789482ad0df
 12. The Hyderabad (Abolition of Jagirs) Regulation, 1358F. (No. LXIX of 1358, Fasli).
 
 13. The Hyderabad Jagirs (Commutation) Regulation, 1359F. (No. XXV of 1359, Fasli).
+
+14. The Bihar Displaced Persons Rehabilitation (Acquisition of Land) Act, 1950 (Bihar Act XXXVIII of 1950).
+
+15. The United Provinces Land Acquisition (Rehabilitation of Refugees) Act, 1948 (U.P. Act XXVI of 1948).
+
+16. The Resettlement of Displaced Persons (Land Acquisition) Act, 1948 (Act LX of 1948).
+
+17. Sections 52A to 52G of the Insurance Act, 1938 (Act IV of 1938), as inserted by section 42 of the Insurance (Amendment) Act, 1950 (Act XLVII of 1950).
+
+18. The Railway Companies (Emergency Provisions) Act, 1951 (Act LI of 1951).
+
+19. Chapter III-A of the Industries (Development and Regulation) Act, 1951 (Act LXV of 1951), as inserted by section 13 of the Industries (Development and Regulation) Amendment Act, 1953 (Act XXVI of 1953).
+
+20. The West Bengal Land Development and Planning Act, 1948 (West Bengal Act XXI of 1948), as amended by West Bengal Act XXIX of 1951.
