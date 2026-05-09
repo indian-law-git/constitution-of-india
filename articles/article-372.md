@@ -5,8 +5,9 @@ title: "Continuance in force of existing laws and their adaptation"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (First Amendment) Act, 1951"
+current_as_of: "1951-06-18"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -19,7 +20,7 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (3) Nothing in clause (2) shall be deemed—
 
-(a) to empower the President to make any adaptation or modification of any law after the expiration of two years from the commencement of this Constitution; or
+(a) to empower the President to make any adaptation or modification of any law after the expiration of three years from the commencement of this Constitution; or
 
 (b) to prevent any competent Legislature or other competent authority from repealing or amending any law adapted or modified by the President under the said clause.
 
