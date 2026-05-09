@@ -3,8 +3,9 @@ schedule: 7
 title: "Seventh Schedule — Union, State and Concurrent Lists"
 status: active
 inserted_by: original
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Third Amendment) Act, 1954"
+current_as_of: "1955-02-22"
 source: mixed
 ---
 
@@ -330,7 +331,17 @@ but not including medicinal and toilet preparations containing alcohol or any su
 
 32. Shipping and navigation on inland waterways as regards mechanically propelled vessels, and the rule of the road on such waterways, and the carriage of passengers and goods on inland waterways subject to the provisions of List I with respect to national waterways.
 
-33. Trade and commerce in, and the production, supply and distribution of the products of any industries where the control of such industries by the Union is declared by Parliament by law to be expedient in the public interest.
+33. Trade and commerce in, and the production, supply and distribution of,—
+
+(a) the products of any industry where the control of such industry by the Union is declared by Parliament by law to be expedient in the public interest, and imported goods of the same kind as such products;
+
+(b) foodstuffs, including edible oilseeds and oils;
+
+(c) cattle fodder, including oilcakes and other concentrates;
+
+(d) raw cotton, whether ginned or unginned, and cotton seed; and
+
+(e) raw jute.
 
 34. Price control.
 
