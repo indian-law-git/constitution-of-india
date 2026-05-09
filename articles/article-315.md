@@ -1,17 +1,17 @@
 ---
 article: 315
 part: XIV
-title: "Public service commissions for the union and for the states"
+title: "Public Service Commissions for the Union and for the States"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-315-public-service-commissions-for-the-union-and-for-the-states/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 315. Public service commissions for the union and for the states
+# Article 315. Public Service Commissions for the Union and for the States
 
 (1) Subject to the provisions of this article, there shall be a Public Service Commission for the Union and a Public Service Commission for each State.
 

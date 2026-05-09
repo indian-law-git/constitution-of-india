@@ -1,17 +1,17 @@
 ---
 article: 110
 part: V
-title: "Definition of money bills"
+title: "Definition of “Money Bills”"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-110-definition-of-money-bills/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 110. Definition of money bills
+# Article 110. Definition of “Money Bills”
 
 (1) For the purposes of this Chapter, a Bill shall be deemed to be a Money Bill if it contains only provisions dealing with all or any of the following matters, namely—
 

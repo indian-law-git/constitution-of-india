@@ -1,17 +1,17 @@
 ---
 article: 368
 part: XX
-title: "Power of parliament to amend the constitution and procedure therefor"
+title: "Procedure for amendment of the Constitution"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-368-power-of-parliament-to-amend-the-constitution-and-procedure-therefor/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 368. Power of parliament to amend the constitution and procedure therefor
+# Article 368. Procedure for amendment of the Constitution
 
 An amendment of this Constitution may be initiated only by the introduction of a Bill for the purpose in either House of Parliament, and when the Bill is passed in each House by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting, it shall be presented to the President for his assent and upon such assent being given to the Bill, the Constitution shall stand amended in accordance with the terms of the Bill:
 

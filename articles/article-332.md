@@ -1,17 +1,17 @@
 ---
 article: 332
 part: XVI
-title: "Reservation of seats for scheduled castes and scheduled tribes in the legislative assemblies of the states"
+title: "Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-332-reservation-of-seats-for-scheduled-castes-and-scheduled-tribes-in-the-legislative-assemblies-of-the-states/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 332. Reservation of seats for scheduled castes and scheduled tribes in the legislative assemblies of the states
+# Article 332. Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States
 
 (1) Seats shall be reserved for the Scheduled Castes and the Scheduled Tribes, except the Scheduled Tribes in the tribal areas of Assam, in the Legislative Assembly of every State specified in Part A or Part B of the First Schedule.
 

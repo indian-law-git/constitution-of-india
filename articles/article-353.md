@@ -1,17 +1,17 @@
 ---
 article: 353
 part: XVIII
-title: "Effect of proclamation of emergency"
+title: "Effect of Proclamation of Emergency"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-353-effect-of-proclamation-of-emergency/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 353. Effect of proclamation of emergency
+# Article 353. Effect of Proclamation of Emergency
 
 While a Proclamation of Emergency is in operation, then—
 

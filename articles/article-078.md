@@ -1,17 +1,17 @@
 ---
 article: 78
 part: V
-title: "Duties of prime minister as respects the furnishing of information to the president etc"
+title: "Duties of Prime Minister as respects the furnishing of Information to the President, etc."
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-78-duties-of-prime-minister-as-respects-the-furnishing-of-information-to-the-president-etc/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 78. Duties of prime minister as respects the furnishing of information to the president etc
+# Article 78. Duties of Prime Minister as respects the furnishing of Information to the President, etc.
 
 It shall be the duty of the Prime Minister—
 

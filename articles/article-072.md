@@ -1,17 +1,17 @@
 ---
 article: 72
 part: V
-title: "Power of president to grant pardons etc and to suspend remit or commute sentences in certain cases"
+title: "Power of President to grant pardons, etc., and to suspend, remit or commute sentences in certain cases"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-72-power-of-president-to-grant-pardons-etc-and-to-suspend-remit-or-commute-sentences-in-certain-cases/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 72. Power of president to grant pardons etc and to suspend remit or commute sentences in certain cases
+# Article 72. Power of President to grant pardons, etc., and to suspend, remit or commute sentences in certain cases
 
 (1) The President shall have the power to grant pardons, reprieves, respites or remissions of punishment or to suspend, remit or commute the sentence of any person convicted of any offence—
 

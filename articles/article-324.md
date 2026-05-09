@@ -1,19 +1,19 @@
 ---
 article: 324
 part: XV
-title: "Superintendence direction and control of elections to be vested in an election commission"
+title: "Superintendence, direction and control of elections to be vested in an Election Commission"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-324-superintendence-direction-and-control-of-elections-to-be-vested-in-an-election-commission/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 324. Superintendence direction and control of elections to be vested in an election commission
+# Article 324. Superintendence, direction and control of elections to be vested in an Election Commission
 
-(1) The superintendence, direction and control of the preparation of the electoral rolls for, and the conduct of, all elections to Parliament and to the Legislature of every Slate and of elections to the offices of President and Vice-President held under this Constitution, including the appointment of election tribunals for the decision of doubts and disputes arising out of or in connection with elections to Parliament and to the Legislatures of States shall be vested in a Commission (referred to in this Constitution as the Election Commission).
+(1) The superintendence, direction and control of the preparation of the electoral rolls for, and the conduct of, all elections to Parliament and to the Legislature of every State and of elections to the offices of President and Vice-President held under this Constitution, including the appointment of election tribunals for the decision of doubts and disputes arising out of or in connection with elections to Parliament and to the Legislatures of States shall be vested in a Commission (referred to in this Constitution as the Election Commission).
 
 (2) The Election Commission shall consist of the Chief Election Commissioner and such number of other Election Commissioners, if any, as the President may from time to time fix and the appointment of the Chief Election Commissioner and other Election Commissioners shall, subject to the provisions of any law made in that behalf by Parliament, be made by the President.
 

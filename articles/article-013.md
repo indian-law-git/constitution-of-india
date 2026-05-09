@@ -8,7 +8,7 @@ repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-13-laws-inconsistent-with-or-in-derogation-of-the-fundamental-rights/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 13. Laws inconsistent with or in derogation of the fundamental rights
@@ -17,7 +17,7 @@ source_url: "https://www.constitutionofindia.net/articles/article-13-laws-incons
 
 (2) The State shall not make any law which takes away or abridges the rights conferred by this Part and any law made in contravention of this clause shall, to the extent of the contravention, be void.
 
-(3) In this article, unless the context otherwise requires,—
+(3) In this article, unless the context otherwise requires, —
 
 (a) “law” includes any Ordinance, order, bye-law, rule, regulation, notification, custom or usage having in the territory of India the force of law;
 

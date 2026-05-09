@@ -1,17 +1,17 @@
 ---
 article: 213
 part: VI
-title: "Power of governor to promulgate ordinances during recess of legislature"
+title: "Power of Governor to promulgate Ordinances during recess of Legislature"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-213-power-of-governor-to-promulgate-ordinances-during-recess-of-legislature/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 213. Power of governor to promulgate ordinances during recess of legislature
+# Article 213. Power of Governor to promulgate Ordinances during recess of Legislature
 
 (1) If at any time, except when the Legislative Assembly of a State is in session, or where there is a Legislative Council in a State, except when both Houses of the Legislature are in session, the Governor is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require:
 

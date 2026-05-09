@@ -1,17 +1,17 @@
 ---
 article: 304
 part: XIII
-title: "Restrictions on trade commerce and intercourse among states"
+title: "Restrictions on trade, commerce and intercourse among States"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-304-restrictions-on-trade-commerce-and-intercourse-among-states/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 304. Restrictions on trade commerce and intercourse among states
+# Article 304. Restrictions on trade, commerce and intercourse among States
 
 Notwithstanding anything in article 301 or article 303, the Legislature of a State may by law—
 

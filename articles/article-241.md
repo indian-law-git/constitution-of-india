@@ -1,17 +1,17 @@
 ---
 article: 241
 part: VIII
-title: "High courts for union territories"
+title: "High Courts for States in Part C of the First Schedule"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-241-high-courts-for-union-territories/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 241. High courts for union territories
+# Article 241. High Courts for States in Part C of the First Schedule
 
 (1) Parliament may by law constitute a High Court for a State specified in Part C of the First Schedule or declare any court in any such State to be a High Court for all or any of the purposes of this Constitution.
 

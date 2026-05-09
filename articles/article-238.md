@@ -1,17 +1,17 @@
 ---
 article: 238
 part: VII
-title: "Application of provisions of part vi to states in part b of the first schedule"
+title: "Application of provisions of Part VI to States in Part B of the First Schedule"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-238-application-of-provisions-of-part-vi-to-states-in-part-b-of-the-first-schedule/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 238. Application of provisions of part vi to states in part b of the first schedule
+# Article 238. Application of provisions of Part VI to States in Part B of the First Schedule
 
 The provisions of Part VI shall apply in relation to the States specified in Part B of the First Schedule as they apply in relation to the States specified in Part A of that Schedule subject to the following modifications and omissions, namely:—
 

@@ -1,17 +1,17 @@
 ---
 article: 174
 part: VI
-title: "Sessions of the state legislature prorogation and dissolution"
+title: "Sessions of the State Legislature, prorogation and dissolution"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-174-sessions-of-the-state-legislature-prorogation-and-dissolution/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 174. Sessions of the state legislature prorogation and dissolution
+# Article 174. Sessions of the State Legislature, prorogation and dissolution
 
 (1) The House or Houses of the Legislature of the State shall be summoned to meet twice at least in every year, and six months shall not intervene between their last sitting in one session and the date appointed for their first sitting in the next session.
 

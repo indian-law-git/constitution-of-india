@@ -1,17 +1,17 @@
 ---
 article: 370
 part: XXI
-title: "Temporary provisions with respect to the state of jammu and kashmir"
+title: "Temporary provisions with respect to the State of Jammu and Kashmir"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-370-temporary-provisions-with-respect-to-the-state-of-jammu-and-kashmir/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 370. Temporary provisions with respect to the state of jammu and kashmir
+# Article 370. Temporary provisions with respect to the State of Jammu and Kashmir
 
 (1) Notwithstanding anything in this Constitution,—
 
@@ -23,14 +23,18 @@ source_url: "https://www.constitutionofindia.net/articles/article-370-temporary-
 
 (ii) such other matters in the said Lists as, with the concurrence of the Government of the State, the President may by order specify.
 
-Explanation.—For the purposes of this article, the Government of the State means the person for the time being recognised by the President as the Maharaja of Jammu and Kashmir acting on the advice of the Council of Ministers for the time being in office under the Maharaja’s Proclamation dated the fifth day of March, 1948;
+*Explanation*.—For the purposes of this article, the Government of the State means the person for the time being recognised by the President as the Maharaja of Jammu and Kashmir acting on the advice of the Council of Ministers for the time being in office under the Maharaja’s Proclamation dated the fifth day of March, 1948;
 
 (c) the provisions of article 1 and of this article shall apply in relation to that State;
 
 (d) such of the other provisions of this Constitution shall apply in relation to that State subject to such exceptions and modifications as the President may by order specify:
 
 Provided that no such order which relates to the matters specified in the Instrument of Accession of the State referred to in paragraph (i) of sub-clause (b) shall be issued except in consultation with the Government of the State:
+
 Provided further that no such order which relates to matters other than those referred to in the last preceding proviso shall be issued except with the concurrence of that Government.
+
 (2) If the concurrence of the Government of the State referred to in paragraph (ii) of sub-clause (b) of clause (1) or in the second proviso to sub-clause (d) of that clause be given before the Constituent Assembly for the purpose of framing the Constitution of the State is convened, it shall be placed before such Assembly for such decision as it may take thereon.
+
 (3) Notwithstanding anything in the foregoing provisions of this article, the President may, by public notification, declare that this article shall cease to be operative or shall be operative only with such exceptions and modifications and from such date as he may specify:
+
 Provided that the recommendation of the Constituent Assembly of the State referred to in clause (2) shall be necessary before the President issues such a notification.

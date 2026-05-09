@@ -1,17 +1,17 @@
 ---
 article: 133
 part: V
-title: "Appellate jurisdiction of supreme court in appeals from high courts in regard to civil matters"
+title: "Appellate jurisdiction of Supreme Court in appeals from High Courts in regard to civil matters"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-133-appellate-jurisdiction-of-supreme-court-in-appeals-from-high-courts-in-regard-to-civil-matters/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 133. Appellate jurisdiction of supreme court in appeals from high courts in regard to civil matters
+# Article 133. Appellate jurisdiction of Supreme Court in appeals from High Courts in regard to civil matters
 
 (1) An appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court in the territory of India if the High Court certifies—
 

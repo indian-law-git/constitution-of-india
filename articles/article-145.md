@@ -1,25 +1,23 @@
 ---
 article: 145
 part: V
-title: "Rules of court etc"
+title: "Rules of Court, etc"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-145-rules-of-court-etc/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 145. Rules of court etc
+# Article 145. Rules of Court, etc
 
 (1) Subject to the provisions of any law made by Parliament, the Supreme Court may from time to time, with the approval of the President, make rules for regulating generally the practice and procedure of the Court including—
 
 (a) rules as to the persons practising before the Court;
 
-(b) rules as to the procedure for hearing appeals and other matters pertaining to appeals including the time
-
-within which appeals to the Court are to be entered;
+(b) rules as to the procedure for hearing appeals and other matters pertaining to appeals including the time within which appeals to the Court are to be entered;
 
 (c) rules as to the proceedings in the Court for the enforcement of any of the rights conferred by Part III;
 
@@ -41,4 +39,8 @@ within which appeals to the Court are to be entered;
 
 (3) The minimum number of Judges who are to sit for the purpose of deciding any case involving a substantial question of law as to the interpretation of this Constitution or for the purpose of hearing any reference under article 143 shall be five:
 
-Provided that, where the Court hearing an appeal under any of the provisions of this Chapter other than article 132 consists of less than five Judges and in the course of the hearing of the appeal the Court is satisfied that the appeal involves a substantial question of law as to the interpretation of this Constitution the determination of which is necessary for the disposal of the appeal, such Court shall refer the
+Provided that, where the Court hearing an appeal under any of the provisions of this Chapter other than article 132 consists of less than five Judges and in the course of the hearing of the appeal the Court is satisfied that the appeal involves a substantial question of law as to the interpretation of this Constitution the determination of which is necessary for the disposal of the appeal, such Court shall refer the question for opinion to a Court constituted as required by this clause for the purpose of deciding any case involving such a question and shall on receipt of the opinion dispose of the appeal in conformity with such opinion.
+
+(4) No judgment shall be delivered by the Supreme Court save in open Court, and no report shall be made under article 143 save in accordance with an opinion also delivered in open Court.
+
+(5) No judgment and no such opinion shall be delivered by the Supreme Court save with the concurrence of a majority of the Judges present at the hearing of the case, but nothing in this clause shall be deemed to prevent a Judge who does not concur from delivering a dissenting judgment or opinion.

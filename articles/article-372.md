@@ -8,7 +8,7 @@ repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-372-continuance-in-force-of-existing-laws-and-their-adaptation/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 372. Continuance in force of existing laws and their adaptation
@@ -21,12 +21,12 @@ source_url: "https://www.constitutionofindia.net/articles/article-372-continuanc
 
 (a) to empower the President to make any adaptation or modification of any law after the expiration of two years from the commencement of this Constitution; or
 
-(b) to prevent any competent Legislature or other competent authorityTemporary provisions with respect to States in Part B of the First Schedule.
+(b) to prevent any competent Legislature or other competent authority from repealing or amending any law adapted or modified by the President under the said clause.
 
-*Explanation I.*—The expression “law in force” in this article shall include a law passed or made by a Legislature or other competent authority in the territory of India before the commencement of this Constitution and not previously repealed, notwithstanding that it or parts of it may not be then in operation either at all or in particular areas.
+*Explanation I*.—The expression “law in force” in this article shall include a law passed or made by a Legislature or other competent authority in the territory of India before the commencement of this Constitution and not previously repealed, notwithstanding that it or parts of it may not be then in operation either at all or in particular areas.
 
-*Explanation II.*—Any law passed or made by a Legislature or other competent authority in the territory of India which immediately before the commencement of this Constitution had extra-territorial effect as well as effect in the territory of India shall, subject to any such adaptations and modifications as aforesaid, continue to have such extra-territorial effect.
+*Explanation II*.—Any law passed or made by a Legislature or other competent authority in the territory of India which immediately before the commencement of this Constitution had extra-territorial effect as well as effect in the territory of India shall, subject to any such adaptations and modifications as aforesaid, continue to have such extra-territorial effect.
 
-*Explanation III.*—Nothing in this article shall be construed as continuing any temporary law in force beyond the date fixed for its expiration or the date on which it would have expired if this Constitution had not come into force.
+*Explanation III*.—Nothing in this article shall be construed as continuing any temporary law in force beyond the date fixed for its expiration or the date on which it would have expired if this Constitution had not come into force.
 
-*Explanation IV.*—An Ordinance promulgated by the Governor of a Province under section 88 of the Government of India Act, 1935, and in force immediately before the commencement of this Constitution shall, unless withdrawn by the Governor of the corresponding State earlier, cease to operate at the expiration of six weeks from the first meeting after such commencement of the Legislative Assembly of that State functioning under clause (1) of article 382, and nothing in this article shall be construed as continuing any such Ordinance in force beyond the said period.
+*Explanation IV*.—An Ordinance promulgated by the Governor of a Province under section 88 of the Government of India Act, 1935, and in force immediately before the commencement of this Constitution shall, unless withdrawn by the Governor of the corresponding State earlier, cease to operate at the expiration of six weeks from the first meeting after such commencement of the Legislative Assembly of that State functioning under clause (1) of article 382, and nothing in this article shall be construed as continuing any such Ordinance in force beyond the said period.

@@ -1,7 +1,7 @@
 ---
 article: 142
 part: V
-title: "Enforcement of decrees and orders of supreme court and orders as to discovery etc"
+title: "Enforcement of decrees and orders of Supreme Court and orders as to discovery, etc."
 status: active
 inserted_by: original
 repealed_by: null
@@ -11,7 +11,7 @@ source: clpr
 source_url: "https://www.constitutionofindia.net/articles/article-142-enforcement-of-decrees-and-orders-of-supreme-court-and-orders-as-to-discovery-etc/"
 ---
 
-# Article 142. Enforcement of decrees and orders of supreme court and orders as to discovery etc
+# Article 142. Enforcement of decrees and orders of Supreme Court and orders as to discovery, etc.
 
 (1) The Supreme Court in the exercise of its jurisdiction may pass such decree or make such order as is necessary for doing complete justice in any cause or matter pending before it, and any decree so passed or order so made shall be enforceable throughout the territory of India in such manner as may be prescribed by or under any law made by Parliament and, until provision in that behalf is so made, in such manner as the President may by order prescribe.
 

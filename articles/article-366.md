@@ -8,7 +8,7 @@ repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-366-definitions/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 366. Definitions
@@ -25,7 +25,7 @@ In this Constitution, unless the context otherwise requires, the following expre
 
 (5) “clause” means a clause of the article in which the expression occurs;
 
-(6) “corporation tax” means any tax on income, so far as that tax is payable by companies and is a tax in the case of which the following conditions are fulfilled:
+(6) “corporation tax” means any tax on income, so far as that tax is payable by companies and is a tax in the case of which the following conditions are fulfilled:—
 
 (a) that it is not chargeable in respect of agricultural income;
 
@@ -75,22 +75,6 @@ In this Constitution, unless the context otherwise requires, the following expre
 
 (b) in relation to the State of Jammu and Kashmir or the State of Mysore, the person who for the time being is recognised by the President as the Maharaja of that State; and
 
-(c) in relation to any other State specified in Part B of the First Schedule, the person who for the time being is recognised by the President as the Rajpramukh of that State, and includes in relation to any of the said States any person for the time being recognised by the President as competent to exercise the powers of the Rajpramukh in relation to that State;
+(c) in relation to any other State specified in Part B of the First Schedule, the person who for the time being is recognised by the President as the Rajpramukh of that State,
 
-(22) “Ruler” in relation to an Indian State means the Prince, Chief or other person by whom any such covenant or agreement as is referred to in clause (1) of article 291 was entered into and who for the time being is recognised by the President as the Ruler of the State, and includes any person who for the time being is recognised by the President as the successor of such Ruler;
-
-(23) “Schedule” means a Schedule to this Constitution;
-
-(24) “Scheduled Castes” means such castes, races or tribes or parts of or groups within such castes, races or tribes as are deemed under article 341 to be Scheduled Castes for the purposes of this Constitution;
-
-(25) “Scheduled Tribes” means such tribes or tribal communities or parts of or groups within such tribes or tribal communities as are deemed under article 342 to be Scheduled Tribes for the purposes of this Constitution;
-
-(26) “securities” includes stock;
-
-(27) “sub-clause” means a sub-clause of the clause in which the expression occurs;
-
-(28) “taxation” includes the imposition of any tax or impost, whether general or local or special, and “tax” shall be construed accordingly;
-
-(29) “tax on income” includes a tax in the nature of an excess profits tax;
-
-(30) “Uparajpramukh” in relation to any State specified in Part B of the First Schedule means the person who for the time being is recognised by the President as the Uparajpramukh of that State.
+and includes in relation to any of the said States any person for the time being recognised by the President as competent to exercise the powers of the Rajpramukh in relation to that State;

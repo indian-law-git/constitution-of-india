@@ -1,17 +1,17 @@
 ---
 article: 320
 part: XIV
-title: "Functions of public service commissions"
+title: "Functions of Public Service Commissions"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-320-functions-of-public-service-commissions/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 320. Functions of public service commissions
+# Article 320. Functions of Public Service Commissions
 
 (1) It shall be the duty of the Union and the State Public Service Commissions to conduct examinations for appointments to the services of the Union and the services of the State respectively.
 

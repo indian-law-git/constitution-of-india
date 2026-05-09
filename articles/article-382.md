@@ -1,17 +1,17 @@
 ---
 article: 382
 part: XXI
-title: "Provisions as to provisional legislatures for states in part a of the first schedule omitted"
+title: "Provisions as to provisional Legislatures for States in Part A of the First Schedule"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-382-provisions-as-to-provisional-legislatures-for-states-in-part-a-of-the-first-schedule-omitted/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 382. Provisions as to provisional legislatures for states in part a of the first schedule omitted
+# Article 382. Provisions as to provisional Legislatures for States in Part A of the First Schedule
 
 (1) Until the House or Houses of the Legislature of each State specified in Part A of the First Schedule has or have been duly constituted and summoned to meet for the first session under the provisions of this Constitution, the House or Houses of the Legislature of the corresponding Province functioning immediately before the commencement of this Constitution shall exercise the powers and perform the duties conferred by the provisions of this Constitution on the House or Houses of the Legislature of such State.
 

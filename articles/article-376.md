@@ -1,17 +1,17 @@
 ---
 article: 376
 part: XXI
-title: "Provisions as to judges of high courts"
+title: "Provisions as to Judges of High Courts"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-376-provisions-as-to-judges-of-high-courts/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 376. Provisions as to judges of high courts
+# Article 376. Provisions as to Judges of High Courts
 
 (1) Notwithstanding anything in clause (2) of article 217, the Judges of a High Court in any Province holding office immediately before the commencement of this Constitution shall, unless they have elected otherwise, become on such commencement the Judges of the High Court in the corresponding State, and shall thereupon be entitled to such salaries and allowances and to such rights in respect of leave of absence and pension as are provided for under article 221 in respect of the Judges of such High Court.
 

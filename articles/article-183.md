@@ -1,17 +1,17 @@
 ---
 article: 183
 part: VI
-title: "Vacation and resignation of and removal from the offices of chairman and deputy chairman"
+title: "Vacation and resignation of, and removal from, the offices of Chairman and Deputy Chairman"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-183-vacation-and-resignation-of-and-removal-from-the-offices-of-chairman-and-deputy-chairman/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 183. Vacation and resignation of and removal from the offices of chairman and deputy chairman
+# Article 183. Vacation and resignation of, and removal from, the offices of Chairman and Deputy Chairman
 
 A member holding office as Chairman or Deputy Chairman of a Legislative Council—
 

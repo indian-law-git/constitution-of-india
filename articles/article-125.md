@@ -1,17 +1,17 @@
 ---
 article: 125
 part: V
-title: "Salaries etc of judges"
+title: "Salaries, etc., of Judges"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-125-salaries-etc-of-judges/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 125. Salaries etc of judges
+# Article 125. Salaries, etc., of Judges
 
 (1) There shall be paid to the Judges of the Supreme Court such salaries as are specified in the Second Schedule.
 

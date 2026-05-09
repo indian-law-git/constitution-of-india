@@ -1,20 +1,20 @@
 ---
 article: 261
 part: XI
-title: "Public acts records and judicial proceedings"
+title: "Public acts, records and judicial proceedings"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-261-public-acts-records-and-judicial-proceedings/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 261. Public acts records and judicial proceedings
+# Article 261. Public acts, records and judicial proceedings
 
-*(1) Full faith and credit shall be given throughout the territory of India to public acts, records and judicial proceedings of the Union and of every State.*
+(1) Full faith and credit shall be given throughout the territory of India to public acts, records and judicial proceedings of the Union and of every State.
 
-*(2) The manner in which and the conditions under which the acts, records and proceedings referred to in clause (1) shall be proved and the effect thereof determined shall be as provided by law made by Parliament.*
+(2) The manner in which and the conditions under which the acts, records and proceedings referred to in clause (1) shall be proved and the effect thereof determined shall be as provided by law made by Parliament.
 
-*(3) Final judgments or orders delivered or passed by civil courts in any part of the territory of India shall be capable of execution anywhere within that territory according to law.*
+(3) Final judgments or orders delivered or passed by civil courts in any part of the territory of India shall be capable of execution anywhere within that territory according to law.

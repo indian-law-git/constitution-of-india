@@ -1,17 +1,17 @@
 ---
 article: 266
 part: XII
-title: "Consolidated funds and public accounts of india and of the states"
+title: "Consolidated Funds and public accounts of India and of the States"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-266-consolidated-funds-and-public-accounts-of-india-and-of-the-states/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 266. Consolidated funds and public accounts of india and of the states
+# Article 266. Consolidated Funds and public accounts of India and of the States
 
 (1) Subject to the provisions of article 267 and to the provisions of this Chapter with respect to the assignment of the whole or part of the net proceeds of certain taxes and duties to States, all revenues received by the Government of India, all loans raised by that Government by the issue of treasury bills, loans or ways and means advances and all moneys received by that Government in repayment of loans shall form one consolidated fund to be entitled “the Consolidated Fund of India”, and all revenues received by the Government of a State, all loans raised by that Government by the issue of treasury bills, loans or ways and means advances and all moneys received by that Government in repayment of loans shall form one consolidated fund to be entitled “the Consolidated Fund of the State”.
 

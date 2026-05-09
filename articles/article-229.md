@@ -1,17 +1,17 @@
 ---
 article: 229
 part: VI
-title: "Officers and servants and the expenses of high courts"
+title: "Officers and servants and the expenses of High Courts"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-229-officers-and-servants-and-the-expenses-of-high-courts/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 229. Officers and servants and the expenses of high courts
+# Article 229. Officers and servants and the expenses of High Courts
 
 (1) Appointments of officers and servants of a High Court shall be made by the Chief Justice of the Court or such other Judge or officer of the Court as he may direct:
 

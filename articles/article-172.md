@@ -1,17 +1,17 @@
 ---
 article: 172
 part: VI
-title: "Duration of state legislatures"
+title: "Duration of State Legislature"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-172-duration-of-state-legislatures/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 172. Duration of state legislatures
+# Article 172. Duration of State Legislature
 
 (1) Every Legislative Assembly of every State, unless sooner dissolved, shall continue for five years from the date appointed for its first meeting and no longer and the expiration of the said period of five years shall operate as a dissolution of the Assembly:
 

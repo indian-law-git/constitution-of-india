@@ -1,17 +1,17 @@
 ---
 article: 189
 part: VI
-title: "Voting in houses power of houses to act notwithstanding vacancies and quorum"
+title: "Voting in Houses, power of Houses to act notwithstanding vacancies and quorum"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-189-voting-in-houses-power-of-houses-to-act-notwithstanding-vacancies-and-quorum/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 189. Voting in houses power of houses to act notwithstanding vacancies and quorum
+# Article 189. Voting in Houses, power of Houses to act notwithstanding vacancies and quorum
 
 (1) Save as otherwise provided in this Constitution, all questions at any sitting of a House of the Legislature of a State shall be determined by a majority of votes of the members present and voting, other than the Speaker or Chairman, or person acting as such.
 

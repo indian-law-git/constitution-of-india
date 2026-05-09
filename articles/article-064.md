@@ -1,17 +1,17 @@
 ---
 article: 64
 part: V
-title: "The vice president to be ex officio chairman of the council of states"
+title: "The Vice-President to beex-officioChairman of the Council of States"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-64-the-vice-president-to-be-ex-officio-chairman-of-the-council-of-states/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 64. The vice president to be ex officio chairman of the council of states
+# Article 64. The Vice-President to beex-officioChairman of the Council of States
 
 The Vice-President shall be *ex-officio* Chairman of the Council of States and shall not hold any other office of profit:
 

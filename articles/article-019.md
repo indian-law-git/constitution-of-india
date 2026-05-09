@@ -1,25 +1,25 @@
 ---
 article: 19
 part: III
-title: "Protection of certain rights regarding freedom of speech etc"
+title: "Protection of certain rights regarding freedom of speech, etc"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-19-protection-of-certain-rights-regarding-freedom-of-speech-etc/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 19. Protection of certain rights regarding freedom of speech etc
+# Article 19. Protection of certain rights regarding freedom of speech, etc
 
-(1) All citizens shall have the right—
+(1) All citizens shall have the right —
 
 (a) to freedom of speech and expression;
 
 (b) to assemble peaceably and without arms;
 
-(c) to form associations or unions or co-operative societies;
+(c) to form associations or unions;
 
 (d) to move freely throughout the territory of India;
 
@@ -35,14 +35,6 @@ source_url: "https://www.constitutionofindia.net/articles/article-19-protection-
 
 (4) Nothing in sub-clause (c) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of public order or morality, reasonable restrictions on the exercise of the right conferred by the said sub-clause.
 
-(5) Nothing in sub-clauses (d) and (e) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, reasonable restrictions on the exercise of any of the rights conferred by the said sub-clauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe.
+(5) Nothing in sub-clauses (d), (e) and (f) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, reasonable restrictions on the exercise of any of the rights conferred by the said sub-clauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe.
 
-(6) Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular, nothing in the said sub-clause shall affect the operation of any existing law in so far as it relates to, or prevent the State from making any law relating to,—
-
-(i) the professional or technical qualifications necessary for practising any profession or carrying
-
-on any occupation, trade or business, or
-
-(ii) the carrying on by the State, or by a corporation owned or controlled by the State, of any trade,
-
-business, industry or service, whether to the exclusion, complete or partial, of citizens or otherwise.
+(6) Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular, nothing in the said sub-clause shall affect the operation of any existing law in so far as it prescribes or empowers any authority to prescribe, or prevent the State from making any law prescribing or empowering any authority to prescribe, the professional or technical qualifications necessary for practising any profession or carrying on any occupation, trade or business.

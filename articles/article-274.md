@@ -1,21 +1,22 @@
 ---
 article: 274
 part: XII
-title: "Prior recommendation of president required to bills affecting taxation in which states are interested"
+title: "Prior recommendation of President required to Bills affecting taxation in which States are interested"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-274-prior-recommendation-of-president-required-to-bills-affecting-taxation-in-which-states-are-interested/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 274. Prior recommendation of president required to bills affecting taxation in which states are interested
+# Article 274. Prior recommendation of President required to Bills affecting taxation in which States are interested
 
 (1) No Bill or amendment which imposes or varies any tax or duty in which States are interested, or which varies the meaning of the expression “agricultural income” as defined for the purposes of the enactments relating to Indian income-tax, or which affects the principles on which under any of the foregoing provisions of this Chapter moneys are or may be distributable to States, or which imposes any such surcharge for the purposes of the Union as is mentioned in the foregoing provisions of this Chapter, shall be introduced or moved in either House of Parliament except on the recommendation of the President.
 
 (2) In this article, the expression “tax or duty in which States are interested” means—
 
 (a) a tax or duty the whole or part of the net proceeds whereof are assigned to any State; or
+
 (b) a tax or duty by reference to the net proceeds whereof sums are for the time being payable out of the Consolidated Fund of India to any State.

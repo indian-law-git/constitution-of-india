@@ -10,7 +10,7 @@ source: clpr
 
 # Fifth Schedule — Provisions as to the Administration and Control of Scheduled Areas and Scheduled Tribes
 
-## Part A: Provisions as to the Administration and Control of Scheduled Areas and Scheduled Tribes
+## Part A — General
 
 Part A
 
@@ -32,9 +32,7 @@ Administration and control of Scheduled Areas and Scheduled Tribes
 
 Provided that if the number of representatives of the Scheduled Tribes in the Legislative Assembly of the State is less than the number of seats in the Tribes Advisory Council to be filled by such representatives, the remaining seats shall be filled by other members of those tribes.
 
-(2) It shall be the duty of the Tribes Advisory Council to advise on such
-
-matters pertaining to the welfare and advancement of the Scheduled Tribes in the State as may be referred to them by the Governor or Rajpramukh, as the case may be.
+(2) It shall be the duty of the Tribes Advisory Council to advise on such matters pertaining to the welfare and advancement of the Scheduled Tribes in the State as may be referred to them by the Governor or Rajpramukh, as the case may be.
 
 (3) The Governor or Rajpramukh may make rules prescribing or regulating, as the case may be,—
 

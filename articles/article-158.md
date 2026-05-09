@@ -1,17 +1,17 @@
 ---
 article: 158
 part: VI
-title: "Conditions of governors office"
+title: "Conditions of Governor’s office"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-158-conditions-of-governors-office/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 158. Conditions of governors office
+# Article 158. Conditions of Governor’s office
 
 (1) The Governor shall not be a member of either House of Parliament or of a House of the Legislature of any State specified in the First Schedule, and if a member of either House of Parliament or of a House of the Legislature of any such State be appointed Governor, he shall be deemed to have vacated his seat in that House on the date on which he enters upon his office as Governor.
 

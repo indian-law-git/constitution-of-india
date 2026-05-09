@@ -1,17 +1,17 @@
 ---
 article: 352
 part: XVIII
-title: "Proclamation of emergency"
+title: "Proclamation of Emergency"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-352-proclamation-of-emergency/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 352. Proclamation of emergency
+# Article 352. Proclamation of Emergency
 
 (1) If the President is satisfied that a grave emergency exists whereby the security of India or of any part of the territory thereof is threatened, whether by war or external aggression or internal disturbance, he may, by Proclamation, make a declaration to that effect.
 

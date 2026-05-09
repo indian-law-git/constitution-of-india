@@ -1,17 +1,17 @@
 ---
 article: 35
 part: III
-title: "Legislation to give effect to the provisions of this part"
+title: "Legislation to give effect to the provisions of this Part"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-35-legislation-to-give-effect-to-the-provisions-of-this-part/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 35. Legislation to give effect to the provisions of this part
+# Article 35. Legislation to give effect to the provisions of this Part
 
 Notwithstanding anything in this Constitution, —
 
@@ -22,5 +22,4 @@ Notwithstanding anything in this Constitution, —
 (ii) for prescribing punishment for those acts which are declared to be offences under this Part; and Parliament shall, as soon as may be after the commencement of this Constitution, make laws for prescribing punishment for the acts referred to in sub-clause (ii);
 
 (b) any law in force immediately before the commencement of this Constitution in the territory of India with respect to any of the matters referred to in sub-clause (i) of clause (a) or providing for punishment for any act referred to in sub-clause (ii) of that clause shall, subject to the terms thereof and to any adaptations and modifications that may be made therein under article 372, continue in force until altered or repealed or amended by Parliament.
-
-Explanation.—In this article, the expression “law in force” has the same meaning as in article 372.
+*Explanation.*—In this article, the expression “law in force” has the same meaning as in article 372.

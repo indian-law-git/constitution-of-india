@@ -1,17 +1,17 @@
 ---
 article: 196
 part: VI
-title: "Provisions as to introduction and passing of bills"
+title: "Provisions as to introduction and passing of Bills"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-196-provisions-as-to-introduction-and-passing-of-bills/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 196. Provisions as to introduction and passing of bills
+# Article 196. Provisions as to introduction and passing of Bills
 
 (1) Subject to the provisions of articles 198 and 207 with respect to Money Bills and other financial Bills, a Bill may originate in either House of the Legislature of a State which has a Legislative Council.
 

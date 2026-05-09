@@ -1,7 +1,7 @@
 ---
 article: 199
 part: VI
-title: "Definition of money bills"
+title: "Definition of “Money Bills”"
 status: active
 inserted_by: original
 repealed_by: null
@@ -11,7 +11,7 @@ source: clpr
 source_url: "https://www.constitutionofindia.net/articles/article-199-definition-of-money-bills/"
 ---
 
-# Article 199. Definition of money bills
+# Article 199. Definition of “Money Bills”
 
 (1) For the purposes of this Chapter, a Bill shall be deemed to be a Money Bill if it contains only provisions dealing with all or any of the following matters, namely—
 

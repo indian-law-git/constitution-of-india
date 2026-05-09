@@ -8,7 +8,7 @@ repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-112-annual-financial-statement/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 112. Annual financial statement
@@ -19,7 +19,9 @@ source_url: "https://www.constitutionofindia.net/articles/article-112-annual-fin
 
 (a) the sums required to meet expenditure described by this Constitution as expenditure charged upon the Consolidated Fund of India; and
 
-(b) the sums required to meet other expenditure proposed to be made from the Consolidated Fund of India, and shall distinguish expenditure on revenue account from other expenditure.
+(b) the sums required to meet other expenditure proposed to be made from the Consolidated Fund of India,
+
+and shall distinguish expenditure on revenue account from other expenditure.
 
 (3) The following expenditure shall be expenditure charged on the Consolidated Fund of India—
 
@@ -30,10 +32,12 @@ source_url: "https://www.constitutionofindia.net/articles/article-112-annual-fin
 (c) debt charges for which the Government of India is liable including interest, sinking fund charges and redemption charges, and other expenditure relating to the raising of loans and the service and redemption of debt;
 
 (d) (i) the salaries, allowances and pensions payable to or in respect of Judges of the Supreme Court;
-
 (ii) the pensions payable to or in respect of Judges of the Federal Court;
 
+
 (iii) the pensions payable to or in respect of Judges of any High Court which exercises jurisdiction in relation to any area included in the territory of India or which at any time before the commencement of this Constitution exercised jurisdiction in relation to any area included in a Province corresponding to a State specified in Part A of the First Schedule;
+
+
 
 (e) the salary, allowances and pension payable to or in respect of the Comptroller and Auditor-General of India;
 

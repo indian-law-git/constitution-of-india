@@ -1,17 +1,17 @@
 ---
 article: 170
 part: VI
-title: "Composition of the legislative assemblies"
+title: "Composition of the Legislative Assemblies"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-170-composition-of-the-legislative-assemblies/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 170. Composition of the legislative assemblies
+# Article 170. Composition of the Legislative Assemblies
 
 (1) Subject to the provisions of article 333, the Legislative Assembly of each State shall be composed of members chosen by direct election.
 

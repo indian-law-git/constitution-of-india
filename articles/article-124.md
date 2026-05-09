@@ -1,17 +1,17 @@
 ---
 article: 124
 part: V
-title: "Establishment and constitution of supreme court"
+title: "Establishment and constitution of Supreme Court"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-124-establishment-and-constitution-of-supreme-court/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 124. Establishment and constitution of supreme court
+# Article 124. Establishment and constitution of Supreme Court
 
 (1) There shall be a Supreme Court of India consisting of a Chief Justice of India and, until Parliament by law prescribes a larger number, of not more than seven other Judges.
 
@@ -28,14 +28,12 @@ Provided further that—
 (3) A person shall not be qualified for appointment as a Judge of the Supreme Court unless he is a citizen of India and—
 
 (a) has been for at least five years a Judge of a High Court or of two or more such Courts in succession; or
-
 (b) has been for at least ten years an advocate of a High Court or of two or more such Courts in succession; or
-
 (c) is, in the opinion of the President, a distinguished jurist.
 
-*Explanation I*.—In this clause “High Court” means a High Court which exercises, or which at any time before the commencement of this Constitution exercised, jurisdiction in any part of the territory of India.
+Explanation I.—In this clause “High Court” means a High Court which exercises, or which at any time before the commencement of this Constitution exercised, jurisdiction in any part of the territory of India.
 
-*Explanation II*.—In computing for the purpose of this clause the period during which a person has been an advocate, any period during which a person has held judicial office not inferior to that of a district judge after he became an advocate shall be included.
+Explanation II.—In computing for the purpose of this clause the period during which a person has been an advocate, any period during which a person has held judicial office not inferior to that of a district judge after he became an advocate shall be included.
 
 (4) A Judge of the Supreme Court shall not be removed from his office except by an order of the President passed after an address by each House of Parliament supported by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting has been presented to the President in the same session for such removal on the ground of proved misbehaviour or incapacity.
 

@@ -1,17 +1,17 @@
 ---
 article: 100
 part: V
-title: "Voting in houses power of houses to act notwithstanding vacancies and quorum"
+title: "Voting in Houses, power of Houses to act notwithstanding vacancies and quorum"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-100-voting-in-houses-power-of-houses-to-act-notwithstanding-vacancies-and-quorum/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 100. Voting in houses power of houses to act notwithstanding vacancies and quorum
+# Article 100. Voting in Houses, power of Houses to act notwithstanding vacancies and quorum
 
 (1) Save as otherwise provided in this Constitution, all questions at any sitting of either House or joint sitting of the Houses shall be determined by a majority of votes of the members present and voting, other than the Speaker or person acting as Chairman or Speaker.
 

@@ -1,17 +1,17 @@
 ---
 article: 165
 part: VI
-title: "Advocate general for the state"
+title: "Advocate General for the State"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-165-advocate-general-for-the-state/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 165. Advocate general for the state
+# Article 165. Advocate General for the State
 
 (1) The Governor of each State shall appoint a person who is qualified to be appointed a Judge of a High Court to be Advocate-General for the State.
 

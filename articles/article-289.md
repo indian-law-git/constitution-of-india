@@ -1,20 +1,20 @@
 ---
 article: 289
 part: XII
-title: "Exemption of property and income of a state from union taxation"
+title: "Exemption of property and income of a State from Union taxation"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-289-exemption-of-property-and-income-of-a-state-from-union-taxation/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 289. Exemption of property and income of a state from union taxation
+# Article 289. Exemption of property and income of a State from Union taxation
 
-*(1) The property and income of a State shall be exempt from Union taxation.*
+(1) The property and income of a State shall be exempt from Union taxation.
 
-*(2) Nothing in clause (1) shall prevent the Union from imposing, or authorising the imposition of, any tax to such extent, if any, as Parliament may by law provide in respect of a trade or business of any kind carried on by, or on behalf of, the Government of a State, or any operations connected therewith, or any property used or occupied for the purposes of such trade or business, or any income accruing or arising in connection therewith.*
+(2) Nothing in clause (1) shall prevent the Union from imposing, or authorising the imposition of, any tax to such extent, if any, as Parliament may by law provide in respect of a trade or business of any kind carried on by, or on behalf of, the Government of a State, or any operations connected therewith, or any property used or occupied for the purposes of such trade or business, or any income accruing or arising in connection therewith.
 
-*(3) Nothing in clause (2) shall apply to any trade or business, or to any class of trade or business, which Parliament may by law declare to be incidental to the ordinary functions of government.*
+(3) Nothing in clause (2) shall apply to any trade or business, or to any class of trade or business, which Parliament may by law declare to be incidental to the ordinary functions of government.

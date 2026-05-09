@@ -1,17 +1,17 @@
 ---
 article: 75
 part: V
-title: "Other provisions as to ministers"
+title: "Other provisions as to Ministers"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-75-other-provisions-as-to-ministers/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 75. Other provisions as to ministers
+# Article 75. Other provisions as to Ministers
 
 (1) The Prime Minister shall be appointed by the President and the other Ministers shall be appointed by the President on the advice of the Prime Minister.
 

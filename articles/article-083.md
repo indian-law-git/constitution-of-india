@@ -1,17 +1,17 @@
 ---
 article: 83
 part: V
-title: "Duration of houses of parliament"
+title: "Duration of Houses of Parliament"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-83-duration-of-houses-of-parliament/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 83. Duration of houses of parliament
+# Article 83. Duration of Houses of Parliament
 
 (1) The Council of States shall not be subject to dissolution, but as nearly as possible one-third of the members thereof shall retire as soon as may be on the expiration of every second year in accordance with the provisions made in that behalf by Parliament by law.
 

@@ -1,17 +1,17 @@
 ---
 article: 95
 part: V
-title: "Power of the deputy speaker or other person to perform the duties of the office of or to act as speaker"
+title: "Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker."
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-95-power-of-the-deputy-speaker-or-other-person-to-perform-the-duties-of-the-office-of-or-to-act-as-speaker/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 95. Power of the deputy speaker or other person to perform the duties of the office of or to act as speaker
+# Article 95. Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker.
 
 (1) While the office of Speaker is vacant, the duties of the office shall be performed by the Deputy Speaker or, if the office of Deputy Speaker is also vacant, by such member of the House of the People as the President may appoint for the purpose.
 

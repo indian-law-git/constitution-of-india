@@ -1,17 +1,17 @@
 ---
 article: 167
 part: VI
-title: "Duties of chief minister as respects the furnishing of information to governor etc"
+title: "Duties of Chief Minister as respects the furnishing of information to Governor, etc"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-167-duties-of-chief-minister-as-respects-the-furnishing-of-information-to-governor-etc/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 167. Duties of chief minister as respects the furnishing of information to governor etc
+# Article 167. Duties of Chief Minister as respects the furnishing of information to Governor, etc
 
 It shall be the duty of the Chief Minister of each State—
 

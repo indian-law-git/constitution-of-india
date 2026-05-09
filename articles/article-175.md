@@ -1,17 +1,17 @@
 ---
 article: 175
 part: VI
-title: "Right of governor to address and send messages to the house or houses"
+title: "Right of Governor to address and send messages to the House or Houses"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-175-right-of-governor-to-address-and-send-messages-to-the-house-or-houses/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 175. Right of governor to address and send messages to the house or houses
+# Article 175. Right of Governor to address and send messages to the House or Houses
 
 (1) The Governor may address the Legislative Assembly or, in the case of a State having a Legislative Council, either House of the Legislature of the State, or both Houses assembled together, and may for that purpose require the attendance of members.
 

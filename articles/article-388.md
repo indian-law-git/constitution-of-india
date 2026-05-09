@@ -1,17 +1,17 @@
 ---
 article: 388
 part: XXI
-title: "Provisions as to the filling of casual vacancies in the provisional parliament and provisional legislatures of the states omitted"
+title: "Provisions as to the filling of casual vacancies in the provisional Parliament and provisional Legislatures of the States"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-388-provisions-as-to-the-filling-of-casual-vacancies-in-the-provisional-parliament-and-provisional-legislatures-of-the-states-omitted/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 388. Provisions as to the filling of casual vacancies in the provisional parliament and provisional legislatures of the states omitted
+# Article 388. Provisions as to the filling of casual vacancies in the provisional Parliament and provisional Legislatures of the States
 
 (1) Casual vacancies in the seats of members of the provisional Parliament functioning under clause (1) of article 379, including vacancies referred to in clauses (3) and (4) of that article, shall be filled, and all matters in connection with the filling of such vacancies (including the decision of doubts and disputes arising out of, or in connection with, elections to fill such vacancies) shall be regulated—
 

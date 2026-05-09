@@ -1,17 +1,17 @@
 ---
 article: 117
 part: V
-title: "Special provisions as to financial bills"
+title: "Special provisions as to financial Bills"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-117-special-provisions-as-to-financial-bills/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 117. Special provisions as to financial bills
+# Article 117. Special provisions as to financial Bills
 
 (1) A Bill or amendment making provision for any of the matters specified in sub-clauses (a) to (f) of clause (1) of article 110 shall not be introduced or moved except on the recommendation of the President and a Bill making such provision shall not be introduced in the Council of States:
 

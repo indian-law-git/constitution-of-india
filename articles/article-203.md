@@ -1,17 +1,17 @@
 ---
 article: 203
 part: VI
-title: "Procedure in legislature with respect to estimates"
+title: "Procedure in Legislature with respect to estimates"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-203-procedure-in-legislature-with-respect-to-estimates/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 203. Procedure in legislature with respect to estimates
+# Article 203. Procedure in Legislature with respect to estimates
 
 (1) So much of the estimates as relates to expenditure charged upon the Consolidated Fund of a State shall not be submitted to the vote of the Legislative Assembly, but nothing in this clause shall be construed as preventing the discussion in the Legislature of any of those estimates.
 

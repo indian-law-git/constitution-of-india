@@ -1,17 +1,17 @@
 ---
 article: 123
 part: V
-title: "Power of president to promulgate ordinances during recess of parliament"
+title: "Power of President to promulgate Ordinances during recess of Parliament"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-123-power-of-president-to-promulgate-ordinances-during-recess-of-parliament/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 123. Power of president to promulgate ordinances during recess of parliament
+# Article 123. Power of President to promulgate Ordinances during recess of Parliament
 
 (1) If at any time, except when both Houses of Parliament are in session, the President is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require.
 
@@ -21,6 +21,6 @@ source_url: "https://www.constitutionofindia.net/articles/article-123-power-of-p
 
 (b) may be withdrawn at any time by the President.
 
-*Explanation*.—Where the Houses of Parliament are summoned to reassemble on different dates, the period of six weeks shall be reckoned from the later of those dates for the purposes of this clause.
+Explanation.—Where the Houses of Parliament are summoned to reassemble on different dates, the period of six weeks shall be reckoned from the later of those dates for the purposes of this clause.
 
 (3) If and so far as an Ordinance under this article makes any provision which Parliament would not under this Constitution be competent to enact, it shall be void.

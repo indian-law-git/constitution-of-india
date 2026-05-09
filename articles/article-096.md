@@ -1,17 +1,17 @@
 ---
 article: 96
 part: V
-title: "The speaker or the deputy speaker not to preside while a resolution for his removal from office is under consideration"
+title: "The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-96-the-speaker-or-the-deputy-speaker-not-to-preside-while-a-resolution-for-his-removal-from-office-is-under-consideration/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 96. The speaker or the deputy speaker not to preside while a resolution for his removal from office is under consideration
+# Article 96. The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration
 
 (1) At any sitting of the House of the People, while any resolution for the removal of the Speaker from his office is under consideration, the Speaker, or while any resolution for the removal of the Deputy Speaker from his office is under consideration, the Deputy Speaker, shall not, though he is present, preside, and the provisions of clause (2) of article 95 shall apply in relation to every such sitting as they apply in relation to a sitting from which the Speaker, or, as the case may be, the Deputy Speaker, is absent.
 

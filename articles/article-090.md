@@ -1,17 +1,17 @@
 ---
 article: 90
 part: V
-title: "Vacation and resignation of and removal from the office of deputy chairman"
+title: "Vacation and resignation of, and removal from, the office of Deputy Chairman"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-90-vacation-and-resignation-of-and-removal-from-the-office-of-deputy-chairman/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 90. Vacation and resignation of and removal from the office of deputy chairman
+# Article 90. Vacation and resignation of, and removal from, the office of Deputy Chairman
 
 A member holding office as Deputy Chairman of the Council of States—
 

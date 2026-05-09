@@ -1,17 +1,17 @@
 ---
 article: 319
 part: XIV
-title: "Article-319"
+title: "Prohibition as to the holding of offices by members of Commission on ceasing to be such members"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-319/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 319. Article-319
+# Article 319. Prohibition as to the holding of offices by members of Commission on ceasing to be such members
 
 On ceasing to hold office—
 

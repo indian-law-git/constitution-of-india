@@ -8,7 +8,7 @@ repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-28-freedom-as-to-attendance-at-religious-instruction-or-religious-worship-in-certain-educational-institutions/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 28. Freedom as to attendance at religious instruction or religious worship in certain educational institutions

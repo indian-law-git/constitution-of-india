@@ -1,17 +1,17 @@
 ---
 article: 369
 part: XXI
-title: "Temporary power to parliament to make laws with respect to certain matters in the state list as if they were matters in the concurrent list"
+title: "Temporary power to Parliament to make laws with respect to certain matters in the State List as if they were matters in the Concurrent List"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-369-temporary-power-to-parliament-to-make-laws-with-respect-to-certain-matters-in-the-state-list-as-if-they-were-matters-in-the-concurrent-list/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 369. Temporary power to parliament to make laws with respect to certain matters in the state list as if they were matters in the concurrent list
+# Article 369. Temporary power to Parliament to make laws with respect to certain matters in the State List as if they were matters in the Concurrent List
 
 Notwithstanding anything in this Constitution, Parliament shall, during a period of five years from the commencement of this Constitution, have power to make laws with respect to the following matters as if they were enumerated in the Concurrent List, namely:—
 

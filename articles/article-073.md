@@ -1,17 +1,17 @@
 ---
 article: 73
 part: V
-title: "Extent of executive power of the union"
+title: "Extent of executive power of the Union"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-73-extent-of-executive-power-of-the-union/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 73. Extent of executive power of the union
+# Article 73. Extent of executive power of the Union
 
 (1) Subject to the provisions of this Constitution, the executive power of the Union shall extend—
 

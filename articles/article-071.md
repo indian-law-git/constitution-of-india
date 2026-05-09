@@ -1,17 +1,17 @@
 ---
 article: 71
 part: V
-title: "Matters relating to or connected with the election of a president or vice president"
+title: "Matters relating to or connected with the election of a President or Vice-President"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-71-matters-relating-to-or-connected-with-the-election-of-a-president-or-vice-president/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 71. Matters relating to or connected with the election of a president or vice president
+# Article 71. Matters relating to or connected with the election of a President or Vice-President
 
 (1) All doubts and disputes arising out of or in connection with the election of a President or Vice-President shall be inquired into and decided by the Supreme Court whose decision shall be final.
 

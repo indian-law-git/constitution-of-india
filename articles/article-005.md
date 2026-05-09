@@ -1,19 +1,19 @@
 ---
 article: 5
 part: II
-title: "Citizenship at the commencement of the constitution"
+title: "Citizenship at the commencement of the Constitution"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-5-citizenship-at-the-commencement-of-the-constitution/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 5. Citizenship at the commencement of the constitution
+# Article 5. Citizenship at the commencement of the Constitution
 
-At the commencement of this Constitution, every person who has his domicile in the territory of India and —
+At the commencement of this Constitution every person who has his domicile in the territory of India and —
 
 (a) who was born in the territory of India; or
 

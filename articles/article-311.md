@@ -1,17 +1,17 @@
 ---
 article: 311
 part: XIV
-title: "Dismissal removal or reduction in rank of persons employed in civil capacities under the union or a state"
+title: "Dismissal, removal or reduction in rank of persons employed in civil capacities under the Union or a State"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-311-dismissal-removal-or-reduction-in-rank-of-persons-employed-in-civil-capacities-under-the-union-or-a-state/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 311. Dismissal removal or reduction in rank of persons employed in civil capacities under the union or a state
+# Article 311. Dismissal, removal or reduction in rank of persons employed in civil capacities under the Union or a State
 
 (1) No person who is a member of a civil service of the Union or an all-India service or a civil service of a State or holds a civil post under the Union or a State shall be dismissed or removed by an authority subordinate to that by which he was appointed.
 

@@ -1,17 +1,17 @@
 ---
 article: 146
 part: V
-title: "Officers and servants and the expenses of the supreme court"
+title: "Officers and servants and the expenses of the Supreme Court"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-146-officers-and-servants-and-the-expenses-of-the-supreme-court/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 146. Officers and servants and the expenses of the supreme court
+# Article 146. Officers and servants and the expenses of the Supreme Court
 
 (1) Appointments of officers and servants of the Supreme Court shall be made by the Chief Justice of India or such other Judge or officer of the Court as he may direct:
 

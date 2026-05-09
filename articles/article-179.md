@@ -1,17 +1,17 @@
 ---
 article: 179
 part: VI
-title: "Vacation and resignation of and removal from the offices of speaker and deputy speaker"
+title: "Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-179-vacation-and-resignation-of-and-removal-from-the-offices-of-speaker-and-deputy-speaker/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 179. Vacation and resignation of and removal from the offices of speaker and deputy speaker
+# Article 179. Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker
 
 A member holding office as Speaker or Deputy Speaker of an Assembly—
 

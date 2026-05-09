@@ -1,17 +1,17 @@
 ---
 article: 340
 part: XVI
-title: "Appointment of a commission to investigate the conditions of backward classes"
+title: "Appointment of a Commission to investigate the conditions of backward classes"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-340-appointment-of-a-commission-to-investigate-the-conditions-of-backward-classes/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 340. Appointment of a commission to investigate the conditions of backward classes
+# Article 340. Appointment of a Commission to investigate the conditions of backward classes
 
 (1) The President may by order appoint a Commission consisting of such persons as he thinks fit to investigate the conditions of socially and educationally backward classes within the territory of India and the difficulties under which they labour and to make recommendations as to the steps that should be taken by the Union or any State to remove such difficulties and to improve their condition and as to the grants that should be made for the purpose by the Union or any State and the conditions subject to which such grants should be made, and the order appointing such Commission shall define the procedure to be followed by the Commission.
 

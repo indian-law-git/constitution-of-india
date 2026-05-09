@@ -1,17 +1,17 @@
 ---
 article: 164
 part: VI
-title: "Other provisions as to ministers"
+title: "Other provisions as to Ministers"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-164-other-provisions-as-to-ministers/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 164. Other provisions as to ministers
+# Article 164. Other provisions as to Ministers
 
 (1) The Chief Minister shall be appointed by the Governor and the other Ministers shall be appointed by the Governor on the advice of the Chief Minister, and the Ministers shall hold office during the pleasure of the Governor:
 

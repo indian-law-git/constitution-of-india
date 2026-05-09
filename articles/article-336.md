@@ -1,17 +1,17 @@
 ---
 article: 336
 part: XVI
-title: "Special provision for anglo indian community in certain services"
+title: "Special provision for Anglo-Indian community in certain services"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-336-special-provision-for-anglo-indian-community-in-certain-services/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 336. Special provision for anglo indian community in certain services
+# Article 336. Special provision for Anglo-Indian community in certain services
 
 (1) During the first two years after the commencement of this Constitution, appointments of members of the Anglo-Indian community to posts in the railway, customs, postal and telegraph services of the Union shall be made on the same basis as immediately before the fifteenth day of August, 1947.
 

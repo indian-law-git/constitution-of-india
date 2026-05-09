@@ -1,17 +1,17 @@
 ---
 article: 270
 part: XII
-title: "Taxes levied and distributed between the union and the states"
+title: "Taxes levied and collected by the Union and distributed between the Union and the States"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-270-taxes-levied-and-distributed-between-the-union-and-the-states/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 270. Taxes levied and distributed between the union and the states
+# Article 270. Taxes levied and collected by the Union and distributed between the Union and the States
 
 (1) Taxes on income other than agricultural income shall be levied and collected by the Government of India and distributed between the Union and the States in the manner provided in clause (2).
 
@@ -22,9 +22,11 @@ source_url: "https://www.constitutionofindia.net/articles/article-270-taxes-levi
 (4) In this article—
 
 (a) “taxes on income” does not include a corporation tax;
+
 (b) “prescribed” means—
 
 (i) until a Finance Commission has been constituted, prescribed by the President by order, and
+
 (ii) after a Finance Commission has been constituted, prescribed by the President by order after considering the recommendations of the Finance Commission;
 
 (c) “Union emoluments” includes all emoluments and pensions payable out of the Consolidated Fund of India in respect of which income-tax is chargeable.

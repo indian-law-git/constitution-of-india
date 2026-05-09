@@ -26,15 +26,11 @@ Form of oath of secrecy for a Minister for the Union:—
 
 Form of oath or affirmation to be made by a member of Parliament:—
 
-“I, A.B., having been elected (or nominated) a member of the Council of States (or the House of the People) do
-
-swear in the name of God/solemnly affirm that I will bear true faith and allegiance to the Constitution of India as by law established and that I will faithfully discharge the duty upon which I am about to enter.”
+“I, A.B., having been elected (or nominated) a member of the Council of States (or the House of the People) do swear in the name of God/solemnly affirm that I will bear true faith and allegiance to the Constitution of India as by law established and that I will faithfully discharge the duty upon which I am about to enter.”
 
 **IV**
 
 Form of oath or affirmation to be made by the Judges of the Supreme Court and the Comptroller and Auditor-General of India:—
-
-“I, A.B., having been appointed Chief Justice (or a Judge) of the Supreme Court and the Comptroller and Auditor-General of India:—
 
 “I, A.B., having been appointed Chief Justice (or a Judge) of the Supreme Court of India (or Comptroller and Auditor-General of India) do swear in the name of God/solemnly affirm that I will bear true faith and allegiance to the Constitution of India as by law established, that I will duly and faithfully and to the best of my ability, knowledge and judgment perform the duties of my office without fear or favour, affection or illwill and that I will uphold the Constitution and the laws.”
 

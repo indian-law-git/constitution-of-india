@@ -1,17 +1,17 @@
 ---
 article: 76
 part: V
-title: "Attorney general for india"
+title: "Attorney-General for India"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-76-attorney-general-for-india/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 76. Attorney general for india
+# Article 76. Attorney-General for India
 
 (1) The President shall appoint a person who is qualified to be appointed a Judge of the Supreme Court to be Attorney-General for India.
 

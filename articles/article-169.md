@@ -1,17 +1,17 @@
 ---
 article: 169
 part: VI
-title: "Abolition or creation of legislative councils in states"
+title: "Abolition or creation of Legislative Councils in States"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-169-abolition-or-creation-of-legislative-councils-in-states/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 169. Abolition or creation of legislative councils in states
+# Article 169. Abolition or creation of Legislative Councils in States
 
 (1) Notwithstanding anything in article 168, Parliament may by law provide for the abolition of the Legislative Council of a State having such a Council or for the creation of such a Council in a State having no such Council, if the Legislative Assembly of the State passes a resolution to that effect by a majority of the total membership of the Assembly and by a majority of not less than two-thirds of the members of the Assembly present and voting.
 

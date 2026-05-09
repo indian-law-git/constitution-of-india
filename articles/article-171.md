@@ -1,17 +1,17 @@
 ---
 article: 171
 part: VI
-title: "Composition of the legislative councils"
+title: "Composition of the Legislative Councils"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-171-composition-of-the-legislative-councils/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 171. Composition of the legislative councils
+# Article 171. Composition of the Legislative Councils
 
 (1) The total number of members in the Legislative Council of a State having such a Council shall not exceed one-fourth of the total number of members in the Legislative Assembly of that State:
 
@@ -25,7 +25,7 @@ Provided that the total number of members in the Legislative Council of a State 
 
 (b) as nearly as may be, one-twelfth shall be elected by electorates consisting of persons residing in the State who have been for at least three years graduates of any university in the territory of India or have been for at least three years in possession of qualifications prescribed by or under any law made by Parliament as equivalent to that of a graduate of any such university;
 
-(c) as nearly as may be, one-twelfth shall be elected by electorates consisting of persons who have been for at least three years engaged in teaching in such educational institutions within the State, not lower in standard than that of a secondary school, as may be prescribed by or under any law made by Parliament;
+(c) as nearly as may be, one-twelfth shall be elected by electorates consisting of persons who have been for at least three years engaged in teaching in such educational institutions within the State, not lower in standard than that of a secondary school, as may be prescribed by or under any law made by Parliament
 
 (d) as nearly as may be, one-third shall be elected by the members of the Legislative Assembly of the State from amongst persons who are not members of the Assembly;
 

@@ -1,17 +1,17 @@
 ---
 article: 392
 part: XXI
-title: "Power of the president to remove difficulties"
+title: "Power of the President to remove difficulties"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-392-power-of-the-president-to-remove-difficulties/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 392. Power of the president to remove difficulties
+# Article 392. Power of the President to remove difficulties
 
 (1) The President may, for the purpose of removing any difficulties, particularly in relation to the transition from the provisions of the Government of India Act, 1935, to the provisions of this Constitution, by order direct that this Constitution shall, during such period as may be specified in the order, have effect subject to such adaptations, whether by way of modification, addition or omission, as he may deem to be necessary or expedient:
 

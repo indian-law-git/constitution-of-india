@@ -72,6 +72,13 @@ during the period he holds office as such Chief Justice or other Judge, and ever
 
 (1) There shall be paid to the Judges of the High Court of each State specified in Part A of the First Schedule, in respect of time spent on actual service, salary at the following rates per mensem, that is to say:—
 
+The Chief Justice
+4000 rupees.
+
+
+Any other Judge
+3500 rupees.
+
 (2) Every person who immediately before the commencement of this Constitution—
 
 (a) was holding office as the Chief Justice of a High Court in any Province and has on such commencement become the Chief Justice of the High Court in the corresponding State under clause (1) of article 376, or

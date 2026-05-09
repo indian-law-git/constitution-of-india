@@ -1,17 +1,17 @@
 ---
 article: 344
 part: XVII
-title: "Commission and committee of parliament on official language"
+title: "Commission and Committee of Parliament on official language"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-344-commission-and-committee-of-parliament-on-official-language/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 344. Commission and committee of parliament on official language
+# Article 344. Commission and Committee of Parliament on official language
 
 (1) The President shall, at the expiration of five years from the commencement of this Constitution and thereafter at the expiration of ten years from such commencement, by order constitute a Commission which shall consist of a Chairman and such other members representing the different languages specified in the Eighth Schedule as the President may appoint, and the order shall define the procedure to be followed by the Commission.
 

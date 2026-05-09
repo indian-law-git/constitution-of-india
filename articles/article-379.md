@@ -1,21 +1,21 @@
 ---
 article: 379
 part: XXI
-title: "Provisions as to provisional parliament and the speaker and deputy speaker thereof omitted"
+title: "Provisions as to provisional Parliament and the Speaker and Deputy Speaker thereof"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-379-provisions-as-to-provisional-parliament-and-the-speaker-and-deputy-speaker-thereof-omitted/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 379. Provisions as to provisional parliament and the speaker and deputy speaker thereof omitted
+# Article 379. Provisions as to provisional Parliament and the Speaker and Deputy Speaker thereof
 
 (1) Until both Houses of Parliament have been duly constituted and summoned to meet for the first session under the provisions of this Constitution, the body functioning as the Constituent Assembly of the Dominion of India immediately before the commencement of this Constitution shall be the provisional Parliament and shall exercise all the powers and perform all the duties conferred by the provisions of this Constitution on Parliament.
 
-Explanation.—For the purposes of this clause, the Constituent Assembly of the Dominion of India includes—
+*Explanation*.—For the purposes of this clause, the Constituent Assembly of the Dominion of India includes—
 
 (i) the members chosen to represent any State or other territory for which representation is provided under clause (2), and
 

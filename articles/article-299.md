@@ -8,11 +8,11 @@ repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-299-contracts/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 299. Contracts
 
-1) All contracts made in the exercise of the executive power of the Union or of a State shall be expressed to be made by the President, or by the Governor or the Rajpramukh of the State, as the case may be, and all such contracts and all assurances of property made in the exercise of that power shall be executed on behalf of the President or the Governor or the Rajpramukh by such persons and in such manner as he may direct or authorise.
+(1) All contracts made in the exercise of the executive power of the Union or of a State shall be expressed to be made by the President, or by the Governor or the Rajpramukh of the State, as the case may be, and all such contracts and all assurances of property made in the exercise of that power shall be executed on behalf of the President or the Governor or the Rajpramukh by such persons and in such manner as he may direct or authorise.
 
 (2) Neither the President nor the Governor nor the Rajpramukh shall be personally liable in respect of any contract or assurance made or executed for the purposes of this Constitution, or for the purposes of any enactment relating to the government of India heretofore in force, nor shall any person making or executing any such contract or assurance on behalf of any of them be personally liable in respect thereof.

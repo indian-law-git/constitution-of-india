@@ -1,17 +1,17 @@
 ---
 article: 190
 part: VI
-title: "Vacation of seats"
+title: "Vacation of Seats"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-190-vacation-of-seats/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 190. Vacation of seats
+# Article 190. Vacation of Seats
 
 (1) No person shall be a member of both Houses of the Legislature of a State and provision shall be made by the Legislature of the State by law for the vacation by a person who is chosen a member of both Houses of his seat in one House or the other.
 

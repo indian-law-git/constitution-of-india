@@ -1,17 +1,17 @@
 ---
 article: 194
 part: VI
-title: "Powers privileges etc of the houses of legislatures and of the members and committees thereof"
+title: "Powers, privileges, etc., of the Houses of Legislatures and of the members and committees thereof"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-194-powers-privileges-etc-of-the-houses-of-legislatures-and-of-the-members-and-committees-thereof/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 194. Powers privileges etc of the houses of legislatures and of the members and committees thereof
+# Article 194. Powers, privileges, etc., of the Houses of Legislatures and of the members and committees thereof
 
 (1) Subject to the provisions of this Constitution and to the rules and standing orders regulating the procedure of the Legislature, there shall be freedom of speech in the Legislature of every State.
 

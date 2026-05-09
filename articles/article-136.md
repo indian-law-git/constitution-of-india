@@ -1,17 +1,17 @@
 ---
 article: 136
 part: V
-title: "Special leave to appeal by the supreme court"
+title: "Special leave to appeal by the Supreme Court"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-136-special-leave-to-appeal-by-the-supreme-court/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 136. Special leave to appeal by the supreme court
+# Article 136. Special leave to appeal by the Supreme Court
 
 (1) Notwithstanding anything in this Chapter, the Supreme Court may, in its discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order in any cause or matter passed or made by any court or tribunal in the territory of India.
 

@@ -1,21 +1,21 @@
 ---
 article: 55
 part: V
-title: "Manner of election of president"
+title: "Manner of election of President"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-55-manner-of-election-of-president/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 55. Manner of election of president
+# Article 55. Manner of election of President
 
 (1) As far as practicable, there shall be uniformity in the scale of representation of the different States at the election of the President.
 
-(2) For the purpose of securing such uniformity among the States inter se as well as parity between the States as a whole and the Union, the number of votes which each elected member of Parliament and of the Legislative Assembly of each State is entitled to cast at such election shall be determined in the following manner:—
+(2) For the purpose of securing such uniformity among the States *inter se* as well as parity between the States as a whole and the Union, the number of votes which each elected member of Parliament and of the Legislative Assembly of each State is entitled to cast at such election shall be determined in the following manner:—
 
 (a) every elected member of the Legislative Assembly of a State shall have as many votes as there are multiples of one thousand in the quotient obtained by dividing the population of the State by the total number of the elected members of the Assembly;
 
@@ -25,4 +25,4 @@ source_url: "https://www.constitutionofindia.net/articles/article-55-manner-of-e
 
 (3) The election of the President shall be held in accordance with the system of proportional representation by means of the single transferable vote and the voting at such election shall be by secret ballot.
 
-*Explanation*. — In this article, the expression “population” means the population as ascertained at the last preceding census of which the relevant figures have been published.
+Explanation. — In this article, the expression “population” means the population as ascertained at the last preceding census of which the relevant figures have been published.

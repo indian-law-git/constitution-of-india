@@ -1,17 +1,17 @@
 ---
 article: 357
 part: XVIII
-title: "Exercise of legislative powers under proclamation issued under article 356"
+title: "Exercise of legislative powers under Proclamation issued under article 356"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-357-exercise-of-legislative-powers-under-proclamation-issued-under-article-356/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 357. Exercise of legislative powers under proclamation issued under article 356
+# Article 357. Exercise of legislative powers under Proclamation issued under article 356
 
 (1) Where by a Proclamation issued under clause (1) of article 356, it has been declared that the powers of the Legislature of the State shall be exercisable by or under the authority of Parliament, it shall be competent—
 

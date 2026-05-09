@@ -1,17 +1,17 @@
 ---
 article: 330
 part: XVI
-title: "Reservation of seats for scheduled castes and scheduled tribes in the house of the people"
+title: "Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-330-reservation-of-seats-for-scheduled-castes-and-scheduled-tribes-in-the-house-of-the-people/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 330. Reservation of seats for scheduled castes and scheduled tribes in the house of the people
+# Article 330. Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People
 
 (1) Seats shall be reserved in the House of the People for—
 

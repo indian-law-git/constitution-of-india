@@ -1,17 +1,17 @@
 ---
 article: 134
 part: V
-title: "Appellate jurisdiction of supreme court in regard to criminal matters"
+title: "Appellate jurisdiction of Supreme Court in regard to criminal matters"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-134-appellate-jurisdiction-of-supreme-court-in-regard-to-criminal-matters/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 134. Appellate jurisdiction of supreme court in regard to criminal matters
+# Article 134. Appellate jurisdiction of Supreme Court in regard to criminal matters
 
 (1) An appeal shall lie to the Supreme Court from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India if the High Court—
 

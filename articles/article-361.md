@@ -1,17 +1,17 @@
 ---
 article: 361
 part: XIX
-title: "Protection of president and governors and rajpramukhs"
+title: "Protection of President and Governors and Rajpramukhs"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-361-protection-of-president-and-governors-and-rajpramukhs/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 361. Protection of president and governors and rajpramukhs
+# Article 361. Protection of President and Governors and Rajpramukhs
 
 (1) The President, or the Governor or Rajpramukh of a State, shall not be answerable to any court, for the exercise and performance of the powers and duties of his office or for any act done or purporting to be done by him in the exercise and performance of those powers and duties:
 

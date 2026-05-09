@@ -1,17 +1,17 @@
 ---
 article: 338
 part: XVI
-title: "National commission for scheduled castes"
+title: "Special Officer for Scheduled Castes, Scheduled Tribes, etc"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-338-national-commission-for-scheduled-castes/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 338. National commission for scheduled castes
+# Article 338. Special Officer for Scheduled Castes, Scheduled Tribes, etc
 
 (1) There shall be a Special Officer for the Scheduled Castes and Scheduled Tribes to be appointed by the President.
 

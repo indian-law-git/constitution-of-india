@@ -1,17 +1,17 @@
 ---
 article: 114
 part: V
-title: "Appropriation bills"
+title: "Appropriation Bills"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-114-appropriation-bills/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 114. Appropriation bills
+# Article 114. Appropriation Bills
 
 (1) As soon as may be after the grants under article 113 have been made by the House of the People, there shall be introduced a Bill to provide for the appropriation out of the Consolidated Fund of India of all moneys required to meet—
 

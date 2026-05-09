@@ -1,17 +1,17 @@
 ---
 article: 116
 part: V
-title: "Votes on account votes of credit and exceptional grants"
+title: "Votes on account, votes of credit and exceptional grants"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-116-votes-on-account-votes-of-credit-and-exceptional-grants/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 116. Votes on account votes of credit and exceptional grants
+# Article 116. Votes on account, votes of credit and exceptional grants
 
 (1) Notwithstanding anything in the foregoing provisions of this Chapter, the House of the People shall have power—
 

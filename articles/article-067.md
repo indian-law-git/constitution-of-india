@@ -1,17 +1,17 @@
 ---
 article: 67
 part: V
-title: "Term of office of vice president"
+title: "Term of office of Vice-President"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-67-term-of-office-of-vice-president/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 67. Term of office of vice president
+# Article 67. Term of office of Vice-President
 
 The Vice-President shall hold office for a term of five years from the date on which he enters upon his office:
 

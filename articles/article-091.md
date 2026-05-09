@@ -1,17 +1,17 @@
 ---
 article: 91
 part: V
-title: "Power of the deputy chairman or other person to perform the duties of the office of or to act as chairman"
+title: "Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman."
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-91-power-of-the-deputy-chairman-or-other-person-to-perform-the-duties-of-the-office-of-or-to-act-as-chairman/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 91. Power of the deputy chairman or other person to perform the duties of the office of or to act as chairman
+# Article 91. Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman.
 
 (1) While the office of Chairman is vacant, or during any period when the Vice-President is acting as, or discharging the functions of, President, the duties of the office shall be performed by the Deputy Chairman, or, if the office of Deputy Chairman is also vacant, by such member of the Council of States as the President may appoint for the purpose.
 

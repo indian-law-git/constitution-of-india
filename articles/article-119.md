@@ -1,16 +1,16 @@
 ---
 article: 119
 part: V
-title: "Regulation by law of procedure in parliament in relation to financial business"
+title: "Regulation by law of procedure in Parliament in relation to financial business"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-119-regulation-by-law-of-procedure-in-parliament-in-relation-to-financial-business/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 119. Regulation by law of procedure in parliament in relation to financial business
+# Article 119. Regulation by law of procedure in Parliament in relation to financial business
 
 Parliament may, for the purpose of the timely completion of financial business, regulate by law the procedure of, and the conduct of business in, each House of Parliament in relation to any financial matter or to any Bill for the appropriation of moneys out of the Consolidated Fund of India, and, if and so far as any provision of any law so made is inconsistent with any rule made by a House of Parliament under clause (1) of article 118 or with any rule or standing order having effect in relation to Parliament under clause (2) of that article, such provision shall prevail.

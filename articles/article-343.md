@@ -1,17 +1,17 @@
 ---
 article: 343
 part: XVII
-title: "Official language of the union"
+title: "Official language of the Union"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-343-official-language-of-the-union/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 343. Official language of the union
+# Article 343. Official language of the Union
 
 (1) The official language of the Union shall be Hindi in Devanagari script.
 

@@ -1,17 +1,17 @@
 ---
 article: 317
 part: XIV
-title: "Removal and suspension of a member of a public service commission"
+title: "Removal and suspension of a member of a Public Service Commission"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-317-removal-and-suspension-of-a-member-of-a-public-service-commission/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 317. Removal and suspension of a member of a public service commission
+# Article 317. Removal and suspension of a member of a Public Service Commission
 
 (1) Subject to the provisions of clause (3), the Chairman or any other member of a Public Service Commission shall only be removed from his office by order of the President on the ground of misbehaviour after the Supreme Court, on reference being made to it by the President, has, on inquiry held in accordance with the procedure prescribed in that behalf under article 145, reported that the Chairman or such other member, as the case may be, ought on any such ground to be removed.
 

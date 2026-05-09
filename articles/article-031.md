@@ -8,7 +8,7 @@ repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-31-compulsory-acquisition-of-property/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 31. Compulsory acquisition of property
@@ -21,16 +21,16 @@ source_url: "https://www.constitutionofindia.net/articles/article-31-compulsory-
 
 (4) If any Bill pending at the commencement of this Constitution in the Legislature of a State has, after it has been passed by such Legislature, been reserved for the consideration of the President and has received his assent, then, notwithstanding anything in this Constitution, the law so assented to shall not be called in question in any court on the ground that it contravenes the provisions of clause (2).
 
-(5) Nothing in clause (2) shall affect—
+(5) Nothing in clause (2) shall affect —
 
-(a) The provisions of any existing law other than a law to which the provisions of clause (6) apply, or
+(a) the provisions of any existing law other than a law to which the provisions of clause (6) apply, or
 
-(b) The provisions of any law which the State may hereafter make—
+(b) the provisions of any law which the State may hereafter make —
 
-(i) for the purpose of imposing or levying any tax penalty, or
+(i) for the purpose of imposing or levying any tax or penalty, or
 
 (ii) for the promotion of public health or the prevention of danger to life or property, or
 
 (iii) in pursuance of any agreement entered into between the Government of the Dominion of India or the Government of India and the Government of any other country, or otherwise, with respect to property declared by law to be evacuee property.
 
-(6) Any law of the State enacted not more than eighteen months before the commencement of this Constitution may within three months from such commencement be submitted to the President for his certification; and therefore, if the President by public notification so certifies, it shall not be called in question in any court on the ground that it contravenes the provisions of sub-section (2) of section 299 of the Government of India Act, 1935.
+(6) Any law of the State enacted not more than eighteen months before the commencement of this Constitution may within three months from such commencement be submitted to the President for his certification; and thereupon, if the President by public notification so certifies, it shall not be called in question in any court on the ground that it contravenes the provisions of clause (2) of this article or has contravened the provisions of sub-section (2) of section 299 of the Government of India Act, 1935.

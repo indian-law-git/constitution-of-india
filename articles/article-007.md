@@ -1,17 +1,17 @@
 ---
 article: 7
 part: II
-title: "Rights of citizenship of certain migrants to pakistan"
+title: "Rights of citizenship of certain migrants to Pakistan"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-7-rights-of-citizenship-of-certain-migrants-to-pakistan/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 7. Rights of citizenship of certain migrants to pakistan
+# Article 7. Rights of citizenship of certain migrants to Pakistan
 
 Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India:
 

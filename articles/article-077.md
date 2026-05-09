@@ -1,17 +1,17 @@
 ---
 article: 77
 part: V
-title: "Conduct of business of the government of india"
+title: "Conduct of business of the Government of India"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-77-conduct-of-business-of-the-government-of-india/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 77. Conduct of business of the government of india
+# Article 77. Conduct of business of the Government of India
 
 (1) All executive action of the Government of India shall be expressed to be taken in the name of the President.
 

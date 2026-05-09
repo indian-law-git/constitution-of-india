@@ -33,6 +33,8 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 CLPR_DIR = REPO_ROOT / "pipeline" / "intermediate" / "scraped" / "articles"
+
+CLPR_CONSOLIDATED_DIR = REPO_ROOT / "pipeline" / "intermediate" / "scraped" / "articles-consolidated"
 MANU_DIR = REPO_ROOT / "pipeline" / "intermediate" / "scraped" / "manuscript"
 OUT_DIR = REPO_ROOT / "articles"
 
@@ -112,6 +114,13 @@ def _inline_md(node: Tag | NavigableString) -> str:
     name = node.name
     inner = "".join(_inline_md(c) for c in node.children)
     if name in {"em", "i"}:
+        # CLPR's consolidated 1950 page italicises clause letters and digits
+        # inside parens (e.g. "(<em>a</em>)" or "(<em>1</em>)"). These are
+        # typography, not semantic emphasis — strip the italic. Keep italic on
+        # longer tokens like "Explanation" / "Explanation I".
+        bare = inner.strip()
+        if len(bare) <= 2 and re.match(r"^[A-Za-z0-9]+$", bare):
+            return inner
         return f"*{inner}*"
     if name in {"strong", "b"}:
         return f"**{inner}**"
@@ -140,13 +149,15 @@ def html_body_to_markdown(body_html: str) -> str:
 
     Handles top-level <p>/<div>, ordered/unordered lists, and unknown elements
     via a best-effort inline pass. Sub-clause indentation is preserved by
-    rendering each block as its own paragraph.
+    rendering each block as its own paragraph. The CLPR consolidated 1950
+    page wraps groups of sub-clauses in a parent <div> with nested
+    wst-hanging-indent <div> siblings; we flatten those so each sub-clause
+    becomes its own paragraph instead of getting jammed onto one block.
     """
     soup = BeautifulSoup(body_html, "lxml")
-    # CLPR sometimes wraps in <html><body> via lxml; iterate top-level blocks.
     root = soup.body if soup.body is not None else soup
     paragraphs: list[str] = []
-    for child in root.children:
+    for child in _flatten_blocks(root.children):
         if isinstance(child, NavigableString):
             text = _strip_typography(str(child)).strip()
             if text:
@@ -167,11 +178,35 @@ def html_body_to_markdown(body_html: str) -> str:
             if para:
                 paragraphs.append(para)
         else:
-            # Unknown top-level — best effort
             para = _inline_md(child).strip()
             if para:
                 paragraphs.append(para)
     return "\n\n".join(paragraphs).strip()
+
+
+def _flatten_blocks(children):
+    """Yield top-level blocks, expanding wrapper <div>s that only contain
+    block-level <div>/<p> children (CLPR consolidated pattern for grouped
+    sub-clauses). Wrapper <div>s with mixed content are left intact.
+    """
+    for child in children:
+        if (
+            hasattr(child, "name")
+            and child.name == "div"
+            and not (child.get("class") or [])
+        ):
+            inner_blocks = [
+                c for c in child.children
+                if hasattr(c, "name") and c.name in {"div", "p"}
+            ]
+            other = [
+                c for c in child.children
+                if isinstance(c, NavigableString) and str(c).strip()
+            ]
+            if inner_blocks and not other:
+                yield from inner_blocks
+                continue
+        yield child
 
 
 _CLAUSE_START_RE = re.compile(
@@ -240,9 +275,44 @@ def _load_manuscript_sources() -> dict[int, BaselineArticle]:
     return out
 
 
+# 1950 marginal-note overrides for articles where neither the CLPR consolidated
+# page (no <h4>) nor the per-article slug-derived title gives the right 1950
+# title. Verified against the Aggarwala 1950 facsimile
+# (docs/constitutionofin_1ed_fulltext.txt). All in the [1, 395] range.
+_TITLE_OVERRIDES_1950: dict[int, str] = {
+    17:  "Abolition of Untouchability",
+    142: "Enforcement of decrees and orders of Supreme Court and orders as to discovery, etc.",
+    199: "Definition of “Money Bills”",
+    342: "Scheduled Tribes",
+    375: "Courts, authorities and officers to continue to function subject to the provisions of the Constitution",
+}
+
+# Body-level typo fixes for CLPR's consolidated 1950 page. Pure typos
+# verified against the Aggarwala 1950 facsimile (no semantic effect).
+_BODY_TYPO_FIXES_1950: list[tuple[str, str]] = [
+    # Article 31 clause (4): consolidated has "clause (2}" with a closing brace.
+    ("clause (2}", "clause (2)"),
+]
+
 def _load_clpr_sources() -> dict[int, BaselineArticle]:
-    """Return {bare-integer: BaselineArticle} for every CLPR record."""
-    out: dict[int, BaselineArticle] = {}
+    """Return {bare-integer: BaselineArticle} preferring CLPR's consolidated
+    /constitution-of-india-1950/ extraction over the per-article-page extraction.
+
+    Why: CLPR's per-article pages drift to post-amendment text under the "1950"
+    label in a non-trivial fraction of articles (Articles 3, 19, 31, 81, 305 had
+    substantive drift; 269 and 286 had cosmetic drift; surfaced during the
+    1st-6th-amendment validation cycles). The consolidated page consistently
+    carries the true 1950 form.
+
+    Strategy:
+      - Body: prefer consolidated; fall back to per-article for the 5 articles
+        genuinely missing from the consolidated page (142, 199, 300, 342, 375).
+      - Title: prefer consolidated <h4> marginal note; for the one article with
+        no title in consolidated (Article 17), fall back to per-article.
+    """
+    # First pass: per-article (carries every article + has slug-derived title we
+    # can fall back on for body and title).
+    per_article: dict[int, dict] = {}
     for path in sorted(CLPR_DIR.glob("article-*.json")):
         d = json.loads(path.read_text())
         slug = d.get("slug_number", "")
@@ -251,12 +321,48 @@ def _load_clpr_sources() -> dict[int, BaselineArticle]:
         n = int(slug)
         if not (1 <= n <= 395):
             continue
+        per_article[n] = d
+
+    # Second pass: consolidated (overrides per-article body; uses h4 title when
+    # present).
+    consolidated: dict[int, dict] = {}
+    for path in sorted(CLPR_CONSOLIDATED_DIR.glob("article-*.json")):
+        d = json.loads(path.read_text())
+        slug = d.get("slug_number", "")
+        if not slug.isdigit():
+            continue
+        n = int(slug)
+        if not (1 <= n <= 395):
+            continue
+        consolidated[n] = d
+
+    out: dict[int, BaselineArticle] = {}
+    for n in sorted(set(per_article) | set(consolidated)):
+        cons = consolidated.get(n)
+        per = per_article.get(n)
+        if cons is not None:
+            # Title: consolidated h4 if non-empty, else per-article slug title.
+            title = cons.get("title") or ""
+            if not title and per is not None:
+                title = _capitalize_title(per.get("title", ""))
+            body_html = cons["body_html"]
+            source_url = cons.get("source_url")
+        elif per is not None:
+            title = _capitalize_title(per.get("title", ""))
+            body_html = per["body_html"]
+            source_url = per.get("source_url")
+        else:
+            continue
+        title = _TITLE_OVERRIDES_1950.get(n, title)
+        body_md = html_body_to_markdown(body_html)
+        for old, new in _BODY_TYPO_FIXES_1950:
+            body_md = body_md.replace(old, new)
         out[n] = BaselineArticle(
             number=n,
-            title=_capitalize_title(d.get("title", "")),
-            body_md=html_body_to_markdown(d["body_html"]),
+            title=title,
+            body_md=body_md,
             source="clpr",
-            source_url=d.get("source_url"),
+            source_url=source_url,
             source_pdf_sha256=None,
             page=None,
         )

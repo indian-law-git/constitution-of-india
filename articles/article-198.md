@@ -1,17 +1,17 @@
 ---
 article: 198
 part: VI
-title: "Special procedure in respect of money bills"
+title: "Special procedure in respect of Money Bills"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-198-special-procedure-in-respect-of-money-bills/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 198. Special procedure in respect of money bills
+# Article 198. Special procedure in respect of Money Bills
 
 (1) A Money Bill shall not be introduced in a Legislative Council.
 

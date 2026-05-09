@@ -1,17 +1,17 @@
 ---
 article: 163
 part: VI
-title: "Council of ministers to aid and advise governor"
+title: "Council of Ministers to aid and advise Governor"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-163-council-of-ministers-to-aid-and-advise-governor/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 163. Council of ministers to aid and advise governor
+# Article 163. Council of Ministers to aid and advise Governor
 
 (1) There shall be a Council of Ministers with the Chief Minister at the head to aid and advise the Governor in the exercise of his functions, except in so far as he is by or under this Constitution required to exercise his functions or any of them in his discretion.
 

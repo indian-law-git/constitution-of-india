@@ -1,17 +1,17 @@
 ---
 article: 187
 part: VI
-title: "Secretariat of state legislature"
+title: "Secretariat of State Legislature"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-187-secretariat-of-state-legislature/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 187. Secretariat of state legislature
+# Article 187. Secretariat of State Legislature
 
 (1) The House or each House of the Legislature of a State shall have a separate secretarial staff:
 

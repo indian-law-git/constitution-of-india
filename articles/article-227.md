@@ -1,17 +1,17 @@
 ---
 article: 227
 part: VI
-title: "Power of superintendence over all courts by the high court"
+title: "Power of superintendence over all courts by the High Court"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-227-power-of-superintendence-over-all-courts-by-the-high-court/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 227. Power of superintendence over all courts by the high court
+# Article 227. Power of superintendence over all courts by the High Court
 
 (1) Every High Court shall have superintendence over all courts and tribunals throughout the territories in relation to which it exercises jurisdiction.
 

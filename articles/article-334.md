@@ -1,17 +1,17 @@
 ---
 article: 334
 part: XVI
-title: "Reservation of seats and special representation to cease after certain period"
+title: "Reservation of seats and special representation to cease after ten years"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-334-reservation-of-seats-and-special-representation-to-cease-after-certain-period/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 334. Reservation of seats and special representation to cease after certain period
+# Article 334. Reservation of seats and special representation to cease after ten years
 
 Notwithstanding anything in the foregoing provisions of this Part, the provisions of this Constitution relating to—
 

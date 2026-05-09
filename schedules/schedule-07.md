@@ -10,9 +10,7 @@ source: mixed
 
 # Seventh Schedule — Union, State and Concurrent Lists
 
-## List I: Union List
-
-List I—Union List
+## List I — Union List
 
 1. Defence of India and every part thereof including preparation for defence and all such acts as may be conducive in times of war to its prosecution and after its termination to effective demobilisation.
 2. Naval, military and air forces; any other armed forces of the Union.
@@ -81,8 +79,11 @@ List I—Union List
 65. Union agencies and institutions for—
 
 (a) professional, vocational or technical training, including the training of police officers; or
+
 (b) the promotion of special studies or research; or
+
 (c) scientific or technical assistance in the investigation or detection of crime.
+
 66. Co-ordination and determination of standards in institutions for higher education or research and scientific and technical institutions.
 67. Ancient and historical monuments and records, and archaeological sites and remains, declared by Parliament by law to be of national importance.
 68. The Survey of India, the Geological, Botanical, Zoological and Anthropological Surveys of India; Meteorological organisations.
@@ -104,8 +105,11 @@ List I—Union List
 84. Duties of excise on tobacco and other goods manufactured or produced in India except—
 
 (a) alcoholic liquors for human consumption;
+
 (b) opium, Indian hemp and other narcotic drugs and narcotics,
+
 but including medicinal and toilet preparations containing alcohol or any substance included in sub-paragraph (b) of this entry.
+
 85. Corporation tax.
 86. Taxes on the capital value of the assets, exclusive of agricultural land, of individuals and companies; taxes on the capital of companies.
 87. Estate duty in respect of property other than agricultural land.
@@ -120,9 +124,7 @@ but including medicinal and toilet preparations containing alcohol or any substa
 96. Fees in respect of any of the matters in this List, but not including fees taken in any court.
 97. Any other matter not enumerated in List II or List III including any tax not mentioned in either of those Lists.
 
-## List II: State List
-
-**List II—State List**
+## List II — State List
 
 1. Public order (but not including the use of naval, military or air forces or any other armed forces of the Union in aid of the civil power).
 
@@ -194,7 +196,7 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 35. Works, lands and buildings vested in or in the possession of the State.
 
-36.Acquisition or requisitioning of property, except for the purposes of the Union, subject to the provisions of entry 42 of List III.
+36. Acquisition or requisitioning of property, except for the purposes of the Union, subject to the provisions of entry 42 of List III.
 
 37. Elections to the Legislature of the State subject to the provisions of any law made by Parliament.
 
@@ -228,7 +230,7 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 (a) alcoholic liquors for human consumption;
 
-(b) opium, Indian hemp and other narcotic drugs and narcotics;
+(b) opium, Indian hemp and other narcotic drugs and narcotics; 
 
 but not including medicinal and toilet preparations containing alcohol or any substance included in sub-paragraph (b) of this entry.
 

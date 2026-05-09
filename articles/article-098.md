@@ -1,17 +1,17 @@
 ---
 article: 98
 part: V
-title: "Secretariat of parliament"
+title: "Secretariat of Parliament"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-98-secretariat-of-parliament/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 98. Secretariat of parliament
+# Article 98. Secretariat of Parliament
 
 (1) Each House of Parliament shall have a separate secretarial staff:
 

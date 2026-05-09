@@ -1,17 +1,17 @@
 ---
 article: 111
 part: V
-title: "Assent to bills"
+title: "Assent to Bills"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-111-assent-to-bills/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 111. Assent to bills
+# Article 111. Assent to Bills
 
 When a Bill has been passed by the Houses of Parliament, it shall be presented to the President, and the President shall declare either that he assents to the Bill, or that he withholds assent therefrom:
 

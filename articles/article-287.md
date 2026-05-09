@@ -8,14 +8,15 @@ repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-287-exemption-from-taxes-on-electricity/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 287. Exemption from taxes on electricity
 
-*Save in so far as Parliament may by law otherwise provide, no law of a State shall impose, or authorise the imposition of, a tax on the consumption or sale of electricity (whether produced by a Government or other persons) which is—*
+Save in so far as Parliament may by law otherwise provide, no law of a State shall impose, or authorise the imposition of, a tax on the consumption or sale of electricity (whether produced by a Government or other persons) which is—
 
-*(a) consumed by the Government of India, or sold to the Government of India for consumption by that Government; or*
-*(b) consumed in the construction, maintenance or operation of any railway by the Government of India or a railway company operating that railway, or sold to that Government or any such railway company for consumption in the construction, maintenance or operation of any railway,*
+(a) consumed by the Government of India, or sold to the Government of India for consumption by that Government; or
 
-*and any such law imposing, or authorising the imposition of, a tax on the sale of electricity shall secure that the price of electricity sold to the Government of India for consumption by that Government, or to any such railway company as aforesaid for consumption in the construction, maintenance or operation of any railway, shall be less by the amount of the tax than the price charged to other consumers of a substantial quantity of electricity.*
+(b) consumed in the construction, maintenance or operation of any railway by the Government of India or a railway company operating that railway, or sold to that Government or any such railway company for consumption in the construction, maintenance or operation of any railway,
+
+and any such law imposing, or authorising the imposition of, a tax on the sale of electricity shall secure that the price of electricity sold to the Government of India for consumption by that Government, or to any such railway company as aforesaid for consumption in the construction, maintenance or operation of any railway, shall be less by the amount of the tax than the price charged to other consumers of a substantial quantity of electricity.

@@ -8,7 +8,7 @@ repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-101-vacation-of-seats/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 101. Vacation of seats
@@ -21,8 +21,8 @@ source_url: "https://www.constitutionofindia.net/articles/article-101-vacation-o
 
 (a) becomes subject to any of the disqualifications mentioned in clause (1) of article 102, or
 
-(b) resigns his seat by writing under his hand addressed to the Chairman or the Speaker, as the case may be, his seat shall thereupon become vacant.
+(b) resigns his seat by writing under his hand addressed to the Chairman or the Speaker, as the case may be,
 
+his seat shall thereupon become vacant.
 (4) If for a period of sixty days a member of either House of Parliament is without permission of the House absent from all meetings thereof, the House may declare his seat vacant:
-
 Provided that in computing the said period of sixty days no account shall be taken of any period during which the House is prorogued or is adjourned for more than four consecutive days.

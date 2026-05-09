@@ -1,17 +1,17 @@
 ---
 article: 108
 part: V
-title: "Joint sitting of both houses in certain cases"
+title: "Joint sitting of both Houses in certain cases"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-108-joint-sitting-of-both-houses-in-certain-cases/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 108. Joint sitting of both houses in certain cases
+# Article 108. Joint sitting of both Houses in certain cases
 
 (1) If after a Bill has been passed by one House and transmitted to the other House—
 
@@ -35,7 +35,7 @@ Provided that at a joint sitting—
 
 (a) if the Bill, having been passed by one House, has not been passed by the other House with amendments and returned to the House in which it originated, no amendment shall be proposed to the Bill other than such amendments (if any) as are made necessary by the delay in the passage of the Bill;
 
-(b) if the Bill has been so passed and returned, only such amendments as aforesaid shall be proposed to the Bill and such other amendments as are relevant to the matters with respect to which the Houses have not agreed;
+(b) if the Bill has been so passed and returned, only such amendments as aforesaid shall be proposed to the Bill and such other amendments as are relevant to the matters with respect to which the Houses have not agreed
 
 and the decision of the person presiding as to the amendments which are admissible under this clause shall be final.
 

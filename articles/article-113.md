@@ -1,17 +1,17 @@
 ---
 article: 113
 part: V
-title: "Procedure in parliament with respect to estimates"
+title: "Procedure in Parliament with respect to estimates"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
 source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-113-procedure-in-parliament-with-respect-to-estimates/"
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 113. Procedure in parliament with respect to estimates
+# Article 113. Procedure in Parliament with respect to estimates
 
 (1) So much of the estimates as relates to expenditure charged upon the Consolidated Fund of India shall not be submitted to the vote of Parliament, but nothing in this clause shall be construed as preventing the discussion in either House of Parliament of any of those estimates.
 
