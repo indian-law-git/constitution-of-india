@@ -5,8 +5,9 @@ title: "Taxes levied and collected by the Union but assigned to the States"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Sixth Amendment) Act, 1956"
+current_as_of: "1956-09-11"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -27,4 +28,8 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (f) taxes on the sale or purchase of newspapers and on advertisements published therein.
 
+(g) taxes on the sale or purchase of goods other than newspapers, where such sale or purchase takes place in the course of inter-State trade or commerce.
+
 (2) The net proceeds in any financial year of any such duty or tax, except in so far as those proceeds represent proceeds attributable to States specified in Part C of the First Schedule, shall not form part of the Consolidated Fund of India, but shall be assigned to the States within which that duty or tax is leviable in that year, and shall be distributed among those States in accordance with such principles of distribution as may be formulated by Parliament by law.
+
+(3) Parliament may by law formulate principles for determining when a sale or purchase of goods takes place in the course of inter-State trade or commerce.

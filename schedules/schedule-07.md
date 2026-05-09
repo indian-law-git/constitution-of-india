@@ -5,7 +5,8 @@ status: active
 inserted_by: original
 amended_by:
   - "The Constitution (Third Amendment) Act, 1954"
-current_as_of: "1955-02-22"
+  - "The Constitution (Sixth Amendment) Act, 1956"
+current_as_of: "1956-09-11"
 source: mixed
 ---
 
@@ -119,6 +120,7 @@ but including medicinal and toilet preparations containing alcohol or any substa
 90. Taxes other than stamp duties on transactions in stock exchanges and futures markets.
 91. Rates of stamp duty in respect of bills of exchange, cheques, promissory notes, bills of lading, letters of credit, policies of insurance, transfer of shares, debentures, proxies and receipts.
 92. Taxes on the sale or purchase of newspapers and on advertisements published therein.
+92A. Taxes on the sale or purchase of goods other than newspapers, where such sale or purchase takes place in the course of inter-State trade or commerce.
 93. Offences against laws with respect to any of the matters in this List.
 94. Inquiries, surveys and statistics for the purpose of any of the matters in this List.
 95. Jurisdiction and powers of all courts, except the Supreme Court, with respect to any of the matters in this List; admiralty jurisdiction.
@@ -239,7 +241,7 @@ but not including medicinal and toilet preparations containing alcohol or any su
 
 53. Taxes on the consumption or sale of electricity.
 
-54. Taxes on the sale or purchase of goods other than newspapers.
+54. Taxes on the sale or purchase of goods other than newspapers, subject to the provisions of entry 92A of List I.
 
 55. Taxes on advertisements other than advertisements published in the newspapers.
 
