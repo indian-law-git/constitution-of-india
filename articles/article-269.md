@@ -1,17 +1,18 @@
 ---
 article: 269
 part: XII
-title: "Taxes levied and collected by the union but assigned to the states"
+title: "Taxes levied and collected by the Union but assigned to the States"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by: []
 current_as_of: "1950-01-26"
-source: clpr
-source_url: "https://www.constitutionofindia.net/articles/article-269-taxes-levied-and-collected-by-the-union-but-assigned-to-the-states/"
+source: mixed
+source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
+note: "1950 marginal note casing restored ('Union' and 'States' capitalised) per CLPR consolidated /constitution-of-india-1950/ page; our slug-derived title had stripped both. Body unchanged."
 ---
 
-# Article 269. Taxes levied and collected by the union but assigned to the states
+# Article 269. Taxes levied and collected by the Union but assigned to the States
 
 (1) The following duties and taxes shall be levied and collected by the Government of India but shall be assigned to the States in the manner provided in clause (2), namely:—
 
