@@ -8,7 +8,8 @@ amended_by:
   - "The Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959"
   - "The Bombay Reorganisation Act, 1960"
   - "The State of Nagaland Act, 1962"
-current_as_of: "1962-09-04"
+  - "The Constitution (Fourteenth Amendment) Act, 1962"
+current_as_of: "1962-12-28"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
@@ -41,4 +42,5 @@ To each State or Union territory specified in the first column of the following 
 | 18. Himachal Pradesh | 2 |
 | 19. Manipur | 1 |
 | 20. Tripura | 1 |
-| **Total** | **225** |
+| 21. Pondicherry | 1 |
+| **Total** | **226** |

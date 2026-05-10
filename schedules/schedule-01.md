@@ -11,7 +11,8 @@ amended_by:
   - "The Constitution (Tenth Amendment) Act, 1961"
   - "The Constitution (Twelfth Amendment) Act, 1962"
   - "The State of Nagaland Act, 1962"
-current_as_of: "1962-09-04"
+  - "The Constitution (Fourteenth Amendment) Act, 1962"
+current_as_of: "1962-12-28"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
@@ -51,3 +52,4 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d68
 | 6. The Laccadive, Minicoy and Amindivi Islands | The territory specified in section 6 of the States Reorganisation Act, 1956. |
 | 7. Dadra and Nagar Haveli | The territory which immediately before the eleventh day of August, 1961 was comprised in Free Dadra and Nagar Haveli. |
 | 8. Goa, Daman and Diu | The territories which immediately before the twentieth day of December, 1961 were comprised in Goa, Daman and Diu. |
+| 9. Pondicherry | The territories which immediately before the sixteenth day of August, 1962, were comprised in the French Establishments in India known as Pondicherry, Karikal, Mahe and Yanam. |

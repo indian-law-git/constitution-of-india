@@ -8,7 +8,8 @@ repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Eleventh Amendment) Act, 1961"
-current_as_of: "1961-12-19"
+  - "The Constitution (Fourteenth Amendment) Act, 1962"
+current_as_of: "1962-12-28"
 ---
 
 # Part V — The Union

@@ -8,7 +8,8 @@ repealed_by: null
 amended_by:
   - "The Constitution (Second Amendment) Act, 1952"
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Fourteenth Amendment) Act, 1962"
+current_as_of: "1962-12-28"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
@@ -19,7 +20,7 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d68
 
 (a) not more than five hundred members chosen by direct election from territorial constituencies in the States, and
 
-(b) not more than twenty members to represent the Union territories, chosen in such manner as Parliament may by law provide.
+(b) not more than twenty-five members to represent the Union territories, chosen in such manner as Parliament may by law provide.
 
 (2) For the purposes of sub-clause (a) of clause (1) —
 
