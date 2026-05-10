@@ -1,17 +1,18 @@
 ---
 article: 334
 part: XVI
-title: "Reservation of seats and special representation to cease after ten years"
+title: "Reservation of seats and special representation to cease after twenty years"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Eighth Amendment) Act, 1959"
+current_as_of: "1960-01-05"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 334. Reservation of seats and special representation to cease after ten years
+# Article 334. Reservation of seats and special representation to cease after twenty years
 
 Notwithstanding anything in the foregoing provisions of this Part, the provisions of this Constitution relating to—
 
@@ -19,6 +20,6 @@ Notwithstanding anything in the foregoing provisions of this Part, the provision
 
 (b) the representation of the Anglo-Indian community in the House of the People and in the Legislative Assemblies of the States by nomination,
 
-shall cease to have effect on the expiration of a period of ten years from the commencement of this Constitution:
+shall cease to have effect on the expiration of a period of twenty years from the commencement of this Constitution:
 
 Provided that nothing in this article shall affect any representation in the House of the People or in the Legislative Assembly of a State until the dissolution of the then existing House or Assembly, as the case may be.
