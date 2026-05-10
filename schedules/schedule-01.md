@@ -5,7 +5,8 @@ status: active
 inserted_by: original
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Ninth Amendment) Act, 1960"
+current_as_of: "1960-12-28"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
@@ -17,7 +18,7 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d68
 | Name | Territories |
 |---|---|
 | 1. Andhra Pradesh | The territories specified in sub-section (1) of section 3 of the Andhra State Act, 1953, and the territories specified in sub-section (1) of section 3 of the States Reorganisation Act, 1956. |
-| 2. Assam | The territories which immediately before the commencement of this Constitution were comprised in the Province of Assam, the Khasi States and the Assam Tribal Areas, but excluding the territories specified in the Schedule to the Assam (Alteration of Boundaries) Act, 1951. |
+| 2. Assam | The territories which immediately before the commencement of this Constitution were comprised in the Province of Assam, the Khasi States and the Assam Tribal Areas, but excluding the territories specified in the Schedule to the Assam (Alteration of Boundaries) Act, 1951, and the territories referred to in Part I of the First Schedule to the Constitution (Ninth Amendment) Act, 1960. |
 | 3. Bihar | The territories which immediately before the commencement of this Constitution were either comprised in the Province of Bihar or were being administered as if they formed part of that Province, but excluding the territories specified in sub-section (1) of section 3 of the Bihar and West Bengal (Transfer of Territories) Act, 1956. |
 | 4. Bombay | The territories specified in sub-section (1) of section 8 of the States Reorganisation Act, 1956. |
 | 5. Kerala | The territories specified in sub-section (1) of section 5 of the States Reorganisation Act, 1956. |
@@ -25,10 +26,10 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d68
 | 7. Madras | The territories which immediately before the commencement of this Constitution were either comprised in the Province of Madras or were being administered as if they formed part of that Province and the territories specified in section 4 of the States Reorganisation Act, 1956, but excluding the territories specified in sub-section (1) of section 3 and sub-section (1) of section 4 of the Andhra State Act, 1953 and the territories specified in clause (b) of sub-section (1) of section 5, section 6 and clause (d) of sub-section (1) of section 7 of the States Reorganisation Act, 1956. |
 | 8. Mysore | The territories specified in sub-section (1) of section 7 of the States Reorganisation Act, 1956. |
 | 9. Orissa | The territories which immediately before the commencement of this Constitution were either comprised in the Province of Orissa or were being administered as if they formed part of that Province. |
-| 10. Punjab | The territories specified in section 11 of the States Reorganisation Act, 1956. |
+| 10. Punjab | The territories specified in section 11 of the States Reorganisation Act, 1956, but excluding the territories referred to in Part II of the First Schedule to the Constitution (Ninth Amendment) Act, 1960. |
 | 11. Rajasthan | The territories specified in section 10 of the States Reorganisation Act, 1956. |
 | 12. Uttar Pradesh | The territories which immediately before the commencement of this Constitution were either comprised in the Province known as the United Provinces or were being administered as if they formed part of that Province. |
-| 13. West Bengal | The territories which immediately before the commencement of this Constitution were either comprised in the Province of West Bengal or were being administered as if they formed part of that Province and the territory of Chandernagore as defined in clause (c) of section 2 of the Chandernagore (Merger) Act, 1954, and also the territories specified in sub-section (1) of section 3 of the Bihar and West Bengal (Transfer of Territories) Act, 1956. |
+| 13. West Bengal | The territories which immediately before the commencement of this Constitution were either comprised in the Province of West Bengal or were being administered as if they formed part of that Province and the territory of Chandernagore as defined in clause (c) of section 2 of the Chandernagore (Merger) Act, 1954, and also the territories specified in sub-section (1) of section 3 of the Bihar and West Bengal (Transfer of Territories) Act, 1956, but excluding the territories referred to in Part III of the First Schedule to the Constitution (Ninth Amendment) Act, 1960. |
 | 14. Jammu and Kashmir | The territory which immediately before the commencement of this Constitution was comprised in the Indian State of Jammu and Kashmir. |
 
 ## II. The Union Territories
@@ -38,6 +39,6 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d68
 | 1. Delhi | The territory which immediately before the commencement of this Constitution was comprised in the Chief Commissioner's Province of Delhi. |
 | 2. Himachal Pradesh | The territories which immediately before the commencement of this Constitution were being administered as if they were Chief Commissioner's Provinces under the names of Himachal Pradesh and Bilaspur. |
 | 3. Manipur | The territory which immediately before the commencement of this Constitution was being administered as if it were a Chief Commissioner's Province under the name of Manipur. |
-| 4. Tripura | The territory which immediately before the commencement of this Constitution was being administered as if it were a Chief Commissioner's Province under the name of Tripura. |
+| 4. Tripura | The territory which immediately before the commencement of this Constitution was being administered as if it were a Chief Commissioner's Province under the name of Tripura, but excluding the territories referred to in Part IV of the First Schedule to the Constitution (Ninth Amendment) Act, 1960. |
 | 5. The Andaman and Nicobar Islands | The territory which immediately before the commencement of this Constitution was comprised in the Chief Commissioner's Province of the Andaman and Nicobar Islands. |
 | 6. The Laccadive, Minicoy and Amindivi Islands | The territory specified in section 6 of the States Reorganisation Act, 1956. |
