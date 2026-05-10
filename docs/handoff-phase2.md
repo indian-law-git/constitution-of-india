@@ -26,6 +26,22 @@ amendment-001  6c3f148  1st Amendment (1951) — 14 articles + new 31A/31B + Nin
 
 **Archive branch** `archive/pre-redo-2026-05-09` (on origin) preserves the pre-redo work (the 6 amendments + 4 baseline-fix commits done against the old baseline).
 
+**Baseline branch** `baseline-1950` (on origin) is a long-lived parallel branch that mirrors what the 1950 Constitution *should* look like. It diverged from `v1.0-baseline` and accumulates only baseline-fix commits — never amendment commits. Use case:
+
+```bash
+git diff baseline-1950 main -- articles/article-X.md   # everything that's happened to article X since 1950
+```
+
+Workflow when a baseline gap surfaces (rare — should be rarer over time):
+
+1. Edit on `main`, commit as `Baseline fix: …`, push.
+2. `git checkout baseline-1950`, apply the same content diff (frontmatter stays in 1950-shape: no `amended_by`, `current_as_of: "1950-01-26"`), commit, push.
+3. `git checkout main` and continue.
+
+If the gap involves a clause/article that was later amended, the baseline-1950 version carries the **pre-amendment 1950 form**, while main carries the post-amendment form. (See Article 366 cl(30): "Uparajpramukh" on baseline-1950, "Union territory" on main.)
+
+**One known baseline gap closed so far:** Article 366 cl(22)-(30) — both branches updated 2026-05-09 from CLPR per-article scrape + manuscript verification. The CLPR consolidated 1950 page truncates at cl(21); per-article had all 30 in 1950-form but wasn't consulted at v1.0-baseline time. Manuscript verification surfaced one CLPR per-article drift: cl(22) cross-ref is "article 291" in 1950, not "article 363".
+
 ## 2. Pipeline cheat-sheet
 
 ```bash
