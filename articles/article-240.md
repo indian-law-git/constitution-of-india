@@ -8,7 +8,8 @@ repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Tenth Amendment) Act, 1961"
-current_as_of: "1961-08-16"
+  - "The Constitution (Twelfth Amendment) Act, 1962"
+current_as_of: "1962-03-27"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
@@ -21,6 +22,8 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d68
 
 (b) the Laccadive, Minicoy and Amindivi Islands;
 
-(c) Dadra and Nagar Haveli.
+(c) Dadra and Nagar Haveli;
+
+(d) Goa, Daman and Diu.
 
 (2) Any regulation so made may repeal or amend any Act made by Parliament or any existing law which is for the time being applicable to the Union territory and, when promulgated by the President, shall have the same force and effect as an Act of Parliament which applies to that territory.

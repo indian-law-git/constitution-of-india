@@ -8,7 +8,8 @@ repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Tenth Amendment) Act, 1961"
-current_as_of: "1961-08-16"
+  - "The Constitution (Twelfth Amendment) Act, 1962"
+current_as_of: "1962-03-27"
 ---
 
 # Part VIII — The Union Territories
