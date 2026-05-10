@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Eleventh Amendment) Act, 1961"
+current_as_of: "1961-12-19"
 ---
 
 # Part V — The Union

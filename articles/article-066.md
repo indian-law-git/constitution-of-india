@@ -7,14 +7,15 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Eleventh Amendment) Act, 1961"
+current_as_of: "1961-12-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 66. Election of Vice-President
 
-(1) The Vice-President shall be elected by the members of both Houses of Parliament assembled at a joint meeting in accordance with the system of proportional representation by means of the single transferable vote and the voting at such election shall be by secret ballot.
+(1) The Vice-President shall be elected by the members of an electoral college consisting of the members of both Houses of Parliament in accordance with the system of proportional representation by means of the single transferable vote and the voting at such election shall be by secret ballot.
 
 (2) The Vice-President shall not be a member of either House of Parliament or of a House of the Legislature of any State, and if a member of either House of Parliament or of a House of the Legislature of any State be elected Vice-President, he shall be deemed to have vacated his seat in that House on the date on which he enters upon his office as Vice-President.
 
