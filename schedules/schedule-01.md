@@ -6,7 +6,8 @@ inserted_by: original
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Ninth Amendment) Act, 1960"
-current_as_of: "1960-12-28"
+  - "The Constitution (Tenth Amendment) Act, 1961"
+current_as_of: "1961-08-16"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
@@ -42,3 +43,4 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d68
 | 4. Tripura | The territory which immediately before the commencement of this Constitution was being administered as if it were a Chief Commissioner's Province under the name of Tripura, but excluding the territories referred to in Part IV of the First Schedule to the Constitution (Ninth Amendment) Act, 1960. |
 | 5. The Andaman and Nicobar Islands | The territory which immediately before the commencement of this Constitution was comprised in the Chief Commissioner's Province of the Andaman and Nicobar Islands. |
 | 6. The Laccadive, Minicoy and Amindivi Islands | The territory specified in section 6 of the States Reorganisation Act, 1956. |
+| 7. Dadra and Nagar Haveli | The territory which immediately before the eleventh day of August, 1961 was comprised in Free Dadra and Nagar Haveli. |
