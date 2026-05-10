@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Fifteenth Amendment) Act, 1963"
+current_as_of: "1963-10-05"
 ---
 
 # Part XIV — Services under the Union and the States

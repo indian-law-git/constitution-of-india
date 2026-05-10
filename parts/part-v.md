@@ -9,7 +9,8 @@ amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Eleventh Amendment) Act, 1961"
   - "The Constitution (Fourteenth Amendment) Act, 1962"
-current_as_of: "1962-12-28"
+  - "The Constitution (Fifteenth Amendment) Act, 1963"
+current_as_of: "1963-10-05"
 ---
 
 # Part V — The Union

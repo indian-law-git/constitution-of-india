@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Fifteenth Amendment) Act, 1963"
+current_as_of: "1963-10-05"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -17,6 +18,8 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 (1) The Chairman and other members of a Public Service Commission shall be appointed, in the case of the Union Commission or a Joint Commission, by the President, and in the case of a State Commission, by the Governor of the State:
 
 Provided that as nearly as may be one-half of the members of every Public Service Commission shall be persons who at the dates of their respective appointments have held office for at least ten years either under the Government of India or under the Government of a State, and in computing the said period of ten years any period before the commencement of this Constitution during which a person has held office under the Crown in India or under the Government of an Indian State shall be included.
+
+(1A) If the office of the Chairman of the Commission becomes vacant or if any such Chairman is by reason of absence or for any other reason unable to perform the duties of his office, those duties shall, until some person appointed under clause (1) to the vacant office has entered on the duties thereof or, as the case may be, until the Chairman has resumed his duties, be performed by such one of the other members of the Commission as the President, in the case of the Union Commission or a Joint Commission, and the Governor of the State in the case of a State Commission, may appoint for the purpose.
 
 (2) A member of a Public Service Commission shall hold office for a term of six years from the date on which he enters upon his office or until he attains, in the case of the Union Commission, the age of sixty-five years, and in the case of a State Commission or a Joint Commission, the age of sixty years, whichever is earlier:
 

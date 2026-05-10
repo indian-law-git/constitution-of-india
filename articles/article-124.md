@@ -5,8 +5,9 @@ title: "Establishment and constitution of Supreme Court"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Fifteenth Amendment) Act, 1963"
+current_as_of: "1963-10-05"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -24,6 +25,8 @@ Provided further that—
 (a) a Judge may, by writing under his hand addressed to the President, resign his office;
 
 (b) a Judge may be removed from his office in the manner provided in clause (4).
+
+(2A) The age of a Judge of the Supreme Court shall be determined by such authority and in such manner as Parliament may by law provide.
 
 (3) A person shall not be qualified for appointment as a Judge of the Supreme Court unless he is a citizen of India and—
 

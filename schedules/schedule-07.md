@@ -7,7 +7,8 @@ amended_by:
   - "The Constitution (Third Amendment) Act, 1954"
   - "The Constitution (Sixth Amendment) Act, 1956"
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Fifteenth Amendment) Act, 1963"
+current_as_of: "1963-10-05"
 source: mixed
 ---
 
@@ -98,7 +99,7 @@ source: mixed
 75. Emoluments, allowances, privileges, and rights in respect of leave of absence, of the President and Governors; salaries and allowances of the Ministers for the Union; the salaries, allowances, and rights in respect of leave of absence and other conditions of service of the Comptroller and Auditor-General.
 76. Audit of the accounts of the Union and of the States.
 77. Constitution, organisation, jurisdiction and powers of the Supreme Court (including contempt of such Court), and the fees taken therein; persons entitled to practise before the Supreme Court.
-78. Constitution and organisation of the High Courts except provisions as to officers and servants of High Courts; persons entitled to practise before the High Courts.
+78. Constitution and organisation (including vacations) of the High Courts except provisions as to officers and servants of High Courts; persons entitled to practise before the High Courts.
 79. Extension of the jurisdiction of a High Court to, and exclusion of the jurisdiction of a High Court from, any Union territory.
 80. Extension of the powers and jurisdiction of members of a police force belonging to any State to any area outside that State, but not so as to enable the police of one State to exercise powers and jurisdiction in any area outside that State without the consent of the Government of the State in which such area is situated; extension of the powers and jurisdiction of members of a police force belonging to any State to railway areas outside that State.
 81. Inter-State migration; inter-State quarantine.
