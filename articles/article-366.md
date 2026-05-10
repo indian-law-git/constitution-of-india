@@ -10,7 +10,6 @@ amended_by:
 current_as_of: "1956-10-19"
 source: mixed
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
-note: "Baseline gap: clauses (22)–(29) of Article 366 are missing from both CLPR per-article and CLPR consolidated sources (both truncate at cl(21)). The 7th Amendment §29 Schedule omits clause (21) (Rajpramukh definition, no longer needed) and substitutes clause (30) with a new Union-territory definition; both edits applied here. Clauses (22)–(29) in their 1950 form are TODO — needs back-fill from Aggarwala 1950 facsimile or manuscript."
 ---
 
 # Article 366. Definitions
@@ -73,6 +72,20 @@ In this Constitution, unless the context otherwise requires, the following expre
 
 *[Clause (21) (definition of "Rajpramukh") omitted by section 29 + Schedule of The Constitution (Seventh Amendment) Act, 1956. The Rajpramukh office was tied to the Part B State category, which the same Act eliminated.]*
 
-*[Clauses (22)–(29) of the 1950 form are missing in this rendering — see frontmatter `note`.]*
+(22) "Ruler" in relation to an Indian State means the Prince, Chief or other person by whom any such covenant or agreement as is referred to in clause (1) of article 291 was entered into and who for the time being is recognised by the President as the Ruler of the State, and includes any person who for the time being is recognised by the President as the successor of such Ruler;
+
+(23) "Schedule" means a Schedule to this Constitution;
+
+(24) "Scheduled Castes" means such castes, races or tribes or parts of or groups within such castes, races or tribes as are deemed under article 341 to be Scheduled Castes for the purposes of this Constitution;
+
+(25) "Scheduled Tribes" means such tribes or tribal communities or parts of or groups within such tribes or tribal communities as are deemed under article 342 to be Scheduled Tribes for the purposes of this Constitution;
+
+(26) "securities" includes stock;
+
+(27) "sub-clause" means a sub-clause of the clause in which the expression occurs;
+
+(28) "taxation" includes the imposition of any tax or impost, whether general or local or special, and "tax" shall be construed accordingly;
+
+(29) "tax on income" includes a tax in the nature of an excess profits tax;
 
 (30) "Union territory" means any Union territory specified in the First Schedule and includes any other territory comprised within the territory of India but not specified in that Schedule.
