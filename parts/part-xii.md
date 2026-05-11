@@ -10,7 +10,8 @@ amended_by:
   - "The Constitution (Fifteenth Amendment) Act, 1963"
   - "The Constitution (Twenty-second Amendment) Act, 1969"
   - "The Constitution (Twenty-sixth Amendment) Act, 1971"
-current_as_of: "1971-12-28"
+  - "The Constitution (Fortieth Amendment) Act, 1976"
+current_as_of: "1976-05-27"
 ---
 
 # Part XII — Finance, Property, Contracts and Suits

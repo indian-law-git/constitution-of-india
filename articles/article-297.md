@@ -1,17 +1,22 @@
 ---
 article: 297
 part: XII
-title: "Things of value lying within territorial waters to vest in the Union"
+title: "Things of value within territorial waters or continental shelf and resources of the exclusive economic zone to vest in the Union"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Fifteenth Amendment) Act, 1963"
-current_as_of: "1963-10-05"
+  - "The Constitution (Fortieth Amendment) Act, 1976"
+current_as_of: "1976-05-27"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
-# Article 297. Things of value lying within territorial waters to vest in the Union
+# Article 297. Things of value within territorial waters or continental shelf and resources of the exclusive economic zone to vest in the Union
 
-All lands, minerals and other things of value underlying the ocean within the territorial waters or the continental shelf of India shall vest in the Union and be held for the purposes of the Union.
+(1) All lands, minerals and other things of value underlying the ocean within the territorial waters, or the continental shelf, or the exclusive economic zone, of India shall vest in the Union and be held for the purposes of the Union.
+
+(2) All other resources of the exclusive economic zone of India shall also vest in the Union and be held for the purposes of the Union.
+
+(3) The limits of the territorial waters, the continental shelf, the exclusive economic zone, and other maritime zones, of India shall be such as may be specified, from time to time, by or under any law made by Parliament.
