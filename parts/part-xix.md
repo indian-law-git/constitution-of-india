@@ -11,7 +11,8 @@ amended_by:
   - "The Constitution (Forty-second Amendment) Act, 1976"
   - "The Constitution (Forty-third Amendment) Act, 1977"
   - "The Constitution (Forty-fourth Amendment) Act, 1978"
-current_as_of: "1979-04-30"
+  - "The Constitution (Forty-sixth Amendment) Act, 1982"
+current_as_of: "1983-02-02"
 ---
 
 # Part XIX — Miscellaneous

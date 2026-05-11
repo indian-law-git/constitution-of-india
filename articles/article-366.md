@@ -10,7 +10,8 @@ amended_by:
   - "The Constitution (Twenty-sixth Amendment) Act, 1971"
   - "The Constitution (Forty-second Amendment) Act, 1976"
   - "The Constitution (Forty-third Amendment) Act, 1977"
-current_as_of: "1978-04-13"
+  - "The Constitution (Forty-sixth Amendment) Act, 1982"
+current_as_of: "1983-02-02"
 source: mixed
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -94,5 +95,21 @@ In this Constitution, unless the context otherwise requires, the following expre
 (28) "taxation" includes the imposition of any tax or impost, whether general or local or special, and "tax" shall be construed accordingly;
 
 (29) "tax on income" includes a tax in the nature of an excess profits tax;
+
+(29A) "tax on the sale or purchase of goods" includes—
+
+(a) a tax on the transfer, otherwise than in pursuance of a contract, of property in any goods for cash, deferred payment or other valuable consideration;
+
+(b) a tax on the transfer of property in goods (whether as goods or in some other form) involved in the execution of a works contract;
+
+(c) a tax on the delivery of goods on hire-purchase or any system of payment by instalments;
+
+(d) a tax on the transfer of the right to use any goods for any purpose (whether or not for a specified period) for cash, deferred payment or other valuable consideration;
+
+(e) a tax on the supply of goods by any unincorporated association or body of persons to a member thereof for cash, deferred payment or other valuable consideration;
+
+(f) a tax on the supply, by way of or as part of any service or in any other manner whatsoever, of goods, being food or any other article for human consumption or any drink (whether or not intoxicating), where such supply or service is for cash, deferred payment or other valuable consideration,
+
+and such transfer, delivery or supply of any goods shall be deemed to be a sale of those goods by the person making the transfer, delivery or supply and a purchase of those goods by the person to whom such transfer, delivery or supply is made;
 
 (30) "Union territory" means any Union territory specified in the First Schedule and includes any other territory comprised within the territory of India but not specified in that Schedule.
