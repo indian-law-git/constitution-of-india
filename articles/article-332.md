@@ -8,14 +8,15 @@ repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Twenty-third Amendment) Act, 1969"
-current_as_of: "1970-01-23"
+  - "The Constitution (Thirty-first Amendment) Act, 1973"
+current_as_of: "1973-10-17"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 332. Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States
 
-(1) Seats shall be reserved for the Scheduled Castes and the Scheduled Tribes, except the Scheduled Tribes in the tribal areas of Assam and in Nagaland, in the Legislative Assembly of every State.
+(1) Seats shall be reserved for the Scheduled Castes and the Scheduled Tribes, except the Scheduled Tribes in the tribal areas of Assam, in Nagaland and in Meghalaya, in the Legislative Assembly of every State.
 
 (2) Seats shall be reserved also for the autonomous districts in the Legislative Assembly of the State of Assam.
 

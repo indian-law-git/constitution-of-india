@@ -9,7 +9,8 @@ amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Eighth Amendment) Act, 1959"
   - "The Constitution (Twenty-third Amendment) Act, 1969"
-current_as_of: "1970-01-23"
+  - "The Constitution (Thirty-first Amendment) Act, 1973"
+current_as_of: "1973-10-17"
 ---
 
 # Part XVI — Special Provisions relating to certain Classes
