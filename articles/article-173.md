@@ -5,8 +5,9 @@ title: "Qualification for membership of the State Legislature"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Sixteenth Amendment) Act, 1963"
+current_as_of: "1963-10-05"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -15,7 +16,7 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 A person shall not be qualified to be chosen to fill a seat in the Legislature of a State unless he—
 
-(a) is a citizen of India;
+(a) is a citizen of India, and makes and subscribes before some person authorized in that behalf by the Election Commission an oath or affirmation according to the form set out for the purpose in the Third Schedule;
 
 (b) is, in the case of a seat in the Legislative Assembly, not less than twenty-five years of age and, in the case of a seat in the Legislative Council, not less than thirty years of age; and
 

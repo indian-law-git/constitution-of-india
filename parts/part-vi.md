@@ -8,6 +8,7 @@ repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Fifteenth Amendment) Act, 1963"
+  - "The Constitution (Sixteenth Amendment) Act, 1963"
 current_as_of: "1963-10-05"
 ---
 

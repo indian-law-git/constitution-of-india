@@ -10,6 +10,7 @@ amended_by:
   - "The Constitution (Eleventh Amendment) Act, 1961"
   - "The Constitution (Fourteenth Amendment) Act, 1962"
   - "The Constitution (Fifteenth Amendment) Act, 1963"
+  - "The Constitution (Sixteenth Amendment) Act, 1963"
 current_as_of: "1963-10-05"
 ---
 
