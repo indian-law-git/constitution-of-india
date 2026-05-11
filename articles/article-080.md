@@ -8,14 +8,15 @@ repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Thirty-fifth Amendment) Act, 1974"
-current_as_of: "1975-02-22"
+  - "The Constitution (Thirty-sixth Amendment) Act, 1975"
+current_as_of: "1975-05-16"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 80. Composition of the Council of States
 
-(1) Subject to the provisions of paragraph 4 of the Tenth Schedule, the Council of States shall consist of—
+(1) The Council of States shall consist of—
 
 (a) twelve members to be nominated by the President in accordance with the provisions of clause (3); and
 

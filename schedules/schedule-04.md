@@ -14,7 +14,8 @@ amended_by:
   - "The State of Himachal Pradesh Act, 1970"
   - "The North-Eastern Areas (Reorganisation) Act, 1971"
   - "The Mysore State (Alteration of Name) Act, 1973"
-current_as_of: "1973-11-01"
+  - "The Constitution (Thirty-sixth Amendment) Act, 1975"
+current_as_of: "1975-05-16"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
@@ -48,8 +49,9 @@ To each State or Union territory specified in the first column of the following 
 | 19. Manipur | 1 |
 | 20. Tripura | 1 |
 | 21. Meghalaya | 1 |
-| 22. Delhi | 3 |
-| 23. Pondicherry | 1 |
-| 24. Mizoram | 1 |
-| 25. Arunachal Pradesh | 1 |
-| **Total** | **231** |
+| 22. Sikkim | 1 |
+| 23. Delhi | 3 |
+| 24. Pondicherry | 1 |
+| 25. Mizoram | 1 |
+| 26. Arunachal Pradesh | 1 |
+| **Total** | **232** |

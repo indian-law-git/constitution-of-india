@@ -17,7 +17,8 @@ amended_by:
   - "The State of Himachal Pradesh Act, 1970"
   - "The North-Eastern Areas (Reorganisation) Act, 1971"
   - "The Mysore State (Alteration of Name) Act, 1973"
-current_as_of: "1973-11-01"
+  - "The Constitution (Thirty-sixth Amendment) Act, 1975"
+current_as_of: "1975-05-16"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
@@ -49,6 +50,7 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d68
 | 19. Manipur | The territories which immediately before the day appointed under section 2 of the North-Eastern Areas (Reorganisation) Act, 1971, were comprised in the Union territory of Manipur. |
 | 20. Tripura | The territories which immediately before the day appointed under section 2 of the North-Eastern Areas (Reorganisation) Act, 1971, were comprised in the Union territory of Tripura, but excluding the territories referred to in Part IV of the First Schedule to the Constitution (Ninth Amendment) Act, 1960. |
 | 21. Meghalaya | The territories specified in section 5 of the North-Eastern Areas (Reorganisation) Act, 1971. |
+| 22. Sikkim | The territories which immediately before the commencement of the Constitution (Thirty-sixth Amendment) Act, 1975, were comprised in Sikkim. |
 
 ## II. The Union Territories
 

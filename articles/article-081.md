@@ -11,14 +11,15 @@ amended_by:
   - "The Constitution (Fourteenth Amendment) Act, 1962"
   - "The Constitution (Thirty-first Amendment) Act, 1973"
   - "The Constitution (Thirty-fifth Amendment) Act, 1974"
-current_as_of: "1975-02-22"
+  - "The Constitution (Thirty-sixth Amendment) Act, 1975"
+current_as_of: "1975-05-16"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
 
 # Article 81. Composition of the House of the People
 
-(1) Subject to the provisions of article 331 and paragraph 4 of the Tenth Schedule, the House of the People shall consist of —
+(1) Subject to the provisions of article 331, the House of the People shall consist of —
 
 (a) not more than five hundred and twenty-five members chosen by direct election from territorial constituencies in the States, and
 

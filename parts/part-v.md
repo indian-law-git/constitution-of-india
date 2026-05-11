@@ -15,7 +15,8 @@ amended_by:
   - "The Constitution (Thirty-first Amendment) Act, 1973"
   - "The Constitution (Thirty-third Amendment) Act, 1974"
   - "The Constitution (Thirty-fifth Amendment) Act, 1974"
-current_as_of: "1975-02-22"
+  - "The Constitution (Thirty-sixth Amendment) Act, 1975"
+current_as_of: "1975-05-16"
 ---
 
 # Part V — The Union
