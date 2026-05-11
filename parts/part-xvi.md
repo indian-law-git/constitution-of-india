@@ -11,7 +11,8 @@ amended_by:
   - "The Constitution (Twenty-third Amendment) Act, 1969"
   - "The Constitution (Thirty-first Amendment) Act, 1973"
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-fifth Amendment) Act, 1980"
+current_as_of: "1980-04-14"
 ---
 
 # Part XVI — Special Provisions relating to certain Classes
