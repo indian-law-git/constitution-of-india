@@ -9,7 +9,8 @@ amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Fifteenth Amendment) Act, 1963"
   - "The Constitution (Twenty-eighth Amendment) Act, 1972"
-current_as_of: "1972-08-27"
+  - "The Constitution (Forty-first Amendment) Act, 1976"
+current_as_of: "1976-08-18"
 ---
 
 # Part XIV — Services under the Union and the States
