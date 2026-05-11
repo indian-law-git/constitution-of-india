@@ -2,16 +2,17 @@
 article: 362
 part: XIX
 title: "Rights and privileges of Rulers of Indian States"
-status: active
+status: repealed
 inserted_by: original
-repealed_by: null
+repealed_by: "The Constitution (Twenty-sixth Amendment) Act, 1971"
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Twenty-sixth Amendment) Act, 1971"
+current_as_of: "1971-12-28"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 362. Rights and privileges of Rulers of Indian States
 
-In the exercise of the power of Parliament or of the Legislature of a State to make laws or in the exercise of the executive power of the Union or of a State, due regard shall be had to the guarantee or assurance given under any such covenant or agreement as is referred to in article 291 with respect to the personal rights, privileges and dignities of the Ruler of an Indian State.
+*[Section 2 of the 26th Amendment omitted Article 362. The recognition of Rulers ceased and their rights, privileges and dignities were extinguished by new Article 363A inserted in the same Act.]*

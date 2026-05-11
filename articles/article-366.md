@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Twenty-sixth Amendment) Act, 1971"
+current_as_of: "1971-12-28"
 source: mixed
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -72,7 +73,7 @@ In this Constitution, unless the context otherwise requires, the following expre
 
 *[Clause (21) (definition of "Rajpramukh") omitted by section 29 + Schedule of The Constitution (Seventh Amendment) Act, 1956. The Rajpramukh office was tied to the Part B State category, which the same Act eliminated.]*
 
-(22) "Ruler" in relation to an Indian State means the Prince, Chief or other person by whom any such covenant or agreement as is referred to in clause (1) of article 291 was entered into and who for the time being is recognised by the President as the Ruler of the State, and includes any person who for the time being is recognised by the President as the successor of such Ruler;
+(22) "Ruler" means the Prince, Chief or other person who, at any time before the commencement of the Constitution (Twenty-sixth Amendment) Act, 1971, was recognised by the President as the Ruler of an Indian State or any person who, at any time before such commencement, was recognised by the President as the successor of such Ruler;
 
 (23) "Schedule" means a Schedule to this Constitution;
 
