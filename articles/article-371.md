@@ -1,20 +1,21 @@
 ---
 article: 371
 part: XXI
-title: "Special provision with respect to the States of Andhra Pradesh, Punjab and Bombay"
+title: "Special provision with respect to the States of Punjab and Bombay"
 status: active
 inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Thirty-second Amendment) Act, 1973"
+current_as_of: "1974-05-03"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
 
-# Article 371. Special provision with respect to the States of Andhra Pradesh, Punjab and Bombay
+# Article 371. Special provision with respect to the States of Punjab and Bombay
 
-(1) Notwithstanding anything in this Constitution, the President may, by order made with respect to the State of Andhra Pradesh or Punjab, provide for the constitution and functions of regional committees of the Legislative Assembly of the State, for the modifications to be made in the rules of business of the Government and in the rules of procedure of the Legislative Assembly of the State and for any special responsibility of the Governor in order to secure the proper functioning of the regional committees.
+*[Clause (1) (regional committees of the Legislative Assembly for the States of Andhra Pradesh or Punjab) omitted by section 2 of The Constitution (Thirty-second Amendment) Act, 1973. The Andhra Pradesh-specific framework was reconstituted as Article 371D inserted by the same Act.]*
 
 (2) Notwithstanding anything in this Constitution, the President may by order made with respect to the State of Bombay, provide for any special responsibility of the Governor for —
 

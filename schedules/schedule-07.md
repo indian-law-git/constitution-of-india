@@ -8,7 +8,8 @@ amended_by:
   - "The Constitution (Sixth Amendment) Act, 1956"
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Fifteenth Amendment) Act, 1963"
-current_as_of: "1963-10-05"
+  - "The Constitution (Thirty-second Amendment) Act, 1973"
+current_as_of: "1974-05-03"
 source: mixed
 ---
 
@@ -77,7 +78,7 @@ source: mixed
 60. Sanctioning of cinematograph films for exhibition.
 61. Industrial disputes concerning Union employees.
 62. The institutions known at the commencement of this Constitution as the National Library, the Indian Museum, the Imperial War Museum, the Victoria Memorial and the Indian War Memorial, and any other like institution financed by the Government of India wholly or in part and declared by Parliament by law to be an institution of national importance.
-63. The institutions known at the commencement of this Constitution as the Benares Hindu University, the Aligarh Muslim University and the Delhi University, and any other institution declared by Parliament by law to be an institution of national importance.
+63. The institutions known at the commencement of this Constitution as the Benares Hindu University, the Aligarh Muslim University and the Delhi University; the University established in pursuance of article 371E; any other institution declared by Parliament by law to be an institution of national importance.
 64. Institutions for scientific or technical education financed by the Government of India wholly or in part and declared by Parliament by law to be institutions of national importance.
 65. Union agencies and institutions for—
 
