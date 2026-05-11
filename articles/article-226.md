@@ -8,14 +8,15 @@ repealed_by: null
 amended_by:
   - "The Constitution (Fifteenth Amendment) Act, 1963"
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-third Amendment) Act, 1977"
+current_as_of: "1978-04-13"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/a9a6ff5abe015dc06b265ecc9485f7a7.pdf"
 ---
 
 # Article 226. Power of High Courts to issue certain writs
 
-(1) Notwithstanding anything in article 32 but subject to the provisions of article 131A and article 226A, every High Court shall have power, throughout the territories in relation to which it exercises jurisdiction, to issue to any person or authority, including in appropriate cases, any Government, within those territories directions, orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, or any of them,—
+(1) Notwithstanding anything in article 32, every High Court shall have power, throughout the territories in relation to which it exercises jurisdiction, to issue to any person or authority, including in appropriate cases, any Government, within those territories directions, orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, or any of them,—
 
 (a) for the enforcement of any of the rights conferred by the provisions of Part III; or
 

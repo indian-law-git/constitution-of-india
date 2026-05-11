@@ -9,7 +9,8 @@ amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Twenty-sixth Amendment) Act, 1971"
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-third Amendment) Act, 1977"
+current_as_of: "1978-04-13"
 ---
 
 # Part XIX — Miscellaneous

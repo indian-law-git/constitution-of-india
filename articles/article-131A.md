@@ -2,40 +2,17 @@
 article: 131A
 part: V
 title: "Exclusive jurisdiction of the Supreme Court in regard to questions as to Constitutional validity of Central laws"
-status: active
+status: repealed
 inserted_by: "The Constitution (Forty-second Amendment) Act, 1976"
-repealed_by: null
+repealed_by: "The Constitution (Forty-third Amendment) Act, 1977"
 amended_by:
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-third Amendment) Act, 1977"
+current_as_of: "1978-04-13"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/a9a6ff5abe015dc06b265ecc9485f7a7.pdf"
 ---
 
 # Article 131A. Exclusive jurisdiction of the Supreme Court in regard to questions as to Constitutional validity of Central laws
 
-(1) Notwithstanding anything contained in any other provision of this Constitution, the Supreme Court shall, to the exclusion of any other court, have jurisdiction to determine all questions relating to the constitutional validity of any Central law.
-
-(2) Where a High Court is satisfied—
-
-(a) that a case pending before it or before a court subordinate to it involves questions as to the constitutional validity of any Central law or, as the case may be, of both Central and State laws; and
-
-(b) that the determination of such questions is necessary for the disposal of the case,
-
-the High Court shall refer the questions for the decision of the Supreme Court.
-
-(3) Without prejudice to the provisions of clause (2), where, on an application made by the Attorney-General of India, the Supreme Court is satisfied,—
-
-(a) that a case pending before a High Court or before a court subordinate to a High Court involves questions as to the constitutional validity of any Central law or, as the case may be, of both Central and State laws; and
-
-(b) that the determination of such questions is necessary for the disposal of the case,
-
-the Supreme Court may require the High Court to refer the questions to it for its decision.
-
-(4) When a reference is made under clause (2) or clause (3), the High Court shall stay all proceedings in respect of the case until the Supreme Court decides the questions so referred.
-
-(5) The Supreme Court shall, after giving the parties an opportunity of being heard, decide the questions so referred, and may—
-
-(a) either dispose of the case itself; or
-
-(b) return the case to the High Court together with a copy of its judgment on such questions for disposal of the case in conformity with such judgment by the High Court or, as the case may be, the court subordinate to it.
+*[Article 131A omitted by section 4(1) of The Constitution (Forty-third Amendment) Act, 1977. A saving in section 4(2) allowed the Supreme Court to dispose of pending references — either to handle them as if 131A still applied or to return them to the originating High Court — having regard to the stage of pendency and the ends of justice.]*
