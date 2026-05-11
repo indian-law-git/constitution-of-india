@@ -10,7 +10,8 @@ amended_by:
   - "The Constitution (Tenth Amendment) Act, 1961"
   - "The Constitution (Twelfth Amendment) Act, 1962"
   - "The Constitution (Fourteenth Amendment) Act, 1962"
-current_as_of: "1962-12-28"
+  - "The Constitution (Twenty-seventh Amendment) Act, 1971"
+current_as_of: "1971-12-30"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
@@ -27,8 +28,14 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d68
 
 (d) Goa, Daman and Diu;
 
-(e) Pondicherry:
+(e) Pondicherry;
 
-Provided that when any body is created under article 239A to function as a Legislature for the Union territory of Goa, Daman and Diu or Pondicherry, the President shall not make any regulation for the peace, progress and good government of that Union territory with effect from the date appointed for the first meeting of the Legislature.
+(f) Mizoram;
 
-(2) Any regulation so made may repeal or amend any Act made by Parliament or any existing law which is for the time being applicable to the Union territory and, when promulgated by the President, shall have the same force and effect as an Act of Parliament which applies to that territory.
+(g) Arunachal Pradesh:
+
+Provided that when any body is created under article 239A to function as a Legislature for the Union territory of Goa, Daman and Diu, Pondicherry or Mizoram, the President shall not make any regulation for the peace, progress and good government of that Union territory with effect from the date appointed for the first meeting of the Legislature.
+
+Provided further that whenever the body functioning as a Legislature for the Union territory of Goa, Daman and Diu, Pondicherry or Mizoram is dissolved, or the functioning of that body as such Legislature remains suspended on account of any action taken under any such law as is referred to in clause (1) of article 239A, the President may, during the period of such dissolution or suspension, make regulations for the peace, progress and good government of that Union territory.
+
+(2) Any regulation so made may repeal or amend any Act made by Parliament or any other law which is for the time being applicable to the Union territory and, when promulgated by the President, shall have the same force and effect as an Act of Parliament which applies to that territory.
