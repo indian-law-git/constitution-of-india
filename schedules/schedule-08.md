@@ -3,8 +3,9 @@ schedule: 8
 title: "Eighth Schedule — Languages"
 status: active
 inserted_by: original
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Twenty-first Amendment) Act, 1967"
+current_as_of: "1967-04-10"
 source: clpr
 ---
 
@@ -32,8 +33,10 @@ source: clpr
 
 11. Sanskrit.
 
-12. Tamil.
+12. Sindhi.
 
-13. Telugu.
+13. Tamil.
 
-14. Urdu.
+14. Telugu.
+
+15. Urdu.
