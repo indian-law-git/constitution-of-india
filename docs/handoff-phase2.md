@@ -10,19 +10,31 @@ This file is the canonical re-onboarding doc for resuming Phase 2 work in a fres
 
 **Tagged**: [`v1.0-baseline`](https://github.com/indian-law-git/constitution-of-india/releases/tag/v1.0-baseline) — the **corrected** 1950 baseline (re-rendered from CLPR's consolidated `/constitution/constitution-of-india-1950/` page; schedules audited against the Aggarwala facsimile and verified against the calligraphic 1950 manuscript). The earlier baseline carried CLPR per-article drift; the redo (commit `60f2d44`) replaced it.
 
-**Phase 2 underway. 7 of 106 amendments landed:**
+**Phase 2 underway. 41 of 106 amendments landed:**
+
+Latest 12 tagged commits (most recent first):
 
 ```
-amendment-007  db7b020  7th Amendment (1956) — States Reorganisation. 132 files, ~95 articles, 6 new, 19 repealed.
-amendment-006  7c97c3c  6th Amendment (1956) — Schedule 7 + Articles 269, 286 (inter-State sales tax framework)
-amendment-005  69e74dc  5th Amendment (1955) — Article 3 proviso substituted
-amendment-004  a029388  4th Amendment (1955) — Articles 31, 31A, 305 + Schedule 9 entries 14-20
-amendment-003  c08b5d2  3rd Amendment (1954) — Schedule 7 List III entry 33 substituted (essential commodities)
-amendment-002  2fdd5f0  2nd Amendment (1952) — Article 81(1)(b) drops 750k floor
-amendment-001  6c3f148  1st Amendment (1951) — 14 articles + new 31A/31B + Ninth Schedule + parts tracking
+amendment-041  0153dc3  41A (1976) — Article 316(2) State/Joint PSC age 60→62
+amendment-040  e597d0d  40A (1976) — Article 297 EEZ added; Ninth Schedule +64 entries (incl. SAFEMA, ULC, MV Act 66A)
+amendment-039  b2ad679  39A (1975) — Article 71 restructured; new Article 329A (Indira Gandhi election ouster); Ninth Schedule +38 entries (incl. RPA 1951)
+amendment-038  a0c7ae5  38A (1975) — Emergency-era ouster: judicial review of Presidential/Governor/Administrator satisfaction barred across articles 123, 213, 239B, 352, 356, 359, 360
+amendment-037  72d78ae  37A (1975) — Arunachal Pradesh added to articles 239A and 240 UT-legislature framework
+amendment-036  767dd3d  36A (1975) — Sikkim becomes full State; 35A's associated-state framework dismantled; new Article 371F
+                                    [pre-36A correction commit 58ea4d2: applied PRA 1966, Madras Rename 1968, HP State Act 1970, NEAR 1971, Mysore Rename 1973]
+amendment-035  d1917d2  35A (1974) — Sikkim as associated state; new Article 2A and Tenth Schedule
+amendment-034  36af13a  34A (1974) — Ninth Schedule +20 entries
+amendment-033  16da40d  33A (1974) — Articles 101/190 — MP/MLA resignation requires Speaker/Chairman acceptance
+amendment-032  ...     32A (1973) — Article 371D / 371E inserted; Article 371 cl(1) omitted with placeholder; Schedule 7 entry 63 substituted
+amendment-031  ...     31A (1973) — LS seat limits 500→525 / 25→20; ST exclusions extended to Meghalaya/Arunachal/Mizoram
+amendment-030  ...     30A (1972) — Article 133(1) civil appeals restricted to "substantial question of law of general importance"
 ```
 
-**99 amendments remain.**
+**Two correction commits in the timeline so far:** (consolidate non-368 Acts before an amendment that operates on a state we couldn't reach with 368-only)
+- `3bf5179` Pre-14A correction — APM 1959 + BRA 1960 + SNA 1962 applied to Schedules 1 and 4
+- `58ea4d2` Pre-36A correction — PRA 1966 + Madras Rename 1968 + HP State Act 1970 + NEAR 1971 + Mysore Rename 1973 applied to Schedules 1 and 4
+
+**65 amendments remain.** Next: **42A** — the Mini-Constitution, biggest amendment ever (~50 articles touched, multiple new parts/schedules). Will need substantial preparation.
 
 **Archive branch** `archive/pre-redo-2026-05-09` (on origin) preserves the pre-redo work (the 6 amendments + 4 baseline-fix commits done against the old baseline).
 
@@ -41,6 +53,21 @@ Workflow when a baseline gap surfaces (rare — should be rarer over time):
 If the gap involves a clause/article that was later amended, the baseline-1950 version carries the **pre-amendment 1950 form**, while main carries the post-amendment form. (See Article 366 cl(30): "Uparajpramukh" on baseline-1950, "Union territory" on main.)
 
 **One known baseline gap closed so far:** Article 366 cl(22)-(30) — both branches updated 2026-05-09 from CLPR per-article scrape + manuscript verification. The CLPR consolidated 1950 page truncates at cl(21); per-article had all 30 in 1950-form but wasn't consulted at v1.0-baseline time. Manuscript verification surfaced one CLPR per-article drift: cl(22) cross-ref is "article 291" in 1950, not "article 363".
+
+## Working conventions developed in this phase
+
+Saved as memory files under `~/.claude/projects/-Users-akash-github-constitution-of-india/memory/`:
+
+1. **`current_as_of` = assent date, always.** All textual changes (including those gated on Presidential notification or "appointed day") are applied at the Act's Presidential assent date. Operational deferrals live in commit messages, not frontmatter.
+2. **Correction commits between amendments.** At most ONE correction commit between any two amendments. Accumulates non-368 Act changes (state reorganisation Acts, etc.) plus discovered baseline fixes. Amendment commits stay pristine — show only what the Act did.
+3. **Clause omission convention.** When an amendment omits a clause within a multi-clause article, KEEP original numbering of remaining clauses (don't renumber). Insert an italic placeholder marker for the omitted clause. Distinct from full-article repeal or amendment-mandated renumber/re-letter.
+4. **Schedule 4 reconstruction pattern.** When a 368-amendment operates on a Schedule 4 entry-number/total that doesn't match our state, research the intervening non-368 Acts (state reorganisation, alteration-of-name, NE reorganisation, HP state act, etc.) and apply them all in one correction commit. See pre-14A and pre-36A commits as templates.
+
+## Notable threading through the timeline
+
+- **35A → 36A (12 weeks)**: the Sikkim associated-state framework lived only briefly. Tenth Schedule (Sikkim) was repealed by 36A; the "Tenth Schedule" slot was reused by 52A in 1985 for the anti-defection law (different content entirely).
+- **38A → 39A → 40A (Emergency-era cluster, 1975-76)**: all three apply during Emergency. 38A immunises Presidential satisfaction; 39A retrospectively shields PM/Speaker elections (Article 329A); 40A adds EEZ and inflates Ninth Schedule by 64 entries. Several 38A/39A provisions are reversed by 44A in 1978.
+- **39A cl(4) of Article 329A** struck down in Indira Nehru Gandhi v. Raj Narain (Nov 1975); entire Article 329A omitted by 44A.
 
 ## 2. Pipeline cheat-sheet
 
