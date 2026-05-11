@@ -11,7 +11,8 @@ amended_by:
   - "The Constitution (Fourteenth Amendment) Act, 1962"
   - "The Constitution (Fifteenth Amendment) Act, 1963"
   - "The Constitution (Sixteenth Amendment) Act, 1963"
-current_as_of: "1963-10-05"
+  - "The Constitution (Thirtieth Amendment) Act, 1972"
+current_as_of: "1973-02-22"
 ---
 
 # Part V — The Union
