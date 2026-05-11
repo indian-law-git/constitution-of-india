@@ -8,7 +8,8 @@ repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Fifteenth Amendment) Act, 1963"
-current_as_of: "1963-10-05"
+  - "The Constitution (Twenty-second Amendment) Act, 1969"
+current_as_of: "1969-11-25"
 ---
 
 # Part XII — Finance, Property, Contracts and Suits

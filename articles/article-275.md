@@ -5,8 +5,9 @@ title: "Grants from the Union to certain States"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Twenty-second Amendment) Act, 1969"
+current_as_of: "1969-11-25"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -22,6 +23,12 @@ Provided further that there shall be paid out of the Consolidated Fund of India 
 (a) the average excess of expenditure over the revenues during the two years immediately preceding the commencement of this Constitution in respect of the administration of the tribal areas specified in Part A of the table appended to paragraph 20 of the Sixth Schedule; and
 
 (b) the costs of such schemes of development as may be undertaken by that State with the approval of the Government of India for the purpose of raising the level of administration of the said areas to that of the administration of the rest of the areas of that State.
+
+(1A) On and from the formation of the autonomous State under article 244A—
+
+(i) any sums payable under clause (a) of the second proviso to clause (1) shall, if the autonomous State comprises all the tribal areas referred to therein, be paid to the autonomous State, and, if the autonomous State comprises only some of those tribal areas, be apportioned between the State of Assam and the autonomous State as the President may, by order, specify;
+
+(ii) there shall be paid out of the Consolidated Fund of India as grants-in-aid of the revenues of the autonomous State sums, capital and recurring, equivalent to the costs of such schemes of development as may be undertaken by the autonomous State with the approval of the Government of India for the purpose of raising the level of administration of that State to that of the administration of the rest of the State of Assam.
 
 (2) Until provision is made by Parliament under clause (1), the powers conferred on Parliament under that clause shall be exercisable by the President by order and any order made by the President under this clause shall have effect subject to any provision so made by Parliament:
 
