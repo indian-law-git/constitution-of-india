@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -16,7 +17,7 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (1) A person shall be disqualified for being chosen as, and for being, a member of the Legislative Assembly or Legislative Council of a State—
 
-(a) if he holds any such office of profit under the Government of India or the Government of any State specified in the First Schedule as is declared by Parliament by law to disqualify its holder;
+(a) if he holds any office of profit under the Government of India or the Government of any State specified in the First Schedule, other than an office declared by the Legislature of the State by law not to disqualify its holder;
 
 (b) if he is of unsound mind and stands so declared by a competent court;
 

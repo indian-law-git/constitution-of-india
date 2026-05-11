@@ -11,7 +11,8 @@ amended_by:
   - "The Constitution (Thirty-fourth Amendment) Act, 1974"
   - "The Constitution (Thirty-ninth Amendment) Act, 1975"
   - "The Constitution (Fortieth Amendment) Act, 1976"
-current_as_of: "1976-05-27"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/68badaa2da25d641c51992f854344773.pdf"
 ---
@@ -192,7 +193,7 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/68badaa2da25d
 
 86. The Tripura Land Revenue and Land Reforms (Second Amendment) Act, 1974 (Tripura Act 7 of 1974).
 
-87. The Representation of the People Act, 1951 (Central Act 43 of 1951), the Representation of the People (Amendment) Act, 1974 (Central Act 58 of 1974) and the Election Laws (Amendment) Act, 1975 (Central Act 40 of 1975).
+*87. [Omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 44.]*
 
 88. The Industries (Development and Regulation) Act, 1951 (Central Act 65 of 1951).
 
@@ -202,7 +203,7 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/68badaa2da25d
 
 91. The Monopolies and Restrictive Trade Practices Act, 1969 (Central Act 54 of 1969).
 
-92. The Maintenance of Internal Security Act, 1971 (Central Act 26 of 1971).
+*92. [Omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 44.]*
 
 93. The Coking Coal Mines (Emergency Provisions) Act, 1971 (Central Act 64 of 1971).
 
@@ -278,7 +279,7 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/68badaa2da25d
 
 129. The Conservation of Foreign Exchange and Prevention of Smuggling Activities (Amendment) Act, 1976 (Central Act 20 of 1976).
 
-130. The Prevention of Publication of Objectionable Matter Act, 1976 (Central Act 27 of 1976).
+*130. [Omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 44.]*
 
 131. The Levy Sugar Price Equalisation Fund Act, 1976 (Central Act 31 of 1976).
 

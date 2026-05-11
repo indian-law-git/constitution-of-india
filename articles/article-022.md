@@ -5,8 +5,9 @@ title: "Protection against arrest and detention in certain, cases"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -23,13 +24,19 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (b) to any person who is arrested or detained under any law providing for preventive detention.
 
-(4) No law providing for preventive detention shall authorise the detention of a person for a longer period than three months unless —
+(4) No law providing for preventive detention shall authorise the detention of a person for a longer period than two months unless an Advisory Board constituted in accordance with the recommendations of the Chief Justice of the appropriate High Court has reported before the expiration of the said period of two months that there is in its opinion sufficient cause for such detention:
 
-(a) an Advisory Board consisting of persons who are, or have been, or are qualified to be appointed as, Judges of a High Court has reported before the expiration of the said period of three months that there is in its opinion sufficient cause for such detention:
+Provided that an Advisory Board shall consist of a Chairman and not less than two other members, and the Chairman shall be a serving Judge of the appropriate High Court and the other members shall be serving or retired Judges of any High Court:
 
-Provided that nothing in this sub-clause shall authorise the detention of any person beyond the maximum period prescribed by any law made by Parliament under sub-clause (b) of clause (7); or
+Provided further that nothing in this clause shall authorise the detention of any person beyond the maximum period prescribed by any law made by Parliament under sub-clause (a) of clause (7).
 
-(b) such person is detained in accordance with the provisions of any law made by Parliament under sub-clauses (a) and (b) of clause (7).
+*Explanation.*—In this clause, "appropriate High Court" means,—
+
+(i) in the case of the detention of a person in pursuance of an order of detention made by the Government of India or an officer or authority subordinate to that Government, the High Court for the Union territory of Delhi;
+
+(ii) in the case of the detention of a person in pursuance of an order of detention made by the Government of any State (other than a Union territory), the High Court for that State; and
+
+(iii) in the case of the detention of a person in pursuance of an order of detention made by the administrator of a Union territory or an officer or authority subordinate to such administrator, such High Court as may be specified by or under any law made by Parliament in this behalf.
 
 (5) When any person is detained in pursuance of an order made under any law providing for preventive detention, the authority making the order shall, as soon as may be, communicate to such person the grounds on which the order has been made and shall afford him the earliest opportunity of making a representation against the order.
 
@@ -37,6 +44,6 @@ Provided that nothing in this sub-clause shall authorise the detention of any pe
 
 (7) Parliament may by law prescribe—
 
-(a) the circumstances under which, and the class or classes of cases in which, a person may be detained for a period longer than three months under any law providing for preventive detention without obtaining the opinion of an Advisory Board in accordance with the provisions of sub-clause (a) of clause (4);
-(b) the maximum period for which any person may in any class or classes of cases be detained under any law providing for preventive detention; and
-(c) the procedure to be followed by an Advisory Board in an inquiry under sub-clause (a) of clause (4).
+(a) the maximum period for which any person may in any class or classes of cases be detained under any law providing for preventive detention; and
+
+(b) the procedure to be followed by an Advisory Board in an inquiry under clause (4).

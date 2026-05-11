@@ -8,7 +8,8 @@ repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 ---
 
 # Part IV — Directive Principles of State Policy

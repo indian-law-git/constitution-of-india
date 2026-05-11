@@ -7,14 +7,15 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 172. Duration of State Legislature
 
-(1) Every Legislative Assembly of every State, unless sooner dissolved, shall continue for six years from the date appointed for its first meeting and no longer and the expiration of the said period of six years shall operate as a dissolution of the Assembly:
+(1) Every Legislative Assembly of every State, unless sooner dissolved, shall continue for five years from the date appointed for its first meeting and no longer and the expiration of the said period of five years shall operate as a dissolution of the Assembly:
 
 Provided that the said period may, while a Proclamation of Emergency is in operation, be extended by Parliament by law for a period not exceeding one year at a time and not extending in any case beyond a period of six months after the Proclamation has ceased to operate.
 

@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -20,6 +21,8 @@ The Chairman or Speaker, or person acting as such, shall not vote in the first i
 
 (2) Either House of Parliament shall have power to act notwithstanding any vacancy in the membership thereof, and any proceedings in Parliament shall be valid notwithstanding that it is discovered subsequently that some person who was not entitled so to do sat or voted or otherwise took part in the proceedings.
 
-*(3) [Omitted by the Constitution (Forty-second Amendment) Act, 1976, s. 18.]*
+(3) Until Parliament by law otherwise provides, the quorum to constitute a meeting of either House of Parliament shall be one-tenth of the total number of members of the House.
 
-*(4) [Omitted by the Constitution (Forty-second Amendment) Act, 1976, s. 18.]*
+(4) If at any time during a meeting of a House there is no quorum, it shall be the duty of the Chairman or Speaker, or person acting as such, either to adjourn the House or to suspend the meeting until there is a quorum.
+
+*[Note: 42A §18 had omitted clauses (3) and (4) but was never brought into force; 44A §45 retroactively omitted 42A §18 from the 1976 Act, restoring these clauses.]*

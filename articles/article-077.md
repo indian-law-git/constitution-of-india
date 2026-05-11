@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -20,4 +21,4 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (3) The President shall make rules for the more convenient transaction of the business of the Government of India, and for the allocation among Ministers of the said business.
 
-(4) No court or other authority shall be entitled to require the production of any rules made under clause (3) for the more convenient transaction of the business of the Government of India.
+*(4) [Omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 12. The clause (a 42A insertion) had immunised rules made under clause (3) from court production.]*

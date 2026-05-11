@@ -7,14 +7,15 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 118. Rules of procedure
 
-(1) Each House of Parliament may make rules for regulating, subject to the provisions of this Constitution, its procedure (including the quorum to constitute a meeting of the House) and the conduct of its business.
+(1) Each House of Parliament may make rules for regulating, subject to the provisions of this Constitution, its procedure and the conduct of its business.
 
 (2) Until rules are made under clause (1), the rules of procedure and standing orders in force immediately before the commencement of this Constitution with respect to the Legislature of the Dominion of India shall have effect in relation to Parliament subject to such modifications and adaptations as may be made therein by the Chairman of the Council of States or the Speaker of the House of the People, as the case may be.
 

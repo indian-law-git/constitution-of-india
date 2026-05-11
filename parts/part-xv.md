@@ -9,7 +9,8 @@ amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Nineteenth Amendment) Act, 1966"
   - "The Constitution (Thirty-ninth Amendment) Act, 1975"
-current_as_of: "1975-08-10"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 ---
 
 # Part XV — Elections

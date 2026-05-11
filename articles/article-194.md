@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -18,6 +19,6 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (2) No member of the Legislature of a State shall be liable to any proceedings in any court in respect of anything said or any vote given by him in the Legislature or any committee thereof, and no person shall be so liable in respect of the publication by or under the authority of a House of such a Legislature of any report, paper, votes or proceedings.
 
-(3) In other respects, the powers, privileges and immunities of a House of the Legislature of a State, and of the members and the committees of a House of such Legislature, shall be those of that House, and of its members and Committees, at the commencement of section 34 of the Constitution (Forty-second Amendment) Act, 1976, and as may be evolved by such House of the Legislature of a State, so far as may be, in accordance with those of the House of the People, and of its members and committees where such House is the Legislative Assembly and in accordance with those of the Council of States, and of its members and committees where such House is the Legislative Council.
+(3) In other respects, the powers, privileges and immunities of a House of the Legislature of a State, and of the members and the committees of a House of such Legislature, shall be those of that House and of its members and committees immediately before the coming into force of section 26 of the Constitution (Forty-fourth Amendment) Act, 1978, and as may be evolved by such House of the Legislature of a State, so far as may be, in accordance with those of the House of the People, and of its members and committees where such House is the Legislative Assembly and in accordance with those of the Council of States, and of its members and committees where such House is the Legislative Council.
 
 (4) The provisions of clauses (1), (2) and (3) shall apply in relation to persons who by virtue of this Constitution have the right to speak in, and otherwise to take part in the proceedings of, a House of the Legislature of a State or any committee thereof as they apply in relation to members of that Legislature.

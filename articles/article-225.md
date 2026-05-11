@@ -7,13 +7,14 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 225. Jurisdiction of existing High Courts
 
-Subject to the provisions of this Constitution and to the provisions of any law of the appropriate Legislature made by virtue of powers conferred on that Legislature by this Constitution, the jurisdiction of, and the law administered in, any existing High Court, and the respective powers of the Judges thereof in relation to the administration of justice in the Court, including any power to make rules of Court and to regulate the sittings of the Court and of members thereof sitting alone or in Division Courts, shall be the same as immediately before the commencement of this Constitution.
+Subject to the provisions of this Constitution and to the provisions of any law of the appropriate Legislature made by virtue of powers conferred on that Legislature by this Constitution, the jurisdiction of, and the law administered in, any existing High Court, and the respective powers of the Judges thereof in relation to the administration of justice in the Court, including any power to make rules of Court and to regulate the sittings of the Court and of members thereof sitting alone or in Division Courts, shall be the same as immediately before the commencement of this Constitution:
 
-*[Proviso omitted by the Constitution (Forty-second Amendment) Act, 1976, s. 37.]*
+Provided that any restriction to which the exercise of original jurisdiction by any of the High Courts with respect to any matter concerning the revenue or concerning any act ordered or done in the collection thereof was subject immediately before the commencement of this Constitution shall no longer apply to the exercise of such jurisdiction.

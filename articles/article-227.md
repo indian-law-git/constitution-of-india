@@ -7,14 +7,15 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 227. Power of superintendence over all courts by the High Court
 
-(1) Every High Court shall have superintendence over all courts subject to its appellate jurisdiction.
+(1) Every High Court shall have superintendence over all courts and tribunals throughout the territories in relation to which it exercises jurisdiction.
 
 (2) Without prejudice to the generality of the foregoing provision, the High Court may—
 
@@ -30,4 +31,4 @@ Provided that any rules made, forms prescribed or tables settled under clause (2
 
 (4) Nothing in this article shall be deemed to confer on a High Court powers of superintendence over any court or tribunal constituted by or under any law relating to the Armed Forces.
 
-(5) Nothing in this article shall be construed as giving to a High Court any jurisdiction to question any judgment of any inferior court which is not otherwise subject to appeal or revision.
+*(5) [Omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 31. The clause (a 42A insertion) had barred HC superintendence from questioning judgments of inferior courts not subject to appeal or revision.]*

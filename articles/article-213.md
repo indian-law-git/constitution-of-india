@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Thirty-eighth Amendment) Act, 1975"
-current_as_of: "1975-08-01"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -36,4 +37,4 @@ Provided that the Governor shall not, without instructions from the President, p
 
 Provided that, for the purposes of the provisions of this Constitution relating to the effect of an Act of the Legislature of a State which is repugnant to an Act of Parliament or an existing law with respect to a matter enumerated in the Concurrent List, an Ordinance promulgated under this article in pursuance of instructions from the President shall be deemed to be an Act of the Legislature of the State which has been reserved for the consideration of the President and assented to by him.
 
-(4) Notwithstanding anything in this Constitution, the satisfaction of the Governor mentioned in clause (1) shall be final and conclusive and shall not be questioned in any court on any ground.
+*(4) [Omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 27. The clause (a 38A insertion) had immunised the Governor's satisfaction from judicial review.]*

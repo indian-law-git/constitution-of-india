@@ -7,14 +7,15 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Thirtieth Amendment) Act, 1972"
-current_as_of: "1973-02-22"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 133. Appellate jurisdiction of Supreme Court in appeals from High Courts in regard to civil matters
 
-(1) An appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court in the territory of India if the High Court certifies—
+(1) An appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court in the territory of India if the High Court certifies under article 134A—
 
 (a) that the case involves a substantial question of law of general importance; and
 

@@ -5,8 +5,9 @@ title: "Appellate jurisdiction of Supreme Court in regard to criminal matters"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -19,7 +20,7 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (b) has withdrawn for trial before itself any case from any court subordinate to its authority and has in such trial convicted the accused person and sentenced him to death; or
 
-(c) certifies that the case is a fit one for appeal to the Supreme Court:
+(c) certifies under article 134A that the case is a fit one for appeal to the Supreme Court:
 
 Provided that an appeal under sub-clause (c) shall lie subject to such provisions as may be made in that behalf under clause (1) of article 145 and to such conditions as the High Court may establish or require.
 

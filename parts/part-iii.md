@@ -14,12 +14,13 @@ amended_by:
   - "The Constitution (Twenty-fifth Amendment) Act, 1971"
   - "The Constitution (Forty-second Amendment) Act, 1976"
   - "The Constitution (Forty-third Amendment) Act, 1977"
-current_as_of: "1978-04-13"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 ---
 
 # Part III — Fundamental Rights
 
-This Part contains Articles 12 through 35 (with 31A, 31B, 31C, 31D, 32A inserted by later amendments). See individual article files in `articles/`.
+This Part contains Articles 12 through 35 (with 31A, 31B, 31C inserted by later amendments). Articles 31, 31D, 32A have been omitted. See individual article files in `articles/`.
 
 Sub-headings within this Part (in textual order):
 
@@ -28,6 +29,6 @@ Sub-headings within this Part (in textual order):
 - Right against Exploitation (before article 23)
 - Right to Freedom of Religion (before article 25)
 - Cultural and Educational Rights (before article 29)
-- Right to Property (before article 31)
-- Saving of Certain Laws (inserted by 42A §3, after article 31; covers 31A, 31B, 31C, 31D)
+- *[Right to Property sub-heading (formerly before article 31) — omitted by 44A §5]*
+- Saving of Certain Laws (inserted by 42A §3, after article 31; covers 31A, 31B, 31C)
 - Right to Constitutional Remedies (before article 32)

@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -20,4 +21,4 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (3) The Governor shall make rules for the more convenient transaction of the business of the Government of the State, and for the allocation among Ministers of the said business in so far as it is not business with respect to which the Governor is by or under this Constitution required to act in his discretion.
 
-(4) No court or other authority shall be entitled to require the production of any rules made under clause (3) for the more convenient transaction of the business of the Government of the State.
+*(4) [Omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 23. The clause (a 42A insertion) had immunised rules made under clause (3) from court production.]*

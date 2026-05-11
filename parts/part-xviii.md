@@ -9,7 +9,8 @@ amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Thirty-eighth Amendment) Act, 1975"
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 ---
 
 # Part XVIII — Emergency Provisions

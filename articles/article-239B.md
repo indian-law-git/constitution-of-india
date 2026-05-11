@@ -8,7 +8,8 @@ repealed_by: null
 amended_by:
   - "The Constitution (Twenty-seventh Amendment) Act, 1971"
   - "The Constitution (Thirty-eighth Amendment) Act, 1975"
-current_as_of: "1975-08-01"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/5eecdd73586cdaabe3ffc54ed2ab10f8.pdf"
 ---
@@ -29,4 +30,4 @@ Provided further that whenever the said Legislature is dissolved, or its functio
 
 (3) If and so far as an Ordinance under this article makes any provision which would not be valid if enacted in an Act of the Legislature of the Union territory made after complying with the provisions in that behalf contained in any such law as is referred to in clause (1) of article 239A, it shall be void.
 
-(4) Notwithstanding anything in this Constitution, the satisfaction of the administrator mentioned in clause (1) shall be final and conclusive and shall not be questioned in any court on any ground.
+*(4) [Omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 32. The clause (a 38A insertion) had immunised the administrator's satisfaction from judicial review.]*

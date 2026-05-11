@@ -10,7 +10,8 @@ amended_by:
   - "The Constitution (Fourth Amendment) Act, 1955"
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Seventeenth Amendment) Act, 1964"
-current_as_of: "1964-06-20"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
@@ -29,7 +30,7 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d68
 
 (e) the extinguishment or modification of any rights accruing by virtue of any agreement, lease or licence for the purpose of searching for, or winning, any mineral or mineral oil, or the premature termination or cancellation of any such agreement, lease or licence,
 
-shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by article 14, article 19 or article 31:
+shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by article 14 or article 19:
 
 Provided that where such law is a law made by the Legislature of a State, the provisions of this article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent:
 

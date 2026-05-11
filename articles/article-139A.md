@@ -7,13 +7,16 @@ inserted_by: "The Constitution (Forty-second Amendment) Act, 1976"
 repealed_by: null
 amended_by:
   - "The Constitution (Forty-second Amendment) Act, 1976"
-current_as_of: "1976-12-18"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/a9a6ff5abe015dc06b265ecc9485f7a7.pdf"
 ---
 
 # Article 139A. Transfer of certain cases
 
-(1) If, on an application made by the Attorney-General of India, the Supreme Court is satisfied that cases involving the same or substantially the same questions of law are pending before it and one or more High Courts or before two or more High Courts and that such questions are substantial questions of general importance, the Supreme Court may withdraw the case or cases pending before the High Court or the High Courts and dispose of all the cases itself.
+(1) Where cases involving the same or substantially the same questions of law are pending before the Supreme Court and one or more High Courts or before two or more High Courts and the Supreme Court is satisfied on its own motion or on an application made by the Attorney-General of India or by a party to any such case that such questions are substantial questions of general importance, the Supreme Court may withdraw the case or cases pending before the High Court or the High Courts and dispose of all the cases itself:
+
+Provided that the Supreme Court may after determining the said questions of law return any case so withdrawn together with a copy of its judgment on such questions to the High Court from which the case has been withdrawn, and the High Court shall on receipt thereof, proceed to dispose of the case in conformity with such judgment.
 
 (2) The Supreme Court may, if it deems it expedient so to do for the ends of justice, transfer any case, appeal or other proceedings pending before any High Court to any other High Court.

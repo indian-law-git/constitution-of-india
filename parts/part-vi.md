@@ -14,7 +14,8 @@ amended_by:
   - "The Constitution (Thirty-eighth Amendment) Act, 1975"
   - "The Constitution (Forty-second Amendment) Act, 1976"
   - "The Constitution (Forty-third Amendment) Act, 1977"
-current_as_of: "1978-04-13"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 ---
 
 # Part VI — The States

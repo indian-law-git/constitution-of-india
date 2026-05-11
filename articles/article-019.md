@@ -8,7 +8,8 @@ repealed_by: null
 amended_by:
   - "The Constitution (First Amendment) Act, 1951"
   - "The Constitution (Sixteenth Amendment) Act, 1963"
-current_as_of: "1963-10-05"
+  - "The Constitution (Forty-fourth Amendment) Act, 1978"
+current_as_of: "1979-04-30"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -25,9 +26,9 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (d) to move freely throughout the territory of India;
 
-(e) to reside and settle in any part of the territory of India;
+(e) to reside and settle in any part of the territory of India; and
 
-(f) to acquire, hold and dispose of property; and
+*(f) [Omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 2. The right to property as a fundamental right was relocated as a legal right to article 300A under the new Chapter IV of Part XII.]*
 
 (g) to practise any profession, or to carry on any occupation, trade or business.
 
@@ -37,7 +38,7 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (4) Nothing in sub-clause (c) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the sovereignty and integrity of India or public order or morality, reasonable restrictions on the exercise of the right conferred by the said sub-clause.
 
-(5) Nothing in sub-clauses (d), (e) and (f) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, reasonable restrictions on the exercise of any of the rights conferred by the said sub-clauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe.
+(5) Nothing in sub-clauses (d) and (e) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, reasonable restrictions on the exercise of any of the rights conferred by the said sub-clauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe.
 
 (6) Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular, nothing in the said sub-clause shall affect the operation of any existing law in so far as it relates to, or prevent the State from making any law relating to —
 
