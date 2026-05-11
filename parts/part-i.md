@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Eighteenth Amendment) Act, 1966"
+current_as_of: "1966-08-27"
 ---
 
 # Part I — The Union and its territory
