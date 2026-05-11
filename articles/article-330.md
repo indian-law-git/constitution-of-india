@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Twenty-third Amendment) Act, 1969"
+current_as_of: "1970-01-23"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -18,7 +19,7 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (a) the Scheduled Castes;
 
-(b) the Scheduled Tribes except the Scheduled Tribes in the tribal areas of Assam; and
+(b) the Scheduled Tribes except the Scheduled Tribes in the tribal areas of Assam and in Nagaland; and
 
 (c) the Scheduled Tribes in the autonomous districts of Assam.
 

@@ -8,7 +8,8 @@ repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Eighth Amendment) Act, 1959"
-current_as_of: "1960-01-05"
+  - "The Constitution (Twenty-third Amendment) Act, 1969"
+current_as_of: "1970-01-23"
 ---
 
 # Part XVI — Special Provisions relating to certain Classes
