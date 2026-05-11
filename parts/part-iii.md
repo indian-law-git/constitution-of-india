@@ -1,7 +1,7 @@
 ---
 part: III
 title: "Fundamental Rights"
-articles: [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, "31A", "31B", 32, 33, 34, 35]
+articles: [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, "31A", "31B", "31C", 32, 33, 34, 35]
 status: active
 inserted_by: original
 repealed_by: null
@@ -11,7 +11,8 @@ amended_by:
   - "The Constitution (Sixteenth Amendment) Act, 1963"
   - "The Constitution (Seventeenth Amendment) Act, 1964"
   - "The Constitution (Twenty-fourth Amendment) Act, 1971"
-current_as_of: "1971-11-05"
+  - "The Constitution (Twenty-fifth Amendment) Act, 1971"
+current_as_of: "1972-04-20"
 ---
 
 # Part III — Fundamental Rights
