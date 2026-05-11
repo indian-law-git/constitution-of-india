@@ -11,7 +11,8 @@ amended_by:
   - "The Constitution (Sixteenth Amendment) Act, 1963"
   - "The Constitution (Twentieth Amendment) Act, 1966"
   - "The Constitution (Thirty-third Amendment) Act, 1974"
-current_as_of: "1974-05-19"
+  - "The Constitution (Thirty-eighth Amendment) Act, 1975"
+current_as_of: "1975-08-01"
 ---
 
 # Part VI — The States

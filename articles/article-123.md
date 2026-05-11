@@ -5,8 +5,9 @@ title: "Power of President to promulgate Ordinances during recess of Parliament"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Thirty-eighth Amendment) Act, 1975"
+current_as_of: "1975-08-01"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -24,3 +25,5 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 Explanation.—Where the Houses of Parliament are summoned to reassemble on different dates, the period of six weeks shall be reckoned from the later of those dates for the purposes of this clause.
 
 (3) If and so far as an Ordinance under this article makes any provision which Parliament would not under this Constitution be competent to enact, it shall be void.
+
+(4) Notwithstanding anything in this Constitution, the satisfaction of the President mentioned in clause (1) shall be final and conclusive and shall not be questioned in any court on any ground.

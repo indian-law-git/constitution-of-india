@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Thirty-eighth Amendment) Act, 1975"
+current_as_of: "1975-08-01"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -35,3 +36,5 @@ Provided that if any such Proclamation (not being a Proclamation revoking a prev
 Provided that if and so often as a resolution approving the continuance in force of such a Proclamation is passed by both Houses of Parliament, the Proclamation shall, unless revoked, continue in force for a further period of six months from the date on which under this clause it would otherwise have ceased to operate, but no such Proclamation shall in any case remain in force for more than three years:
 
 Provided further that if the dissolution of the House of the People takes place during any such period of six months and a resolution approving the continuance in force of such Proclamation has been passed by the Council of States, but no resolution with respect to the continuance in force of such Proclamation has been passed by the House of the People during the said period, the Proclamation shall cease to operate at the expiration of thirty days from the date on which the House of the People first sits after its reconstitution unless before the expiration of the said period of thirty days a resolution approving the continuance in force of the Proclamation has been also passed by the House of the People.
+
+(5) Notwithstanding anything in this Constitution, the satisfaction of the President mentioned in clause (1) shall be final and conclusive and shall not be questioned in any court on any ground.

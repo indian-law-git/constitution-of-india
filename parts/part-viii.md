@@ -12,7 +12,8 @@ amended_by:
   - "The Constitution (Fourteenth Amendment) Act, 1962"
   - "The Constitution (Twenty-seventh Amendment) Act, 1971"
   - "The Constitution (Thirty-seventh Amendment) Act, 1975"
-current_as_of: "1975-05-03"
+  - "The Constitution (Thirty-eighth Amendment) Act, 1975"
+current_as_of: "1975-08-01"
 ---
 
 # Part VIII — The Union Territories

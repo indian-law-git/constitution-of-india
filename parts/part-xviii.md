@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Thirty-eighth Amendment) Act, 1975"
+current_as_of: "1975-08-01"
 ---
 
 # Part XVIII — Emergency Provisions

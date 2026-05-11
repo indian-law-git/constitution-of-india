@@ -5,8 +5,9 @@ title: "Power of Governor to promulgate Ordinances during recess of Legislature"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Thirty-eighth Amendment) Act, 1975"
+current_as_of: "1975-08-01"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -34,3 +35,5 @@ Provided that the Governor shall not, without instructions from the President, p
 (3) If and so far as an Ordinance under this article makes any provision which would not be valid if enacted in an Act of the Legislature of the State assented to by the Governor, it shall be void:
 
 Provided that, for the purposes of the provisions of this Constitution relating to the effect of an Act of the Legislature of a State which is repugnant to an Act of Parliament or an existing law with respect to a matter enumerated in the Concurrent List, an Ordinance promulgated under this article in pursuance of instructions from the President shall be deemed to be an Act of the Legislature of the State which has been reserved for the consideration of the President and assented to by him.
+
+(4) Notwithstanding anything in this Constitution, the satisfaction of the Governor mentioned in clause (1) shall be final and conclusive and shall not be questioned in any court on any ground.

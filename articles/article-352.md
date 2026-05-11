@@ -5,8 +5,9 @@ title: "Proclamation of Emergency"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Thirty-eighth Amendment) Act, 1975"
+current_as_of: "1975-08-01"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -26,3 +27,15 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 Provided that if any such Proclamation is issued at a time when the House of the People has been dissolved or the dissolution of the House of the People takes place during the period of two months referred to in sub-clause (c), and if a resolution approving the Proclamation has been passed by the Council of States, but no resolution with respect to such Proclamation has been passed by the House of the People before the expiration of that period, the Proclamation shall cease to operate at the expiration of thirty days from the date on which the House of the People first sits after its reconstitution unless before the expiration of the said period of thirty days a resolution approving the Proclamation has been also passed by the House of the People.
 
 (3) A Proclamation of Emergency declaring that the security of India or of any part of the territory thereof is threatened by war or by external aggression or by internal disturbance may be made before the actual occurrence of war or of any such aggression or disturbance if the President is satisfied that there is imminent danger thereof.
+
+(4) The power conferred on the President by this article shall include the power to issue different Proclamations on different grounds, being war or external aggression or internal disturbance or imminent danger of war or external aggression or internal disturbance, whether or not there is a Proclamation already issued by the President under clause (1) and such Proclamation is in operation.
+
+(5) Notwithstanding anything in this Constitution,—
+
+(a) the satisfaction of the President mentioned in clause (1) and clause (3) shall be final and conclusive and shall not be questioned in any court on any ground;
+
+(b) subject to the provisions of clause (2), neither the Supreme Court nor any other court shall have jurisdiction to entertain any question, on any ground, regarding the validity of—
+
+(i) a declaration made by Proclamation by the President to the effect stated in clause (1); or
+
+(ii) the continued operation of such Proclamation.
