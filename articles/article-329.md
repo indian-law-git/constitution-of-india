@@ -5,15 +5,16 @@ title: "Bar to interference by courts in electoral matters"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Thirty-ninth Amendment) Act, 1975"
+current_as_of: "1975-08-10"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
 
 # Article 329. Bar to interference by courts in electoral matters
 
-Notwithstanding anything in this Constitution—
+Notwithstanding anything in this Constitution but subject to the provisions of article 329A—
 
 (a) the validity of any law relating to the delimitation of constituencies or the allotment of seats to such constituencies, made or purporting to be made under article 327 or article 328, shall not be called in question in any court;
 
