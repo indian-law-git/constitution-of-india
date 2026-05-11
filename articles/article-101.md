@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Thirty-third Amendment) Act, 1974"
+current_as_of: "1974-05-19"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -22,8 +23,10 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (a) becomes subject to any of the disqualifications mentioned in clause (1) of article 102, or
 
-(b) resigns his seat by writing under his hand addressed to the Chairman or the Speaker, as the case may be,
+(b) resigns his seat by writing under his hand addressed to the Chairman or the Speaker, as the case may be, and his resignation is accepted by the Chairman or the Speaker, as the case may be,
 
-his seat shall thereupon become vacant.
+his seat shall thereupon become vacant:
+
+Provided that in the case of any resignation referred to in sub-clause (b), if from information received or otherwise and after making such inquiry as he thinks fit, the Chairman or the Speaker, as the case may be, is satisfied that such resignation is not voluntary or genuine, he shall not accept such resignation.
 (4) If for a period of sixty days a member of either House of Parliament is without permission of the House absent from all meetings thereof, the House may declare his seat vacant:
 Provided that in computing the said period of sixty days no account shall be taken of any period during which the House is prorogued or is adjourned for more than four consecutive days.
