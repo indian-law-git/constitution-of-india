@@ -5,8 +5,9 @@ title: "Manner of election of President"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Forty-second Amendment) Act, 1976"
+current_as_of: "1976-12-18"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -25,4 +26,6 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (3) The election of the President shall be held in accordance with the system of proportional representation by means of the single transferable vote and the voting at such election shall be by secret ballot.
 
-Explanation. — In this article, the expression “population” means the population as ascertained at the last preceding census of which the relevant figures have been published.
+*Explanation.* — In this article, the expression "population" means the population as ascertained at the last preceding census of which the relevant figures have been published:
+
+Provided that the reference in this Explanation to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year 2000 have been published, be construed as a reference to the 1971 census.

@@ -12,7 +12,8 @@ amended_by:
   - "The Constitution (Thirty-first Amendment) Act, 1973"
   - "The Constitution (Thirty-fifth Amendment) Act, 1974"
   - "The Constitution (Thirty-sixth Amendment) Act, 1975"
-current_as_of: "1975-05-16"
+  - "The Constitution (Forty-second Amendment) Act, 1976"
+current_as_of: "1976-12-18"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
@@ -33,4 +34,6 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d68
 
 Provided that the provisions of sub-clause (a) of this clause shall not be applicable for the purpose of allotment of seats in the House of the People to any State so long as the population of that State does not exceed six millions.
 
-(3) In this article, the expression "population" means the population as ascertained at the last preceding census of which the relevant figures have been published.
+(3) In this article, the expression "population" means the population as ascertained at the last preceding census of which the relevant figures have been published:
+
+Provided that the reference in this clause to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year 2000 have been published, be construed as a reference to the 1971 census.

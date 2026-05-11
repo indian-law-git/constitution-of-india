@@ -8,7 +8,8 @@ repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Twenty-sixth Amendment) Act, 1971"
-current_as_of: "1971-12-28"
+  - "The Constitution (Forty-second Amendment) Act, 1976"
+current_as_of: "1976-12-18"
 ---
 
 # Part XIX — Miscellaneous

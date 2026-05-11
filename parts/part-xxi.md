@@ -12,7 +12,8 @@ amended_by:
   - "The Constitution (Twenty-seventh Amendment) Act, 1971"
   - "The Constitution (Thirty-second Amendment) Act, 1973"
   - "The Constitution (Thirty-sixth Amendment) Act, 1975"
-current_as_of: "1975-05-16"
+  - "The Constitution (Forty-second Amendment) Act, 1976"
+current_as_of: "1976-12-18"
 ---
 
 # Part XXI — Temporary, Transitional and Special Provisions

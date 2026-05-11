@@ -8,7 +8,8 @@ repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Twenty-sixth Amendment) Act, 1971"
-current_as_of: "1971-12-28"
+  - "The Constitution (Forty-second Amendment) Act, 1976"
+current_as_of: "1976-12-18"
 source: mixed
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -24,6 +25,8 @@ In this Constitution, unless the context otherwise requires, the following expre
 (3) “article” means an article of this Constitution;
 
 (4) “borrow” includes the raising of money by the grant of annuities, and “loan” shall be construed accordingly;
+
+(4A) "Central law" means any law other than a State law but does not include any amendment of this Constitution made under article 368;
 
 (5) “clause” means a clause of the article in which the expression occurs;
 
@@ -82,6 +85,22 @@ In this Constitution, unless the context otherwise requires, the following expre
 (25) "Scheduled Tribes" means such tribes or tribal communities or parts of or groups within such tribes or tribal communities as are deemed under article 342 to be Scheduled Tribes for the purposes of this Constitution;
 
 (26) "securities" includes stock;
+
+(26A) "State law" means—
+
+(a) a State Act or an Act of the Legislature of a Union territory;
+
+(b) an Ordinance promulgated by the Governor of a State under article 213 or by the administrator of a Union territory under article 239B;
+
+(c) any provision with respect to a matter in the State List in a Central Act made before the commencement of this Constitution;
+
+(d) any provision with respect to a matter in the State List or the Concurrent List in a Provincial Act;
+
+(e) any notification, order, scheme, rule, regulation or bye-law or any other instrument having the force of law made under any Act, Ordinance or provisions referred to in sub-clause (a), sub-clause (b), sub-clause (c) or sub-clause (d);
+
+(f) any notification, order, scheme, rule, regulation or bye-law or any other instrument having the force of law, not falling under sub-clause (e), and made by a State Government or the administrator of a Union territory or an officer or authority subordinate to such Government or administrator; and
+
+(g) any other law (including any usage or custom having the force of law) with respect to a matter in the State List;
 
 (27) "sub-clause" means a sub-clause of the clause in which the expression occurs;
 

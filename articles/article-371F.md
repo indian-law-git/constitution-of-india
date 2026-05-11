@@ -7,7 +7,8 @@ inserted_by: "The Constitution (Thirty-sixth Amendment) Act, 1975"
 repealed_by: null
 amended_by:
   - "The Constitution (Thirty-sixth Amendment) Act, 1975"
-current_as_of: "1975-05-16"
+  - "The Constitution (Forty-second Amendment) Act, 1976"
+current_as_of: "1976-12-18"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/2a875dab390ddae1419f7f050ccd6ed0.pdf"
 ---
@@ -26,7 +27,7 @@ Notwithstanding anything in this Constitution,—
 
 (iii) the said Legislative Assembly of the State of Sikkim shall exercise the powers and perform the functions of the Legislative Assembly of a State under this Constitution;
 
-(c) in the case of the Assembly deemed to be the Legislative Assembly of the State of Sikkim under clause (b), the references to the period of five years in clause (1) of article 172 shall be construed as references to a period of four years and the said period of four years shall be deemed to commence from the appointed day;
+(c) in the case of the Assembly deemed to be the Legislative Assembly of the State of Sikkim under clause (b), the references to the period of six years in clause (1) of article 172 shall be construed as references to a period of five years and the said period of five years shall be deemed to commence from the appointed day;
 
 (d) until other provisions are made by Parliament by law, there shall be allotted to the State of Sikkim one seat in the House of the People and the State of Sikkim shall form one parliamentary constituency to be called the parliamentary constituency for Sikkim;
 

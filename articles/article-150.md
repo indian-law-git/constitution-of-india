@@ -1,16 +1,17 @@
 ---
 article: 150
 part: V
-title: "Power of Comptroller and Auditor-General to give directions as to accounts."
+title: "Form of accounts of the Union and of the States"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
-source: clpr
-source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
+amended_by:
+  - "The Constitution (Forty-second Amendment) Act, 1976"
+current_as_of: "1976-12-18"
+source: legislative-gov-in
+source_url: "https://www.legislative.gov.in/static/uploads/2025/07/a9a6ff5abe015dc06b265ecc9485f7a7.pdf"
 ---
 
-# Article 150. Power of Comptroller and Auditor-General to give directions as to accounts.
+# Article 150. Form of accounts of the Union and of the States
 
-The accounts of the Union and of the States shall be kept in such form as the Comptroller and Auditor-General of India may, with the approval of the President, prescribe.
+The accounts of the Union and of the States shall be kept in such form as the President may, after consultation with the Comptroller and Auditor-General of India, prescribe.

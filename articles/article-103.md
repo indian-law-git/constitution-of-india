@@ -1,18 +1,25 @@
 ---
 article: 103
 part: V
-title: "Decision on questions as to disqualifications of members"
+title: "Decision on questions as to disqualification"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
-source: clpr
-source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
+amended_by:
+  - "The Constitution (Forty-second Amendment) Act, 1976"
+current_as_of: "1976-12-18"
+source: legislative-gov-in
+source_url: "https://www.legislative.gov.in/static/uploads/2025/07/a9a6ff5abe015dc06b265ecc9485f7a7.pdf"
 ---
 
-# Article 103. Decision on questions as to disqualifications of members
+# Article 103. Decision on questions as to disqualification
 
-(1) If any question arises as to whether a member of either House of Parliament has become subject to any of the disqualifications mentioned in clause (1) of article 102, the question shall be referred for the decision of the President and his decision shall be final.
+(1) If any question arises—
 
-(2) Before giving any decision on any such question, the President shall obtain the opinion of the Election Commission and shall act according to such opinion.
+(a) as to whether a member of either House of Parliament has become subject to any of the disqualifications mentioned in clause (1) of article 102, or
+
+(b) as to whether a person, found guilty of a corrupt practice at an election to a House of Parliament under any law made by Parliament, shall be disqualified for being chosen as, and for being, a member of either House of Parliament, or of a House of the Legislature of a State, or as to the period for which he shall be so disqualified, or as to the removal of, or the reduction of the period of, such disqualification,
+
+the question shall be referred for the decision of the President and his decision shall be final.
+
+(2) Before giving any decision on any such question, the President shall consult the Election Commission and the Election Commission may, for this purpose, make such inquiry as it thinks fit.

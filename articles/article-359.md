@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Thirty-eighth Amendment) Act, 1975"
-current_as_of: "1975-08-01"
+  - "The Constitution (Forty-second Amendment) Act, 1976"
+current_as_of: "1976-12-18"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -16,8 +17,12 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (1) Where a Proclamation of Emergency is in operation, the President may by order declare that the right to move any court for the enforcement of such of the rights conferred by Part III as may be mentioned in the order and all proceedings pending in any court for the enforcement of the rights so mentioned shall remain suspended for the period during which the Proclamation is in force or for such shorter period as may be specified in the order.
 
-(1A) While an order made under clause (1) mentioning any of the right conferred by Part III is in operation, nothing in that Part conferring those rights shall restrict the power of the State as defined in the said Part to make any law or to take any executive action which the State would but for the provisions contained in that Part be competent to make or to take, but any law so made shall, to the extent of the incompetency, cease to have effect as soon as the order aforesaid ceases to operate, except as respects things done or omitted to be done before the law so ceases to have effect.
+(1A) While an order made under clause (1) mentioning any of the right conferred by Part III is in operation, nothing in that Part conferring those rights shall restrict the power of the State as defined in the said Part to make any law or to take any executive action which the State would but for the provisions contained in that Part be competent to make or to take, but any law so made shall, to the extent of the incompetency, cease to have effect as soon as the order aforesaid ceases to operate, except as respects things done or omitted to be done before the law so ceases to have effect:
 
-(2) An order made as aforesaid may extend to the whole or any part of the territory of India.
+Provided that where a Proclamation of Emergency is in operation only in any part of the territory of India, any such law may be made, or any such executive action may be taken, under this article in relation to or in any State or Union territory in which or in any part of which the Proclamation of Emergency is not in operation, if and in so far as the security of India or any part of the territory thereof is threatened by activities in or in relation to the part of the territory of India in which the Proclamation of Emergency is in operation.
+
+(2) An order made as aforesaid may extend to the whole or any part of the territory of India:
+
+Provided that where a Proclamation of Emergency is in operation only in a part of the territory of India, any such order shall not extend to any other part of the territory of India unless the President, being satisfied that the security of India or any part of the territory thereof is threatened by activities in or in relation to the part of the territory of India in which the Proclamation of Emergency is in operation, considers such extension to be necessary.
 
 (3) Every order made under clause (1) shall, as soon as may be after it is made, be laid before each House of Parliament.

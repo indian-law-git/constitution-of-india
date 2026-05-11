@@ -5,8 +5,9 @@ title: "Certain principles of policy to be followed by the State"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Forty-second Amendment) Act, 1976"
+current_as_of: "1976-12-18"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -23,4 +24,4 @@ The State shall, in particular, direct its policy towards securing—
 
 (d) that there is equal pay for equal work for both men and women;
 (e) that the health and strength of workers, men and women, and the tender age of children are not abused and that citizens are not forced by economic necessity to enter avocations unsuited to their age or strength;
-(f) that childhood and youth are protected against exploitation and against moral and material abandonment.
+(f) that children are given opportunities and facilities to develop in a healthy manner and in conditions of freedom and dignity and that childhood and youth are protected against exploitation and against moral and material abandonment.

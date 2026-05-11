@@ -8,7 +8,8 @@ repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Fifteenth Amendment) Act, 1963"
-current_as_of: "1963-10-05"
+  - "The Constitution (Forty-second Amendment) Act, 1976"
+current_as_of: "1976-12-18"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -29,11 +30,13 @@ Provided that—
 
 (a) has for at least ten years held a judicial office in the territory of India; or
 
-(b) has for at least ten years been an advocate of a High Court or of two or more such Courts in succession.
+(b) has for at least ten years been an advocate of a High Court or of two or more such Courts in succession; or
+
+(c) is, in the opinion of the President, a distinguished jurist.
 
 Explanation.—For the purposes of this clause—
 
-(a) in computing the period during which a person has been an advocate of a High Court, there shall be included any period during which the person has held judicial office after he became an advocate;
+(a) in computing the period during which a person has been an advocate of a High Court, there shall be included any period during which the person has held judicial office or the office of a member of a tribunal or any post, under the Union or a State, requiring special knowledge of law after he became an advocate;
 
 (b) in computing the period during which a person has held judicial office in the territory of India or been an advocate of a High Court, there shall be included any period before the commencement of this Constitution during which he has held judicial office in any area which was comprised before the fifteenth day of August, 1947, within India as defined by the Government of India Act, 1935, or has been an advocate of any High Court in any such area, as the case may be.
 

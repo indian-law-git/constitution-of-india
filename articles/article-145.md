@@ -5,8 +5,9 @@ title: "Rules of Court, etc"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Forty-second Amendment) Act, 1976"
+current_as_of: "1976-12-18"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -20,6 +21,8 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 (b) rules as to the procedure for hearing appeals and other matters pertaining to appeals including the time within which appeals to the Court are to be entered;
 
 (c) rules as to the proceedings in the Court for the enforcement of any of the rights conferred by Part III;
+
+(cc) rules as to the proceedings in the Court under articles 131A and 139A;
 
 (d) rules as to the entertainment of appeals under sub-clause (c) of clause (1) of article 134;
 
@@ -35,9 +38,9 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 
 (j) rules as to the procedure for inquiries referred to in clause (1) of article 317.
 
-(2) Subject to the provisions of clause (3), rules made under this article may fix the minimum number of Judges who are to sit for any purpose, and may provide for the powers of single Judges and Division Courts.
+(2) Subject to the provisions of article 144A and of clause (3), rules made under this article may fix the minimum number of Judges who are to sit for any purpose, and may provide for the powers of single Judges and Division Courts.
 
-(3) The minimum number of Judges who are to sit for the purpose of deciding any case involving a substantial question of law as to the interpretation of this Constitution or for the purpose of hearing any reference under article 143 shall be five:
+(3) Subject to the provisions of article 144A, the minimum number of Judges who are to sit for the purpose of deciding any case involving a substantial question of law as to the interpretation of this Constitution or for the purpose of hearing any reference under article 143 shall be five:
 
 Provided that, where the Court hearing an appeal under any of the provisions of this Chapter other than article 132 consists of less than five Judges and in the course of the hearing of the appeal the Court is satisfied that the appeal involves a substantial question of law as to the interpretation of this Constitution the determination of which is necessary for the disposal of the appeal, such Court shall refer the question for opinion to a Court constituted as required by this clause for the purpose of deciding any case involving such a question and shall on receipt of the opinion dispose of the appeal in conformity with such opinion.
 
