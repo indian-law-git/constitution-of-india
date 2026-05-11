@@ -9,7 +9,8 @@ amended_by:
   - "The Constitution (First Amendment) Act, 1951"
   - "The Constitution (Fourth Amendment) Act, 1955"
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Seventeenth Amendment) Act, 1964"
+current_as_of: "1964-06-20"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d681944c3218b11ef4d62a.pdf"
 ---
@@ -30,10 +31,18 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/7f6bac8249d68
 
 shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by article 14, article 19 or article 31:
 
-Provided that where such law is a law made by the Legislature of a State, the provisions of this article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent.
+Provided that where such law is a law made by the Legislature of a State, the provisions of this article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent:
+
+Provided further that where any law makes any provision for the acquisition by the State of any estate and where any land comprised therein is held by a person under his personal cultivation, it shall not be lawful for the State to acquire any portion of such land as is within the ceiling limit applicable to him under any law for the time being in force or any building or structure standing thereon or appurtenant thereto, unless the law relating to the acquisition of such land, building or structure, provides for payment of compensation at a rate which shall not be less than the market value thereof.
 
 (2) In this article,—
 
-(a) the expression "estate" shall, in relation to any local area, have the same meaning as that expression or its local equivalent has in the existing law relating to land tenures in force in that area, and shall also include any jagir, inam or muafi or other similar grant, and in the States of Madras and Kerala, any janman right;
+(a) the expression "estate" shall, in relation to any local area, have the same meaning as that expression or its local equivalent has in the existing law relating to land tenures in force in that area and shall also include—
+
+(i) any jagir, inam or muafi or other similar grant and in the States of Madras and Kerala, any janmam right;
+
+(ii) any land held under ryotwari settlement;
+
+(iii) any land held or let for purposes of agriculture or for purposes ancillary thereto, including waste land, forest land, land for pasture or sites of buildings and other structures occupied by cultivators of land, agricultural labourers and village artisans;
 
 (b) the expression "rights", in relation to an estate, shall include any rights vesting in a proprietor, sub-proprietor, under-proprietor, tenure-holder, raiyat, under-raiyat or other intermediary and any rights or privileges in respect of land revenue.
