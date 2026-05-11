@@ -10,7 +10,8 @@ amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
   - "The Constitution (Sixteenth Amendment) Act, 1963"
   - "The Constitution (Seventeenth Amendment) Act, 1964"
-current_as_of: "1964-06-20"
+  - "The Constitution (Twenty-fourth Amendment) Act, 1971"
+current_as_of: "1971-11-05"
 ---
 
 # Part III — Fundamental Rights

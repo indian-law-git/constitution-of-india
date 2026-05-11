@@ -5,8 +5,9 @@ title: "Laws inconsistent with or in derogation of the fundamental rights"
 status: active
 inserted_by: original
 repealed_by: null
-amended_by: []
-current_as_of: "1950-01-26"
+amended_by:
+  - "The Constitution (Twenty-fourth Amendment) Act, 1971"
+current_as_of: "1971-11-05"
 source: clpr
 source_url: "https://www.constitutionofindia.net/constitution/constitution-of-india-1950/"
 ---
@@ -22,3 +23,5 @@ source_url: "https://www.constitutionofindia.net/constitution/constitution-of-in
 (a) “law” includes any Ordinance, order, bye-law, rule, regulation, notification, custom or usage having in the territory of India the force of law;
 
 (b) “laws in force” includes laws passed or made by a Legislature or other competent authority in the territory of India before the commencement of this Constitution and not previously repealed, notwithstanding that any such law or any part thereof may not be then in operation either at all or in particular areas.
+
+(4) Nothing in this article shall apply to any amendment of this Constitution made under article 368.

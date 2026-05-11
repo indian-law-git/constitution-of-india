@@ -7,7 +7,8 @@ inserted_by: original
 repealed_by: null
 amended_by:
   - "The Constitution (Seventh Amendment) Act, 1956"
-current_as_of: "1956-10-19"
+  - "The Constitution (Twenty-fourth Amendment) Act, 1971"
+current_as_of: "1971-11-05"
 ---
 
 # Part XX — Amendment of the Constitution
