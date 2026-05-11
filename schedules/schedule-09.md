@@ -7,7 +7,8 @@ amended_by:
   - "The Constitution (First Amendment) Act, 1951"
   - "The Constitution (Fourth Amendment) Act, 1955"
   - "The Constitution (Seventeenth Amendment) Act, 1964"
-current_as_of: "1964-06-20"
+  - "The Constitution (Twenty-ninth Amendment) Act, 1972"
+current_as_of: "1972-06-09"
 source: legislative-gov-in
 source_url: "https://www.legislative.gov.in/static/uploads/2025/07/68badaa2da25d641c51992f854344773.pdf"
 ---
@@ -143,5 +144,9 @@ source_url: "https://www.legislative.gov.in/static/uploads/2025/07/68badaa2da25d
 63. The Manipur Land Revenue and Land Reforms Act, 1960 (Central Act 33 of 1960).
 
 64. The Tripura Land Revenue and Land Reforms Act, 1960 (Central Act 43 of 1960).
+
+65. The Kerala Land Reforms (Amendment) Act, 1969 (Kerala Act 35 of 1969).
+
+66. The Kerala Land Reforms (Amendment) Act, 1971 (Kerala Act 25 of 1971).
 
 *Explanation.*—Any acquisition made under the Rajasthan Tenancy Act, 1955 (Rajasthan Act III of 1955), in contravention of the second proviso to clause (1) of article 31A shall, to the extent of the contravention, be void.
